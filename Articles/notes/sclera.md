@@ -2,31 +2,49 @@
 
 # Sclera
 
-The **sclera** (from the Greek *skleros*, meaning "hard") is the dense, opaque, fibrous outer coat of the [[eye]] that constitutes approximately five-sixths of the total surface area of the globe. It serves as the principal structural and protective tissue of the eye, maintaining ocular shape, resisting deformation from [[intraocular pressure]] (IOP) and external forces, and providing a stable framework for the attachment of the [[extraocular muscles]]. The sclera is continuous anteriorly with the [[cornea]] at the [[limbus]] and posteriorly with the dural sheath of the [[optic nerve]]. Its clinical significance in optometry and ophthalmology is vast, encompassing a wide spectrum of inflammatory, degenerative, congenital, and neoplastic conditions that can threaten vision and serve as harbingers of systemic disease.
+The **sclera** (from the Greek *skleros*, meaning "hard") is the dense, opaque, fibrous outer coat of the [[Eye]] that constitutes approximately five-sixths of the total surface area of the globe. It serves as the principal structural and protective tissue of the eye, maintaining ocular shape, resisting deformation from [[Intraocular Pressure]] (IOP) and external forces, and providing a stable framework for the attachment of the [[Extraocular Muscles]]. The sclera is continuous anteriorly with the [[Cornea]] at the [[Limbus]] and posteriorly with the dural sheath of the [[Optic Nerve]]. Understanding the anatomy, physiology, pathology, and clinical significance of the sclera is essential for all eye care practitioners, as scleral disease can be a harbinger of serious systemic illness and can threaten vision if not promptly recognized and managed.
+
+---
+
+## Embryology
+
+The sclera is derived primarily from [[Neural Crest]] cells, with a minor contribution from [[Mesoderm]]. During embryonic development, neural crest cells migrate anteriorly and differentiate into the scleral fibroblasts that synthesize the [[Collagen]] and [[Extracellular Matrix]] components of the tissue. Scleral development begins around the seventh week of gestation and proceeds in an anterior-to-posterior direction. The posterior sclera is the last region to fully condense, which has implications for conditions such as [[Posterior Staphyloma]] in [[Pathological Myopia]]. The [[Lamina Cribrosa]], a specialized sieve-like region of the posterior sclera through which [[Retinal Ganglion Cell]] axons exit the eye, is also of neural crest origin and is of critical importance in the pathophysiology of [[Glaucoma]].
 
 ---
 
 ## Gross Anatomy
 
-The sclera forms a roughly spherical shell with an average external diameter of approximately 22–24 mm in the adult human eye. Its thickness varies regionally:
+### Dimensions and Thickness
+
+The sclera is a roughly spherical shell with an average external diameter of approximately 22–24 mm in the adult eye. Its thickness varies considerably by region:
 
 | **Region** | **Approximate Thickness** |
 |---|---|
-| Posterior pole (near [[optic nerve]]) | 1.0–1.35 mm |
-| Equator | 0.4–0.5 mm |
-| Insertion of [[rectus muscles]] | 0.3 mm (thinnest) |
-| [[Limbus]] (corneoscleral junction) | 0.6–0.8 mm |
+| Posterior pole (near [[Optic Nerve]]) | 1.0–1.35 mm |
+| Equator | 0.4–0.6 mm |
+| Insertion of [[Rectus Muscles]] | 0.3 mm (thinnest) |
+| [[Limbus]] (anterior) | 0.6–0.8 mm |
 
-The sclera is thinnest just posterior to the insertions of the [[rectus muscles]], making this region particularly vulnerable to perforation during [[strabismus surgery]] or during scleral buckling procedures. Posteriorly, the sclera is perforated by the [[optic nerve]], forming a sieve-like structure known as the [[lamina cribrosa]], through which the retinal ganglion cell axons pass. The lamina cribrosa is of paramount clinical importance in the pathogenesis of [[glaucoma]], as it represents the primary site of axonal damage in glaucomatous optic neuropathy.
+The thinnest point of the sclera is located just posterior to the insertions of the [[Rectus Muscles]], a fact of significant surgical importance during procedures such as [[Scleral Buckling]] and placement of [[Extraocular Muscle]] sutures.
 
-### Surface Landmarks and Apertures
+### Surface Features
 
-The sclera contains several important apertures and channels:
+- **Anterior Sclera:** Visible as the "white of the eye," covered by the [[Conjunctiva]] and [[Tenon's Capsule]] (episcleral tissue). The anterior sclera transitions into the [[Cornea]] at the [[Limbus]], a zone approximately 1.5–2.0 mm wide that contains the [[Trabecular Meshwork]], [[Schlemm's Canal]], and the [[Corneal Limbal Stem Cells]].
+- **Equatorial Sclera:** Perforated by the [[Vortex Veins]] (venae vorticosae), typically four in number, which drain the [[Choroid]].
+- **Posterior Sclera:** Contains the [[Lamina Cribrosa]], through which pass the axons of the [[Optic Nerve]], the [[Central Retinal Artery]], and the [[Central Retinal Vein]]. The posterior sclera is also perforated by the [[Short Posterior Ciliary Arteries]] and the [[Long Posterior Ciliary Arteries]].
 
-- **Posterior scleral foramen**: The largest opening, transmitting the [[optic nerve]] and surrounded by the lamina cribrosa.
-- **Emissaria**: Small channels that allow passage of [[vortex veins]] (venae vorticosae), [[posterior ciliary arteries]], and [[ciliary nerves]].
-- **Anterior scleral apertures**: Channels for the [[anterior ciliary arteries]] near the rectus muscle insertions.
-- **[[Schlemm's canal]]**: A circumferential channel located within the sclera at the limbus, critical for [[aqueous humor]] outflow.
+### Emissaria
+
+The sclera is perforated at multiple sites by vessels and nerves, collectively termed **scleral emissaria**:
+
+| **Location** | **Structures Passing Through** |
+|---|---|
+| Posterior (around optic nerve) | [[Short Posterior Ciliary Arteries]], [[Short Posterior Ciliary Nerves]] |
+| Posterolateral | [[Long Posterior Ciliary Arteries]], [[Long Posterior Ciliary Nerves]] |
+| Equatorial | [[Vortex Veins]] (4–7) |
+| Anterior (near limbus) | [[Anterior Ciliary Arteries]], aqueous collector channels |
+
+These emissaria represent potential weak points in the scleral wall and are relevant in the spread of [[Intraocular Tumors]] such as [[Uveal Melanoma]].
 
 ---
 
@@ -34,404 +52,375 @@ The sclera contains several important apertures and channels:
 
 ### Layers of the Sclera
 
-The sclera is composed of three histologically distinct layers, from outermost to innermost:
+The sclera is composed of three histological layers, from external to internal:
 
-1. **[[Episclera]] (Episcleral tissue)**: A loose, highly vascularized connective tissue layer that lies superficial to the sclera proper. It is continuous with [[Tenon's capsule]] (the fascia bulbi) and contains the **episcleral vascular plexus**, which is clinically significant in differentiating [[episcleritis]] from [[scleritis]]. The episclera is richly supplied by branches of the [[anterior ciliary arteries]].
+1. **[[Episclera]] (Lamina Episcleralis):** A loose, highly vascularized connective tissue layer lying between [[Tenon's Capsule]] and the sclera proper. It contains a superficial vascular plexus and a deep vascular plexus. The episclera is the site of inflammation in [[Episcleritis]].
 
-2. **Sclera proper (Stroma)**: The bulk of the scleral wall, composed of dense, irregularly arranged [[collagen]] fibrils (predominantly **Type I collagen**, with smaller amounts of **Type III**, **Type V**, and **Type VI** collagen) embedded in a ground substance of [[proteoglycans]] and [[glycosaminoglycans]] (primarily [[dermatan sulfate]] and [[chondroitin sulfate]]). Unlike the [[cornea]], where collagen fibrils are arranged in highly regular, parallel lamellae of uniform diameter (approximately 25–30 nm), scleral collagen fibrils vary widely in diameter (25–230 nm) and are arranged in interlacing, irregularly oriented bundles. This irregular arrangement is the primary reason for the sclera's **opacity**, as it causes diffuse scattering of light across all wavelengths, in contrast to the transparency of the cornea, which depends on regular fibril spacing (as described by the [[Maurice lattice theory]]).
+2. **Sclera Proper (Substantia Propria / Stroma):** The bulk of the scleral tissue, composed of dense, irregularly arranged bundles of [[Type I Collagen]] fibers interspersed with [[Elastic Fibers]], [[Proteoglycans]], and scattered [[Fibroblasts]] (termed sclerocytes). Unlike the [[Corneal Stroma]], where collagen fibrils are arranged in highly regular, parallel lamellae of uniform diameter (approximately 25–35 nm), scleral collagen fibrils vary widely in diameter (25–230 nm) and are arranged in an interlacing, irregular pattern. This irregularity is responsible for the sclera's opacity, as it causes diffuse scattering of light, in contrast to the transparency of the cornea.
 
-3. **[[Lamina fusca]]**: The innermost layer of the sclera, a thin, pigmented zone that forms the transition between the sclera and the underlying [[uveal tract]] ([[choroid]], [[ciliary body]], and [[iris]]). It contains melanocytes, fibroblasts, and elastic fibers, and is loosely attached to the choroid by fine connective tissue strands traversing the **suprachoroidal space** (spatium perichoroideale). The pigmentation of the lamina fusca helps reduce internal light scatter.
+3. **[[Lamina Fusca]]:** The innermost layer of the sclera, a thin, pigmented zone that forms the outer boundary of the [[Suprachoroidal Space]]. It contains melanocytes, fibroblasts, and elastic fibers, and is loosely attached to the underlying [[Choroid]] and [[Ciliary Body]]. The pigmentation of the lamina fusca is variable and is more prominent in darkly pigmented individuals.
+
+### Collagen Composition
+
+The scleral stroma is predominantly composed of [[Type I Collagen]] (approximately 90%), with smaller amounts of [[Type III Collagen]], [[Type V Collagen]], [[Type VI Collagen]], and [[Type VIII Collagen]]. The ground substance contains [[Glycosaminoglycans]] (GAGs) including [[Dermatan Sulfate]] (the predominant GAG), [[Chondroitin Sulfate]], and [[Hyaluronic Acid]]. The relative proportions and hydration of these GAGs influence scleral biomechanics and transparency.
 
 ### Cellular Components
 
-The sclera is relatively **hypocellular** compared to other connective tissues. Its primary resident cells are:
-
-- **[[Fibroblasts]]** (also termed sclerocytes): Flattened, quiescent cells responsible for the synthesis and maintenance of the extracellular matrix (ECM). They are sparsely distributed between collagen bundles.
-- **[[Melanocytes]]**: Found primarily in the lamina fusca and around emissary channels. Increased melanocyte density is observed in individuals with darker pigmentation and in conditions such as [[melanosis oculi]] and [[oculodermal melanocytosis]] ([[nevus of Ota]]).
-- **Occasional [[macrophages]]** and other immune cells.
-
-### Vascularity and Innervation
-
-The sclera proper is **relatively avascular**, receiving its nutrition primarily by diffusion from the episcleral and choroidal vasculature. The episclera, however, is richly vascularized by the **superficial** and **deep episcleral vascular plexuses**, which are derived from the [[anterior ciliary arteries]] (branches of the [[ophthalmic artery]] via the muscular branches) and the [[long posterior ciliary arteries]].
-
-Sensory innervation of the sclera is provided by the [[long ciliary nerves]] and [[short ciliary nerves]], which are branches of the [[nasociliary nerve]] (a division of the [[ophthalmic nerve]], V1, of the [[trigeminal nerve]]). This innervation accounts for the severe, deep, boring pain characteristic of [[scleritis]].
+The sclera is relatively hypocellular. The primary cell type is the **sclerocyte** (scleral [[Fibroblast]]), which is responsible for the synthesis and maintenance of the extracellular matrix. [[Melanocytes]] are present in the lamina fusca and around the emissaria, particularly in the posterior sclera. [[Macrophages]] and occasional [[Lymphocytes]] may be found, particularly in pathological states.
 
 ---
 
-## Embryology and Development
+## Physiology and Biomechanics
 
-The sclera is derived primarily from [[neural crest]] cells, with a contribution from [[mesoderm]] in the posterior region. During embryonic development, periocular mesenchyme (largely of neural crest origin) condenses around the developing [[optic cup]] to form the scleral anlage. Scleral development proceeds in an anterior-to-posterior direction, beginning at approximately the 7th week of gestation and largely completing by the 5th month.
+### Structural Support and Ocular Rigidity
 
-The [[cornea]] and sclera share a common embryological origin, and the transition zone at the [[limbus]] represents a critical developmental boundary. Abnormalities in neural crest cell migration and differentiation can result in congenital scleral anomalies and anterior segment dysgenesis syndromes (e.g., [[Axenfeld-Rieger syndrome]], [[Peters anomaly]]).
+The sclera's primary physiological role is to maintain the structural integrity and shape of the globe. Its biomechanical properties—including tensile strength, elasticity, and rigidity—are determined by the composition, organization, and cross-linking of its collagen fibers. **Ocular rigidity**, a measure of the eye's resistance to changes in volume, is largely a function of scleral properties and is clinically relevant in [[Tonometry]] and the interpretation of [[Intraocular Pressure]] measurements.
 
-At birth, the sclera is relatively thin and translucent, often appearing **bluish** due to the visibility of the underlying [[uveal pigment]]. With age, the sclera thickens and becomes more opaque. In elderly individuals, the sclera may develop a **yellowish** discoloration due to lipid deposition (lipoidosis sclerae) and [[elastotic degeneration]].
+### Scleral Hydration and Transparency
+
+The sclera is normally opaque due to the irregular arrangement and variable diameter of its collagen fibrils, which scatter incident light. However, changes in hydration can alter scleral transparency. Dehydration (as in severe systemic dehydration) or excessive hydration (as in scleral edema) can transiently alter the appearance of the sclera. In certain pathological conditions, such as [[Osteogenesis Imperfecta]], the sclera becomes abnormally thin, allowing the underlying [[Uveal]] pigment to show through, producing a characteristic **blue sclera**.
+
+### Scleral Permeability
+
+The sclera is permeable to water and small molecules, a property that is exploited in **transscleral drug delivery** systems. Scleral permeability decreases with increasing molecular weight and lipophilicity of the solute. The equatorial and posterior sclera are more permeable than the anterior sclera, which has implications for the design of sustained-release drug delivery devices for posterior segment diseases such as [[Age-Related Macular Degeneration]] and [[Diabetic Retinopathy]].
+
+### Role in Myopia Development
+
+There is substantial evidence that scleral remodeling plays a central role in the development of [[Axial Myopia]]. In myopic eyes, the posterior sclera undergoes thinning, loss of collagen, decreased [[Glycosaminoglycan]] content, and increased activity of [[Matrix Metalloproteinases]] (MMPs), leading to progressive elongation of the axial length. This process is regulated by a signaling cascade originating in the [[Retina]], transmitted through the [[Choroid]], and ultimately affecting scleral fibroblast activity. Understanding scleral biomechanics is therefore central to current research into [[Myopia Control]] strategies, including [[Scleral Cross-Linking]] as a potential therapeutic intervention.
 
 ---
 
-## Biomechanical Properties
+## Blood Supply and Innervation
 
-The sclera is a viscoelastic tissue whose biomechanical properties are critical to maintaining ocular integrity and influencing [[intraocular pressure]] measurements. Key biomechanical parameters include:
+### Vascular Supply
 
-- **Tensile strength**: The sclera has significant tensile strength, resisting deformation from IOP and external forces.
-- **Elastic modulus (Young's modulus)**: Varies regionally and with age. The sclera becomes stiffer with age due to increased collagen cross-linking and changes in glycosaminoglycan composition.
-- **Creep and stress relaxation**: The sclera exhibits time-dependent deformation under sustained load, which is relevant to conditions such as [[myopia]] progression and [[staphyloma]] formation.
+The sclera itself is relatively avascular; its metabolic needs are met primarily by diffusion from the overlying [[Episcleral Vasculature]] and the underlying [[Choroidal Vasculature]]. The episcleral blood supply is derived from:
 
-Scleral biomechanics are increasingly recognized as playing a central role in:
+- **[[Anterior Ciliary Arteries]]** (branches of the muscular arteries supplying the [[Rectus Muscles]]), which supply the anterior episclera and contribute to the [[Major Arterial Circle of the Iris]].
+- **[[Long Posterior Ciliary Arteries]]** and recurrent branches of the [[Short Posterior Ciliary Arteries]], which supply the posterior episclera.
 
-- **[[Myopia]]**: Progressive axial elongation of the globe in myopia involves scleral remodeling, including thinning, reduced collagen content, and altered proteoglycan composition, particularly in the posterior sclera. Research into **scleral cross-linking** (e.g., using [[riboflavin]]/UVA or chemical agents like [[glyceraldehyde]]) as a potential treatment for progressive myopia is an active area of investigation.
-- **[[Glaucoma]]**: The biomechanical properties of the [[lamina cribrosa]] and peripapillary sclera influence the susceptibility of retinal ganglion cell axons to IOP-related damage. Stiffer peripapillary sclera may alter the strain distribution across the lamina cribrosa.
-- **IOP measurement**: Scleral rigidity influences the accuracy of [[tonometry]], particularly [[Goldmann applanation tonometry]] and [[Schiotz tonometry]].
+The relative avascularity of the sclera contributes to its slow healing and susceptibility to necrosis in inflammatory conditions such as [[Necrotizing Scleritis]].
+
+### Innervation
+
+The sclera is innervated by the [[Long Ciliary Nerves]] and the [[Short Ciliary Nerves]], both branches of the [[Ophthalmic Division]] (V1) of the [[Trigeminal Nerve]] (CN V). The rich sensory innervation of the sclera accounts for the severe, deep, boring pain characteristic of [[Scleritis]], which is often described as radiating to the forehead, temple, or jaw.
+
+---
+
+## Clinical Examination of the Sclera
+
+### Slit-Lamp Biomicroscopy
+
+The primary method of scleral examination is [[Slit-Lamp Biomicroscopy]]. The clinician should evaluate:
+
+- **Color:** Normal sclera is white to porcelain-white. Abnormal coloration may indicate pathology (see below).
+- **Vascular Pattern:** Assessment of episcleral and conjunctival vessel engorgement, tortuosity, and pattern (diffuse vs. sectoral vs. nodular).
+- **Nodules or Masses:** Presence of scleral or episcleral nodules.
+- **Thinning or Ectasia:** Areas of scleral thinning may appear blue or dark due to visualization of the underlying [[Uvea]].
+- **Necrosis:** White, avascular patches of scleral necrosis (scleromalacia).
+
+### Red-Free (Green) Filter and Daylight Examination
+
+Using a **red-free filter** on the slit lamp helps distinguish between superficial (conjunctival) and deep (episcleral/scleral) vascular injection. Daylight examination is also recommended, as the color of the sclera and episclera can be better appreciated under natural illumination.
+
+### Phenylephrine (10%) Test
+
+Topical application of [[Phenylephrine]] 2.5% or 10% causes blanching of the superficial conjunctival vessels but does not significantly affect the deeper episcleral vessels. This test is useful in differentiating [[Episcleritis]] (where vessels blanch) from [[Scleritis]] (where the deep violaceous hue persists after blanching of superficial vessels).
+
+### Anterior Segment Optical Coherence Tomography (AS-OCT)
+
+[[Anterior Segment OCT]] (AS-OCT) provides high-resolution cross-sectional imaging of the sclera and can be used to assess scleral thickness, detect scleral thinning or ectasia, and monitor inflammatory changes. Enhanced depth imaging (EDI) techniques improve visualization of the deeper scleral layers.
+
+### Ultrasound Biomicroscopy (UBM)
+
+[[Ultrasound Biomicroscopy]] (UBM) uses high-frequency ultrasound (35–50 MHz) to image the anterior sclera, [[Ciliary Body]], and surrounding structures at high resolution. It is particularly useful for evaluating anterior scleritis, scleral masses, and the relationship of scleral pathology to adjacent structures.
+
+### B-Scan Ultrasonography
+
+[[B-Scan Ultrasonography]] is essential for evaluating posterior scleritis, which may present with scleral thickening, sub-Tenon's fluid, and the characteristic **"T-sign"** (fluid in the sub-Tenon's space surrounding the optic nerve, creating a T-shaped echo pattern).
+
+### Imaging for Systemic Associations
+
+Given the strong association between scleritis and systemic autoimmune disease, additional investigations may include:
+
+- Complete blood count (CBC)
+- [[Erythrocyte Sedimentation Rate]] (ESR) and [[C-Reactive Protein]] (CRP)
+- [[Rheumatoid Factor]] (RF) and [[Anti-Cyclic Citrullinated Peptide]] (anti-CCP) antibodies
+- [[Antinuclear Antibody]] (ANA)
+- [[Antineutrophil Cytoplasmic Antibodies]] (ANCA) — c-ANCA and p-ANCA
+- Serum [[Uric Acid]]
+- [[FTA-ABS]] and [[RPR]] (for [[Syphilis]])
+- [[QuantiFERON-TB Gold]] or [[Tuberculin Skin Test]] (for [[Tuberculosis]])
+- Chest X-ray
+- Urinalysis
 
 ---
 
 ## Pathophysiology of Scleral Disease
 
-Scleral diseases can be broadly categorized as **inflammatory**, **infectious**, **degenerative**, **congenital/developmental**, **metabolic**, and **neoplastic**. The pathophysiology of scleral inflammation ([[scleritis]]) is the most clinically significant and well-studied.
+Scleral disease is most commonly inflammatory in nature. The pathophysiology of [[Scleritis]] involves a combination of:
 
-### Inflammatory Scleral Disease
+1. **Immune Complex Deposition:** Circulating immune complexes deposit in the scleral and episcleral vasculature, activating the [[Complement System]] and recruiting [[Neutrophils]] and [[Macrophages]].
+2. **T-Cell Mediated Immunity:** [[CD4+ T Cells]] and [[Granuloma]] formation are prominent in many forms of scleritis, particularly [[Necrotizing Scleritis]] and scleritis associated with [[Granulomatosis with Polyangiitis]] (formerly Wegener's granulomatosis).
+3. **Vasculitis:** Inflammation and occlusion of scleral and episcleral vessels leads to ischemia and, in severe cases, necrosis of the scleral stroma ([[Scleromalacia]]).
+4. **Matrix Metalloproteinase (MMP) Activation:** Inflammatory mediators upregulate [[Matrix Metalloproteinases]], leading to degradation of scleral collagen and progressive thinning.
+5. **Prostaglandin and Cytokine Release:** [[Prostaglandins]], [[Tumor Necrosis Factor-alpha]] (TNF-α), [[Interleukin-1]] (IL-1), and [[Interleukin-6]] (IL-6) are elevated in inflamed scleral tissue, perpetuating the inflammatory cascade.
+
+The relative avascularity and dense collagenous structure of the sclera make it particularly susceptible to immune-mediated damage, as the tissue has limited capacity for repair and regeneration.
+
+---
+
+## Scleral Diseases and Conditions
+
+### Episcleritis
+
+[[Episcleritis]] is a benign, self-limiting inflammation of the [[Episclera]]. It is the most common inflammatory condition affecting the scleral region.
+
+- **Types:** Simple (diffuse) and nodular.
+- **Symptoms:** Mild discomfort, tearing, and redness. Pain is typically mild or absent.
+- **Signs:** Sectoral or diffuse redness of the episclera; in nodular episcleritis, a discrete, mobile, tender nodule is present. Vessels blanch with topical [[Phenylephrine]].
+- **Associations:** Usually idiopathic; occasionally associated with [[Rheumatoid Arthritis]], [[Gout]], [[Herpes Zoster Ophthalmicus]], or [[Inflammatory Bowel Disease]].
+- **Treatment:** Often self-resolving within 1–3 weeks. Artificial tears, topical [[NSAIDs]] (e.g., [[Ketorolac]], [[Diclofenac]]), or a short course of topical [[Corticosteroids]] may be used for symptomatic relief. Oral [[NSAIDs]] (e.g., [[Ibuprofen]], [[Naproxen]], [[Flurbiprofen]]) are effective for recurrent or persistent cases.
+
+### Scleritis
+
+[[Scleritis]] is a serious, potentially sight-threatening inflammation of the sclera proper. It is classified according to the Watson and Hayreh system:
+
+| **Type** | **Subtype** | **Key Features** |
+|---|---|---|
+| **Anterior Scleritis** | Diffuse | Most common; widespread scleral inflammation |
+| | Nodular | One or more immobile, tender scleral nodules |
+| | Necrotizing with inflammation | Most severe anterior form; scleral necrosis, severe pain |
+| | Necrotizing without inflammation ([[Scleromalacia Perforans]]) | Painless scleral thinning/necrosis; associated with long-standing [[Rheumatoid Arthritis]] |
+| **Posterior Scleritis** | — | Scleral thickening posteriorly; may cause [[Exudative Retinal Detachment]], [[Choroidal Folds]], [[Optic Disc Edema]] |
+
+#### Symptoms of Scleritis
+
+- **Pain:** Severe, deep, boring, or aching pain that may radiate to the brow, temple, or jaw. Pain often worsens at night and may awaken the patient from sleep. This is the hallmark symptom distinguishing scleritis from episcleritis.
+- **Redness:** Deep violaceous (blue-red) discoloration of the sclera, which does not blanch with topical [[Phenylephrine]].
+- **Tearing and photophobia** may be present.
+- **Decreased vision:** Occurs in posterior scleritis or when complications such as [[Uveitis]], [[Keratitis]], [[Cataract]], or [[Glaucoma]] develop.
+
+#### Systemic Associations
+
+Approximately 40–50% of patients with scleritis have an associated systemic disease:
+
+| **Category** | **Associated Conditions** |
+|---|---|
+| Autoimmune/Connective Tissue | [[Rheumatoid Arthritis]] (most common), [[Granulomatosis with Polyangiitis]], [[Systemic Lupus Erythematosus]], [[Relapsing Polychondritis]], [[Polyarteritis Nodosa]], [[Inflammatory Bowel Disease]] |
+| Infectious | [[Herpes Zoster]], [[Herpes Simplex]], [[Pseudomonas]], [[Tuberculosis]], [[Syphilis]], [[Fungal Infections]] |
+| Metabolic | [[Gout]] |
+| Surgically Induced | [[Surgically Induced Necrotizing Scleritis]] (SINS) — occurs after ocular surgery, particularly at the site of surgical incision |
+
+#### Complications of Scleritis
+
+- [[Peripheral Ulcerative Keratitis]] (PUK)
+- [[Anterior Uveitis]]
+- [[Secondary Glaucoma]]
+- [[Cataract]]
+- [[Exudative Retinal Detachment]] (posterior scleritis)
+- [[Optic Disc Edema]]
+- Scleral thinning and [[Staphyloma]] formation
+- Globe perforation (rare, in necrotizing disease)
+
+---
+
+### Scleromalacia Perforans
+
+[[Scleromalacia Perforans]] is a form of necrotizing scleritis without inflammation, almost exclusively seen in elderly women with long-standing, seropositive [[Rheumatoid Arthritis]]. It is characterized by painless, progressive thinning and necrosis of the sclera, with exposure of the underlying [[Uvea]]. Despite the name, actual perforation is rare. Management is directed at the underlying systemic disease and may require systemic [[Immunosuppressive Therapy]].
+
+---
+
+### Blue Sclera
+
+**Blue sclera** refers to a bluish discoloration of the sclera caused by thinning of the scleral stroma, which allows the underlying [[Choroidal]] pigment to be visible. Causes include:
+
+| **Condition** | **Mechanism** |
+|---|---|
+| [[Osteogenesis Imperfecta]] | Defective [[Type I Collagen]] synthesis; sclera is thin |
+| [[Ehlers-Danlos Syndrome]] | Collagen disorder; scleral thinning |
+| [[Marfan Syndrome]] | Connective tissue disorder |
+| [[Iron Deficiency Anemia]] | Scleral thinning (mild) |
+| [[Pseudoxanthoma Elasticum]] | Elastic fiber degeneration |
+| Normal neonates | Thin sclera in infancy (physiological) |
+| High [[Myopia]] | Scleral thinning and stretching |
+
+---
+
+### Scleral Ectasia and Staphyloma
+
+**[[Staphyloma]]** is a localized outpouching of the scleral wall lined by uveal tissue. It results from scleral thinning and weakening, often secondary to inflammation, high [[Intraocular Pressure]], or degenerative processes.
+
+- **Anterior Staphyloma:** Involves the anterior sclera/cornea; may occur after severe [[Corneal Ulcer]] or perforation.
+- **Intercalary Staphyloma:** At the [[Limbus]].
+- **Ciliary Staphyloma:** Over the [[Ciliary Body]].
+- **Equatorial Staphyloma:** At the equator.
+- **Posterior Staphyloma:** Most common type; strongly associated with [[Pathological Myopia]] and progressive axial elongation. Posterior staphylomata are a major risk factor for [[Myopic Macular Degeneration]], [[Myopic Traction Maculopathy]], and [[Macular Hole]].
+
+---
+
+### Scleral Discoloration
+
+| **Color** | **Possible Causes** |
+|---|---|
+| Yellow (Icterus/Jaundice) | [[Hyperbilirubinemia]], [[Hepatic Disease]] — bilirubin deposits in conjunctiva/sclera |
+| Blue/Gray | [[Osteogenesis Imperfecta]], [[Alkaptonuria]] (ochronosis), melanocytosis, high myopia |
+| Brown/Slate | [[Ochronosis]] ([[Alkaptonuria]]), [[Nevus of Ota]] ([[Oculodermal Melanocytosis]]), racial melanosis |
+| Red/Violaceous | [[Scleritis]], subconjunctival hemorrhage |
+
+*Note:* What is commonly referred to as "scleral icterus" is more accurately termed **conjunctival icterus**, as bilirubin preferentially deposits in the [[Conjunctiva]] overlying the sclera due to the conjunctiva's higher elastin content.
+
+---
+
+### Infectious Scleritis
+
+Infectious scleritis is uncommon but important to recognize, as it requires targeted antimicrobial therapy rather than immunosuppression. It may occur following:
+
+- Ocular surgery (especially [[Pterygium]] surgery with [[Mitomycin C]] or [[Beta Irradiation]])
+- Trauma
+- Extension from adjacent [[Keratitis]]
+
+Common organisms include [[Pseudomonas aeruginosa]], [[Staphylococcus]] species, [[Streptococcus]] species, [[Nocardia]], [[Fungi]] (especially [[Aspergillus]]), and [[Mycobacteria]]. Diagnosis requires scleral biopsy with culture and histopathology. Treatment involves targeted topical and systemic antimicrobials, and surgical debridement may be necessary.
+
+---
+
+## Treatment of Scleral Disease
+
+### Pharmacological Management
+
+#### Episcleritis
+
+| **Severity** | **Treatment** |
+|---|---|
+| Mild | Artificial tears, cold compresses |
+| Moderate | Topical [[NSAIDs]] (e.g., [[Ketorolac]] 0.5% QID) |
+| Recurrent/Persistent | Oral [[NSAIDs]] (e.g., [[Flurbiprofen]] 100 mg TID, [[Naproxen]] 250–500 mg BID) |
+| Refractory | Short course of topical [[Corticosteroids]] (e.g., [[Prednisolone Acetate]] 1%) |
 
 #### Scleritis
 
-[[Scleritis]] is a severe, potentially sight-threatening inflammatory condition of the sclera that is frequently associated with systemic autoimmune and connective tissue diseases. The pathophysiology involves:
-
-1. **Immune-mediated vasculitis**: The primary mechanism in most cases of non-infectious scleritis is an immune complex-mediated vasculitis affecting the deep episcleral and scleral vessels. This involves deposition of [[immune complexes]] in vessel walls, activation of the [[complement system]], and recruitment of [[neutrophils]] and [[macrophages]], leading to vessel wall damage and tissue necrosis.
-
-2. **Granulomatous inflammation**: In many cases, particularly those associated with [[granulomatosis with polyangiitis]] (formerly [[Wegener's granulomatosis]]) and [[sarcoidosis]], the scleral inflammation is characterized by granuloma formation with [[epithelioid cells]], [[multinucleated giant cells]], and surrounding lymphocytic infiltration.
-
-3. **T-cell mediated immunity**: CD4+ [[T-helper cells]] play a significant role in orchestrating the inflammatory response, with production of pro-inflammatory cytokines including [[TNF-alpha]], [[IL-1]], [[IL-6]], and [[interferon-gamma]].
-
-4. **Matrix metalloproteinase (MMP) activation**: Inflammatory cells release [[matrix metalloproteinases]] (particularly MMP-1, MMP-2, MMP-9) that degrade scleral collagen, leading to scleral thinning and, in severe cases, [[scleromalacia]] or perforation.
-
-5. **Scleral necrosis**: In necrotizing scleritis, the combination of vasculitis, thrombosis, and enzymatic degradation leads to avascular necrosis of scleral tissue, which can progress to perforation ([[scleromalacia perforans]]).
-
-#### Episcleritis
-
-[[Episcleritis]] is a more benign, self-limiting inflammation confined to the [[episclera]]. Unlike scleritis, it does not involve the sclera proper and rarely causes permanent structural damage. The pathophysiology is less well understood but is thought to involve a non-granulomatous inflammatory response in the episcleral tissue, possibly related to a localized hypersensitivity reaction.
-
-### Infectious Scleral Disease
-
-Infectious scleritis is uncommon but can be caused by:
-
-- **Bacteria**: [[Pseudomonas aeruginosa]], [[Staphylococcus aureus]], [[Streptococcus]] species, [[Nocardia]], and atypical [[mycobacteria]].
-- **Fungi**: [[Aspergillus]], [[Fusarium]], and other filamentous fungi.
-- **Viruses**: [[Herpes simplex virus]] (HSV), [[Varicella-zoster virus]] (VZV).
-- **Parasites**: [[Acanthamoeba]], [[Toxoplasma]].
-
-Infectious scleritis most commonly occurs following ocular surgery (particularly [[pterygium]] excision with adjunctive [[mitomycin C]] or [[beta-irradiation]]), trauma, or in immunocompromised patients.
-
-### Degenerative and Metabolic Changes
-
-- **Senile scleral plaques** (hyaline plaques): Calcified, translucent areas anterior to the horizontal rectus muscle insertions, commonly seen in elderly patients. They are composed of calcium deposits within degenerated scleral collagen and are generally benign.
-- **Scleral thinning in myopia**: Progressive posterior scleral thinning associated with axial elongation.
-- **[[Alkaptonuria]] ([[ochronosis]])**: Deposition of homogentisic acid polymers in scleral collagen, causing brownish-black discoloration.
-
----
-
-## Clinical Presentation and Symptoms
-
-### Symptoms of Scleral Disease
-
-The clinical presentation varies significantly depending on the specific condition:
-
-| **Condition** | **Pain** | **Redness** | **Vision Changes** | **Other Features** |
-|---|---|---|---|---|
-| **[[Episcleritis]]** | Mild discomfort, tenderness | Sectoral or diffuse; bright red; blanches with [[phenylephrine]] 2.5% | Usually none | Tearing; typically unilateral |
-| **Anterior diffuse [[scleritis]]** | Severe, deep, boring; radiates to brow, temple, jaw; worse at night | Deep violaceous (blue-red) hue; does NOT blanch with phenylephrine | May be reduced if complications present | Tenderness to palpation; may be bilateral |
-| **Anterior nodular scleritis** | Severe, deep | Localized deep redness with immobile, tender nodule(s) | Variable | Nodule fixed to underlying sclera |
-| **Anterior necrotizing scleritis with inflammation** | Excruciating | Intense redness with avascular patches (white areas of necrosis) | Often reduced | Scleral thinning; uveal show-through; highest complication rate |
-| **[[Scleromalacia perforans]]** (necrotizing scleritis without inflammation) | Typically painless | Minimal or absent | May be reduced | Progressive scleral thinning; yellow-gray necrotic patches; associated with long-standing [[rheumatoid arthritis]]; risk of perforation |
-| **Posterior scleritis** | Deep orbital/periorbital pain | May be minimal externally | Reduced (from exudative [[retinal detachment]], [[choroidal folds]], [[optic disc edema]]) | Proptosis; restricted motility; may mimic orbital tumor |
-
-### Key Symptom: Pain
-
-Pain is the hallmark symptom of scleritis and is a critical differentiating feature from episcleritis. Scleral pain is characteristically:
-
-- **Deep and boring** in quality
-- **Radiating** to the forehead, temple, sinuses, or jaw (following trigeminal nerve distribution)
-- **Worse at night**, often awakening the patient from sleep
-- **Exacerbated** by eye movement and palpation
-- **Persistent** and not relieved by topical medications alone
-
----
-
-## Diagnosis
-
-### Clinical Examination
-
-A systematic approach to diagnosing scleral disease includes:
-
-1. **History**: Detailed inquiry into pain characteristics, duration, associated systemic symptoms (joint pain, skin rashes, respiratory symptoms, sinusitis), prior ocular surgery, and medication history.
-
-2. **[[Slit-lamp biomicroscopy]]**: The cornerstone of diagnosis.
-   - **Diffuse natural daylight examination**: Assess the overall color and pattern of redness. Scleritis produces a characteristic **violaceous (blue-purple)** hue, in contrast to the bright red of episcleritis.
-   - **Slit-lamp with red-free (green) filter**: Helps delineate vascular patterns.
-   - **[[Phenylephrine]] 2.5–10% blanching test**: Topical phenylephrine constricts superficial episcleral vessels but does NOT blanch the deep scleral vascular plexus. In episcleritis, redness blanches significantly; in scleritis, the deep violaceous hue persists.
-   - **Assessment of scleral edema, nodules, thinning, and necrosis**.
-   - **Evaluation for associated anterior segment inflammation**: [[Anterior uveitis]], [[keratitis]] (e.g., [[peripheral ulcerative keratitis]]), and secondary [[glaucoma]].
-
-3. **[[Fundoscopy]] and posterior segment examination**: Essential to rule out posterior scleritis, which may present with [[choroidal folds]], [[exudative retinal detachment]], [[optic disc swelling]], and [[macular edema]].
-
-### Imaging Modalities
-
-| **Modality** | **Application in Scleral Disease** |
-|---|---|
-| **[[B-scan ultrasonography]]** | Gold standard for diagnosing **posterior scleritis**; demonstrates characteristic **"T-sign"** (fluid in sub-Tenon's space surrounding the optic nerve), scleral thickening (>2 mm), and retrobulbar edema |
-| **[[Optical coherence tomography]] (OCT)** | Anterior segment OCT (AS-OCT) can measure scleral thickness and detect scleral edema; enhanced depth imaging OCT (EDI-OCT) can visualize the posterior sclera and choroid |
-| **[[Ultrasound biomicroscopy]] (UBM)** | High-resolution imaging of the anterior sclera, ciliary body, and angle structures; useful for detecting anterior scleral thickening and inflammation |
-| **[[Magnetic resonance imaging]] (MRI)** | Useful for posterior scleritis; demonstrates scleral thickening and enhancement with gadolinium contrast; helps differentiate from orbital tumors |
-| **[[Computed tomography]] (CT)** | May show scleral calcification (senile plaques) or thickening; less sensitive than MRI for soft tissue detail |
-| **[[Fluorescein angiography]] (FA)** | Demonstrates vascular leakage, non-perfusion, and neovascularization in scleritis; useful for assessing associated retinal and choroidal involvement |
-| **[[Indocyanine green angiography]] (ICGA)** | Superior to FA for imaging choroidal vasculature; useful in posterior scleritis |
-
-### Laboratory Investigations
-
-Given the strong association between scleritis and systemic disease (approximately **50% of scleritis cases** are associated with a systemic condition), a comprehensive laboratory workup is essential:
-
-| **Test** | **Associated Condition** |
-|---|---|
-| [[Complete blood count]] (CBC) with differential | General screening; leukocytosis, anemia |
-| [[Erythrocyte sedimentation rate]] (ESR) and [[C-reactive protein]] (CRP) | Non-specific markers of inflammation |
-| [[Rheumatoid factor]] (RF) and [[anti-CCP antibodies]] | [[Rheumatoid arthritis]] |
-| [[Antinuclear antibody]] (ANA) | [[Systemic lupus erythematosus]], other connective tissue diseases |
-| [[Anti-neutrophil cytoplasmic antibodies]] (ANCA): c-ANCA (PR3) and p-ANCA (MPO) | [[Granulomatosis with polyangiitis]], [[microscopic polyangiitis]], [[eosinophilic granulomatosis with polyangiitis]] |
-| [[Uric acid]] | [[Gout]] |
-| [[HLA-B27]] | [[Ankylosing spondylitis]], [[reactive arthritis]] |
-| [[FTA-ABS]] / [[RPR]] / [[VDRL]] | [[Syphilis]] |
-| [[QuantiFERON-TB Gold]] / [[PPD]] | [[Tuberculosis]] |
-| [[Urinalysis]] | Renal involvement in vasculitis |
-| [[Serum ACE level]], [[chest X-ray]] | [[Sarcoidosis]] |
-
-### Classification of Scleritis (Watson and Hayreh Classification)
-
-The most widely used clinical classification system:
-
-**I. Anterior Scleritis**
-   - a. Diffuse
-   - b. Nodular
-   - c. Necrotizing
-     - i. With inflammation
-     - ii. Without inflammation ([[scleromalacia perforans]])
-
-**II. Posterior Scleritis**
-
----
-
-## Differential Diagnosis
-
-Conditions that may mimic scleral disease include:
-
-- [[Episcleritis]] (most common differential for anterior scleritis)
-- [[Conjunctivitis]] (allergic, viral, bacterial)
-- [[Orbital inflammatory disease]] (orbital pseudotumor)
-- [[Orbital cellulitis]]
-- [[Choroidal melanoma]] or other intraocular tumors (mimicking posterior scleritis)
-- [[Thyroid eye disease]]
-- [[Carotid-cavernous fistula]] (dilated episcleral veins)
-- [[Sturge-Weber syndrome]] (episcleral hemangioma)
-
----
-
-## Treatment and Management
-
-### General Principles
-
-Management of scleral disease depends on the type, severity, and underlying etiology. The goals of treatment are to:
-
-1. **Control inflammation** and relieve pain
-2. **Prevent structural damage** (scleral thinning, perforation)
-3. **Treat the underlying systemic disease**
-4. **Manage ocular complications** (glaucoma, cataract, keratitis)
-
-### Pharmacological Interventions
-
-#### Episcleritis
-
-- **Observation**: Many cases are self-limiting (resolving within 2–3 weeks).
-- **Artificial tears** and **cold compresses** for symptomatic relief.
-- **Topical [[NSAIDs]]**: e.g., [[ketorolac]] 0.5%, [[diclofenac]] 0.1% — may provide symptomatic relief.
-- **Oral NSAIDs**: [[Ibuprofen]] (400–600 mg TID), [[naproxen]] (250–500 mg BID), or [[indomethacin]] (25–50 mg TID) for more symptomatic cases.
-- **Topical corticosteroids**: Generally avoided as first-line due to rebound risk, but may be used short-term in refractory cases (e.g., [[prednisolone acetate]] 1%).
-
-#### Anterior Scleritis (Non-Necrotizing)
-
-**First-line: Oral NSAIDs**
-- [[Indomethacin]] 25–50 mg TID (often considered most effective)
-- [[Naproxen]] 250–500 mg BID
-- [[Flurbiprofen]] 100 mg TID
-- Trial of 2–3 weeks; if inadequate, switch to a different NSAID or escalate therapy.
-
-**Second-line: Oral Corticosteroids**
-- [[Prednisone]] 1 mg/kg/day (typically 60–80 mg/day), tapered over 4–6 weeks based on clinical response.
-- Concurrent gastroprotection (e.g., [[proton pump inhibitor]]) and monitoring for steroid side effects.
-
-**Third-line: Immunosuppressive/Steroid-Sparing Agents**
-- Indicated for steroid-dependent or steroid-resistant scleritis, necrotizing scleritis, or scleritis associated with systemic vasculitis.
-
-| **Agent** | **Class** | **Typical Dosing** | **Key Monitoring** |
+| **Type** | **First-Line** | **Second-Line** | **Third-Line / Refractory** |
 |---|---|---|---|
-| [[Methotrexate]] | Antimetabolite | 7.5–25 mg/week (oral or SC) | CBC, LFTs, renal function |
-| [[Mycophenolate mofetil]] | Antimetabolite | 1–1.5 g BID | CBC, LFTs |
-| [[Azathioprine]] | Antimetabolite | 1–3 mg/kg/day | CBC, LFTs; check [[TPMT]] level |
-| [[Cyclophosphamide]] | Alkylating agent | Oral: 1–2 mg/kg/day; IV pulse: 0.5–1 g/m² monthly | CBC, urinalysis (hemorrhagic cystitis risk) |
-| [[Cyclosporine A]] | Calcineurin inhibitor | 2–5 mg/kg/day | Renal function, blood pressure, drug levels |
+| Diffuse/Nodular Anterior | Oral [[NSAIDs]] (e.g., [[Indomethacin]] 25–50 mg TID, [[Naproxen]] 500 mg BID) | Oral [[Corticosteroids]] ([[Prednisone]] 1 mg/kg/day, tapered) | [[Immunosuppressive Agents]] |
+| Necrotizing Anterior | Oral [[Corticosteroids]] + [[Immunosuppressive Agents]] | [[Biologic Agents]] | Surgical intervention |
+| Posterior | Oral [[NSAIDs]] or oral [[Corticosteroids]] | [[Immunosuppressive Agents]] | [[Biologic Agents]] |
+| Scleromalacia Perforans | Systemic immunosuppression for underlying [[Rheumatoid Arthritis]] | [[Biologic Agents]] | Scleral grafting if perforation threatened |
 
-**Fourth-line: Biologic Agents**
-- [[Rituximab]] (anti-CD20 monoclonal antibody): Increasingly used for refractory scleritis, particularly ANCA-associated vasculitis. Typical dosing: 1000 mg IV × 2 doses, 2 weeks apart.
-- [[Infliximab]] (anti-TNF-alpha): 3–5 mg/kg IV at weeks 0, 2, 6, then every 4–8 weeks.
-- [[Adalimumab]] (anti-TNF-alpha): 40 mg SC every 2 weeks.
-- [[Tocilizumab]] (anti-IL-6 receptor): Emerging evidence for refractory scleritis.
+#### Immunosuppressive Agents Used in Scleritis
 
-#### Necrotizing Scleritis
-
-Necrotizing scleritis is a **medical emergency** requiring aggressive systemic immunosuppression:
-
-- **Immediate high-dose oral corticosteroids** (prednisone 1–1.5 mg/kg/day) or **IV pulse methylprednisolone** (1 g/day for 3 days) in severe cases.
-- **Early initiation of immunosuppressive therapy** (often cyclophosphamide for ANCA-associated vasculitis, or methotrexate/mycophenolate for other etiologies).
-- **Biologic agents** (rituximab) for refractory cases.
-- **Mandatory systemic workup** and co-management with [[rheumatology]].
-
-#### Posterior Scleritis
-
-- Treatment mirrors anterior scleritis but often requires more aggressive therapy.
-- Oral NSAIDs may suffice for mild cases.
-- Oral corticosteroids and immunosuppressive agents for moderate-to-severe disease.
-- **Sub-Tenon's [[triamcinolone acetonide]] injection** (40 mg/mL) may be used as adjunctive therapy.
-- **Periocular or intravitreal corticosteroid injections** should be used cautiously and are generally adjunctive to systemic therapy.
-
-#### Infectious Scleritis
-
-- **Culture-directed antimicrobial therapy** is essential.
-- **Topical fortified antibiotics** (e.g., fortified [[vancomycin]], fortified [[tobramycin]] or [[ceftazidime]]) for bacterial scleritis.
-- **Topical and systemic antifungals** (e.g., [[voriconazole]], [[natamycin]]) for fungal scleritis.
-- **Systemic antivirals** (e.g., oral [[acyclovir]], [[valacyclovir]]) for herpetic scleritis.
-- **Surgical debridement** may be necessary for refractory infectious scleritis.
-- **Immunosuppression must be avoided or discontinued** in infectious cases.
-
-### Surgical Approaches
-
-Surgical intervention in scleral disease is reserved for specific indications:
-
-1. **Scleral patch grafting**: For impending or actual scleral perforation due to necrotizing scleritis or scleromalacia perforans. Donor materials include:
-   - Preserved donor sclera (most common)
-   - [[Fascia lata]]
-   - [[Pericardium]]
-   - [[Corneal tissue]]
-   - Synthetic materials (e.g., expanded polytetrafluoroethylene)
-
-2. **Scleral reinforcement surgery**: Investigated for progressive [[myopia]], involving placement of a reinforcing band or material over the posterior sclera to resist further elongation. Evidence for efficacy remains limited and controversial.
-
-3. **Scleral buckling**: Used in [[retinal detachment]] surgery; involves placement of a silicone band or sponge on the external scleral surface to indent the wall and close retinal breaks.
-
-4. **Debridement**: Surgical removal of necrotic scleral tissue in infectious scleritis.
-
-5. **Enucleation or evisceration**: In rare, end-stage cases with intractable pain, blindness, and risk of systemic spread of infection.
-
----
-
-## Congenital and Developmental Scleral Conditions
-
-| **Condition** | **Description** | **Associations** |
+| **Agent** | **Class** | **Notes** |
 |---|---|---|
-| **Blue sclera** | Abnormally thin sclera allowing visualization of underlying uveal pigment | [[Osteogenesis imperfecta]], [[Ehlers-Danlos syndrome]], [[Marfan syndrome]], [[pseudoxanthoma elasticum]], iron deficiency anemia; also normal in neonates |
-| **[[Melanosis oculi]] / [[Melanocytosis]]** | Congenital hyperpigmentation of the episclera and sclera | [[Nevus of Ota]] ([[oculodermal melanocytosis]]); increased risk of [[uveal melanoma]] and [[glaucoma]] |
-| **Scleral ectasia / [[Staphyloma]]** | Localized outpouching of thinned sclera lined by uveal tissue | High [[myopia]] (posterior staphyloma); post-inflammatory or post-surgical |
-| **[[Coloboma]]** | Congenital defect from incomplete closure of the embryonic fissure | May involve sclera in association with uveal and retinal colobomas |
+| [[Methotrexate]] | Antimetabolite | Often first-line steroid-sparing agent |
+| [[Mycophenolate Mofetil]] | Antimetabolite | Well-tolerated; effective in moderate disease |
+| [[Azathioprine]] | Antimetabolite | Alternative steroid-sparing agent |
+| [[Cyclophosphamide]] | Alkylating agent | Reserved for severe necrotizing scleritis or [[Granulomatosis with Polyangiitis]]; significant toxicity |
+| [[Cyclosporine A]] | Calcineurin inhibitor | Used in refractory cases |
+| [[Rituximab]] | Anti-CD20 monoclonal antibody | Effective in refractory scleritis, especially ANCA-associated vasculitis |
+| [[Infliximab]] | Anti-TNF-α monoclonal antibody | Used in refractory scleritis |
+| [[Adalimumab]] | Anti-TNF-α monoclonal antibody | Emerging evidence for refractory scleritis |
+| [[Tocilizumab]] | Anti-IL-6 receptor antibody | Reported efficacy in refractory cases |
+
+#### Subconjunctival/Sub-Tenon's Corticosteroid Injections
+
+[[Triamcinolone Acetonide]] (40 mg/mL) injected into the sub-Tenon's space may be used as adjunctive therapy in non-necrotizing anterior scleritis. **This route is contraindicated in necrotizing scleritis** due to the risk of exacerbating scleral necrosis and perforation.
+
+### Surgical Management
+
+Surgical intervention in scleral disease is reserved for complications:
+
+- **Scleral Patch Grafting:** Indicated for impending or actual scleral perforation due to necrotizing scleritis or scleromalacia. Donor materials include preserved [[Scleral Graft]] (from eye bank tissue), [[Pericardium]], [[Fascia Lata]], or [[Corneal Graft]] tissue.
+- **Scleral Reinforcement:** Investigated as a treatment for progressive [[Myopia]], involving placement of a band of donor tissue around the posterior sclera to resist further elongation. Evidence for efficacy remains limited.
+- **[[Scleral Buckling]]:** A surgical procedure for [[Rhegmatogenous Retinal Detachment]] repair involving placement of a silicone band or sponge on the external scleral surface to indent the wall and close retinal breaks. Knowledge of scleral anatomy and thickness is critical for safe buckle placement.
 
 ---
 
-## Scleral Discoloration: Differential Diagnosis
+## Sclera in Contact Lens Practice
 
-| **Color** | **Possible Etiology** |
-|---|---|
-| **Blue/blue-gray** | [[Osteogenesis imperfecta]], [[Ehlers-Danlos syndrome]], [[Marfan syndrome]], scleral thinning (any cause), neonatal sclera, high myopia, [[melanocytosis]] |
-| **Yellow** | [[Jaundice]] ([[icterus]]) — actually subconjunctival; senile lipid deposition; [[carotenemia]] (typically spares sclera) |
-| **Brown/black** | [[Ochronosis]] ([[alkaptonuria]]); [[melanocytosis]]; scleral pigmentation from long-term use of [[epinephrine]] drops; racial melanosis |
-| **Red/violaceous** | [[Scleritis]]; [[episcleritis]]; subconjunctival hemorrhage |
+### Scleral Contact Lenses
 
----
+[[Scleral Contact Lenses]] are large-diameter rigid gas-permeable lenses that vault entirely over the [[Cornea]] and rest on the [[Conjunctiva]] overlying the sclera. They have experienced a resurgence in clinical use for:
 
-## Complications of Scleral Disease
+- [[Keratoconus]] and other [[Corneal Ectasias]]
+- [[Ocular Surface Disease]] (e.g., [[Sjögren Syndrome]], [[Stevens-Johnson Syndrome]], [[Graft-Versus-Host Disease]])
+- Irregular [[Astigmatism]] post-[[Corneal Transplant]] or [[Refractive Surgery]]
+- [[Neurotrophic Keratitis]]
+- High [[Myopia]] or [[Hyperopia]]
 
-Scleritis, particularly necrotizing forms, can lead to severe ocular complications:
-
-- **[[Peripheral ulcerative keratitis]]** (PUK): Corneal melting adjacent to areas of scleral inflammation; may progress to perforation.
-- **[[Anterior uveitis]]**: Occurs in approximately 30–40% of scleritis cases.
-- **Secondary [[glaucoma]]**: From trabecular meshwork inflammation, peripheral anterior synechiae, or steroid-induced IOP elevation.
-- **[[Cataract]]**: From chronic inflammation or prolonged corticosteroid use.
-- **Scleral thinning and perforation**: Most feared complication of necrotizing scleritis.
-- **[[Exudative retinal detachment]]**: Particularly in posterior scleritis.
-- **[[Optic disc edema]] and [[optic neuropathy]]**: In posterior scleritis.
-- **[[Choroidal effusion]]**: From inflammation-induced breakdown of the blood-ocular barrier.
+The scleral topography is not spherical; it is asymmetric and varies among individuals. Modern scleral lens fitting increasingly utilizes [[Scleral Topography]] and [[Anterior Segment OCT]] to optimize lens design and ensure appropriate alignment with the scleral surface. Understanding scleral shape, including the presence of [[Scleral Toricity]] (asymmetric curvature), is essential for successful scleral lens fitting.
 
 ---
 
-## Prognosis
+## Sclera and Glaucoma
 
-The prognosis of scleral disease varies significantly by subtype:
+The sclera plays a critical role in [[Glaucoma]] pathophysiology:
 
-- **Episcleritis**: Excellent prognosis; self-limiting; no permanent structural damage.
-- **Diffuse anterior scleritis**: Generally good with appropriate treatment; recurrences common.
-- **Nodular anterior scleritis**: Good with treatment; may be more recalcitrant than diffuse.
-- **Necrotizing anterior scleritis with inflammation**: Guarded prognosis; significant risk of vision loss (up to 50–75% experience decreased visual acuity); associated with high mortality from underlying systemic vasculitis if untreated (historically up to 25–50% 5-year mortality in patients with associated systemic vasculitis, though modern immunosuppressive therapy has improved outcomes).
-- **Scleromalacia perforans**: Poor ocular prognosis; progressive and difficult to treat.
-- **Posterior scleritis**: Variable; depends on extent of posterior segment involvement.
+- **[[Lamina Cribrosa]]:** This specialized region of the posterior sclera is the primary site of [[Retinal Ganglion Cell]] axon damage in glaucoma. Mechanical stress from elevated [[Intraocular Pressure]] causes deformation and posterior bowing of the lamina cribrosa, leading to axonal compression, ischemia, and cell death.
+- **Scleral Rigidity and IOP Measurement:** Scleral biomechanical properties influence the accuracy of [[Tonometry]]. Eyes with thicker, more rigid scleras (e.g., in [[Hyperopia]]) may yield falsely elevated IOP readings, while eyes with thinner, more compliant scleras (e.g., in high [[Myopia]] or after [[Refractive Surgery]]) may yield falsely low readings. [[Corneal Hysteresis]], measured by the [[Ocular Response Analyzer]], is a related biomechanical parameter.
+- **Transscleral Procedures:** [[Transscleral Cyclophotocoagulation]] (TSCPC) and [[Transscleral Diode Laser]] are glaucoma procedures that deliver laser energy through the sclera to ablate the [[Ciliary Body]] and reduce aqueous humor production.
 
 ---
 
-## Scleral Contact Lenses
+## Scleral Tumors and Deposits
 
-[[Scleral contact lenses]] are large-diameter rigid gas-permeable lenses that vault over the entire [[cornea]] and rest on the sclera. They have become increasingly important in the management of:
+Primary scleral tumors are exceedingly rare. The sclera is more commonly involved by:
 
-- [[Keratoconus]] and other corneal ectasias
-- Severe [[ocular surface disease]] (e.g., [[Sjögren syndrome]], [[Stevens-Johnson syndrome]], [[graft-versus-host disease]])
-- Irregular corneal astigmatism
-- Post-surgical corneas ([[keratoplasty]], [[refractive surgery]] complications)
-
-Understanding scleral anatomy, including regional variations in curvature (scleral toricity), thickness, and the conjunctival-scleral interface, is essential for optimal scleral lens fitting. The sclera is not spherical; it exhibits significant **toricity** and **asymmetry**, which modern scleral lens designs (e.g., quadrant-specific designs) aim to accommodate.
+- **Extension of [[Uveal Melanoma]]:** Extrascleral extension of choroidal or ciliary body melanoma through the scleral emissaria is a significant prognostic factor.
+- **[[Scleral Melanocytosis]]:** Benign melanocytic pigmentation of the sclera, seen in [[Nevus of Ota]] and racial melanosis.
+- **[[Hyaline Plaques]] (Senile Scleral Plaques):** Bilateral, oval, gray-blue translucent areas anterior to the horizontal rectus muscle insertions, seen in elderly patients. They represent calcium and lipid deposition in the sclera and are of no clinical significance.
 
 ---
 
-## Emerging Research and Future Directions
+## Age-Related Changes
 
-- **Scleral cross-linking for myopia control**: Experimental approaches to strengthen the posterior sclera and halt axial elongation in progressive myopia.
-- **Biomechanical modeling**: Advanced computational models of scleral biomechanics to better understand glaucoma pathogenesis and myopia progression.
-- **Biomarkers for scleritis**: Identification of serum and ocular fluid biomarkers for early diagnosis and monitoring of treatment response.
-- **Novel biologic therapies**: Ongoing clinical trials evaluating newer biologic agents (e.g., [[JAK inhibitors]], anti-IL-17 agents) for refractory scleritis.
-- **Anterior segment OCT advancements**: Improved imaging of scleral thickness, inflammation, and vascularity for non-invasive monitoring.
-- **Gene therapy and tissue engineering**: Long-term research into scleral tissue regeneration and repair.
+With aging, the sclera undergoes several changes:
+
+- Increased cross-linking and rigidity of collagen fibers
+- Decreased hydration
+- Accumulation of lipid deposits (lipid degeneration)
+- Development of senile hyaline plaques
+- Mild yellowing due to lipid and UV-related changes
+- Increased scleral rigidity, which may affect IOP measurement accuracy
+
+---
+
+## Summary
+
+The sclera is a complex, dynamic tissue that is far more than a passive structural shell. Its anatomy, biomechanics, and pathology are relevant to a wide range of ophthalmic conditions, from inflammatory disease and glaucoma to myopia and contact lens practice. A thorough understanding of scleral structure and function is essential for the comprehensive eye care practitioner.
 
 ---
 
 ## References
 
-1. Watson PG, Hayreh SS. Scleritis and episcleritis. *British Journal of Ophthalmology*. 1976;60(3):163-191. doi:10.1136/bjo.60.3.163. [https://bjo.bmj.com/content/60/3/163](https://bjo.bmj.com/content/60/3/163)
+1. Watson PG, Hayreh SS. Scleritis and episcleritis. *British Journal of Ophthalmology*. 1976;60(3):163-191. [https://bjo.bmj.com/content/60/3/163](https://bjo.bmj.com/content/60/3/163)
 
-2. Sainz de la Maza M, Molina N, Gonzalez-Gonzalez LA, Doctor PP, Tauber J, Foster CS. Clinical characteristics of a large cohort of patients with scleritis and episcleritis. *Ophthalmology*. 2012;119(1):43-50. doi:10.1016/j.ophtha.2011.07.013. [https://pubmed.ncbi.nlm.nih.gov/21963265/](https://pubmed.ncbi.nlm.nih.gov/21963265/)
+2. Sainz de la Maza M, Molina N, Gonzalez-Gonzalez LA, Doctor PP, Tauber J, Foster CS. Clinical characteristics of a large cohort of patients with scleritis and episcleritis. *Ophthalmology*. 2012;119(1):43-50. [https://doi.org/10.1016/j.ophtha.2011.07.013](https://doi.org/10.1016/j.ophtha.2011.07.013)
 
-3. Foster CS, Sainz de la Maza M. *The Sclera*. 2nd ed. New York: Springer; 2012. [https://link.springer.com/book/10.1007/978-1-4419-6502-8](https://link.springer.com/book/10.1007/978-1-4419-6502-8)
+3. Watson PG, Young RD. Scleral structure, organisation and disease. A review. *Experimental Eye Research*. 2004;78(3):609-623. [https://doi.org/10.1016/S0014-4835(03)00212-4](https://doi.org/10.1016/S0014-4835(03)00212-4)
 
-4. Okhravi N, Odufuwa B, McCluskey P, Lightman S. Scleritis. *Survey of Ophthalmology*. 2005;50(4):351-363. doi:10.1016/j.survophthal.2005.04.001. [https://pubmed.ncbi.nlm.nih.gov/15967190/](https://pubmed.ncbi.nlm.nih.gov/15967190/)
+4. Rada JA, Shelton S, Norton TT. The sclera and myopia. *Experimental Eye Research*. 2006;82(2):185-200. [https://doi.org/10.1016/j.exer.2005.08.009](https://doi.org/10.1016/j.exer.2005.08.009)
 
-5. Watson PG, Young RD. Scleral structure, organisation and disease. A review. *Experimental Eye Research*. 2004;78(3):609-623. doi:10.1016/S0014-4835(03)00212-4. [https://pubmed.ncbi.nlm.nih.gov/15106941/](https://pubmed.ncbi.nlm.nih.gov/15106941/)
+5. Foster CS, Sainz de la Maza M. *The Sclera*. 2nd ed. New York: Springer; 2012. [https://doi.org/10.1007/978-1-4419-6502-8](https://doi.org/10.1007/978-1-4419-6502-8)
 
-6. McBrien NA, Gentle A. Role of the sclera in the development and pathological complications of myopia. *Progress in Retinal and Eye Research*. 2003;22(3):307-338. doi:10.1016/S1350-9462(02)00063-0. [https://pubmed.ncbi.nlm.nih.gov/12852489/](https://pubmed.ncbi.nlm.nih.gov/12852489/)
+6. Bowling B. *Kanski's Clinical Ophthalmology: A Systematic Approach*. 9th ed. Edinburgh: Elsevier; 2020.
 
-7. Nguyen QD, Foster CS. Scleral patch graft in the management of necrotizing scleritis. *International Ophthalmology Clinics*. 1999;39(1):109-131. [https://pubmed.ncbi.nlm.nih.gov/10083910/](https://pubmed.ncbi.nlm.nih.gov/10083910/)
+7. Yanoff M, Duker JS. *Ophthalmology*. 5th ed. Edinburgh: Elsevier; 2019.
 
-8. Yanoff M, Duker JS. *Ophthalmology*. 5th ed. Philadelphia: Elsevier; 2019.
+8. American Academy of Ophthalmology. Basic and Clinical Science Course (BCSC), Section 8: External Disease and Cornea. 2023-2024. [https://www.aao.org/bcsc](https://www.aao.org/bcsc)
 
-9. Kanski JJ, Bowling B. *Clinical Ophthalmology: A Systematic Approach*. 9th ed. Edinburgh: Elsevier; 2020.
+9. Michels RG, Wilkinson CP, Rice TA. *Retinal Detachment*. St. Louis: Mosby; 1990. (Scleral buckling anatomy and technique.)
 
-10. Levy-Clarke G, Jabs DA, Read RW, Rosenbaum JT, Vitale A, Van Gelder RN. Expert panel recommendations for the use of anti-tumor necrosis factor biologic agents in patients with ocular inflammatory disorders. *Ophthalmology*. 2014;121(3):785-796. doi:10.1016/j.ophtha.2013.09.048. [https://pubmed.ncbi.nlm.nih.gov/24359625/](https://pubmed.ncbi.nlm.nih.gov/24359625/)
+10. Nguyen QD, Hatef E, Kayen B, et al. A cross-sectional study of the current treatment patterns in noninfectious uveitis among specialists in the United States. *Ophthalmology*. 2011;118(1):184-190. [https://doi.org/10.1016/j.ophtha.2010.03.029](https://doi.org/10.1016/j.ophtha.2010.03.029)
 
-11. Keino H, Watanabe T, Taki W, Nakashima C, Okada AA. Clinical features and visual outcomes of Japanese patients with scleritis. *British Journal of Ophthalmology*. 2010;94(11):1459-1463. doi:10.1136/bjo.2009.171744. [https://pubmed.ncbi.nlm.nih.gov/20558424/](https://pubmed.ncbi.nlm.nih.gov/20558424/)
+11. Elkington AR, Frank HJ, Greaney MJ. *Clinical Optics*. 3rd ed. Oxford: Blackwell Science; 1999. (Scleral rigidity and tonometry.)
 
-12. Couper T, Shinton R. Scleral involvement in disease. *Clinical and Experimental Optometry*. 2020;103(6):743-755. doi:10.1111/cxo.13070.
+12. Michaud L, van der Worp E, Brazeau D, Warde R, Giasson CJ. Predicting estimates of oxygen transmissibility for scleral lenses. *Contact Lens and Anterior Eye*. 2012;35(6):266-271. [https://doi.org/10.1016/j.clae.2012.07.004](https://doi.org/10.1016/j.clae.2012.07.004)
 
-13. Sigal IA, Flanagan JG, Ethier CR. Factors influencing optic nerve head biomechanics. *Investigative Ophthalmology & Visual Science*. 2005;46(11):4189-4199. doi:10.1167/iovs.05-0541. [https://pubmed.ncbi.nlm.nih.gov/16249498/](https://pubmed.ncbi.nlm.nih.gov/16249498/)
+13. Burgoyne CF, Downs JC, Bellezza AJ, Suh JK, Hart RT. The optic nerve head as a biomechanical structure: a new paradigm for understanding the role of IOP-related stress and strain in the pathophysiology of glaucomatous optic nerve head damage. *Progress in Retinal and Eye Research*. 2005;24(1):39-73. [https://doi.org/10.1016/j.preteyeres.2004.06.001](https://doi.org/10.1016/j.preteyeres.2004.06.001)
 
-14. Wieringa WG, Wieringa JE, ten Dam-van Loon NH, Los LI. Visual outcome, treatment results, and prognostic factors in patients with scleritis. *Ophthalmology*. 2013;120(2):379-386. doi:10.1016/j.ophtha.2012.08.005. [https://pubmed.ncbi.nlm.nih.gov/23098367/](https://pubmed.ncbi.nlm.nih.gov/23098367/)
+14. Jabs DA, Mudun A, Dunn JP, Marsh MJ. Episcleritis and scleritis: clinical features and treatment results. *American Journal of Ophthalmology*. 2000;130(4):469-476. [https://doi.org/10.1016/S0002-9394(00)00710-8](https://doi.org/10.1016/S0002-9394(00)00710-8)
+
+15. Keino H, Watanabe T, Taki W, Nakashima C, Okada AA. Clinical features and visual outcomes of Japanese patients with scleritis. *British Journal of Ophthalmology*. 2010;94(11):1459-1463. [https://doi.org/10.1136/bjo.2009.171744](https://doi.org/10.1136/bjo.2009.171744)
 
 ---
 
-*This article is intended for eye care professionals and should not be used as a substitute for clinical judgment. Management of scleral disease, particularly scleritis, often requires multidisciplinary collaboration with [[rheumatology]], [[immunology]], and [[infectious disease]] specialists.*
+*This article was compiled by **OptoAtlas** for use in a professional optometry and ophthalmology encyclopedia. Content is intended for eye care professionals and students. Clinical decisions should always be based on individual patient assessment and current evidence-based guidelines.*
