@@ -2,13 +2,7 @@
 
 # Choroid
 
-The **choroid** (Latin: *choroidea*) is a highly vascularized, pigmented tissue layer of the [[Uvea|uveal tract]] situated between the [[Retina|retina]] and the [[Sclera|sclera]]. It constitutes the posterior segment of the [[Uvea|uvea]], extending from the [[Ora Serrata|ora serrata]] anteriorly to the [[Optic Nerve|optic nerve]] posteriorly. As the principal blood supply to the outer retina—including the [[Photoreceptors|photoreceptor]] layer and the [[Retinal Pigment Epithelium|retinal pigment epithelium (RPE)]]—the choroid is indispensable for visual function. Choroidal pathology is implicated in a wide spectrum of sight-threatening conditions, including [[Age-Related Macular Degeneration|age-related macular degeneration (AMD)]], [[Central Serous Chorioretinopathy|central serous chorioretinopathy (CSC)]], [[Choroidal Melanoma|choroidal melanoma]], [[Choroidal Neovascularization|choroidal neovascularization (CNV)]], and [[Posterior Uveitis|posterior uveitis]]. Advances in imaging—particularly [[Optical Coherence Tomography|enhanced depth imaging optical coherence tomography (EDI-OCT)]] and [[Indocyanine Green Angiography|indocyanine green angiography (ICGA)]]—have revolutionized the clinical understanding of choroidal anatomy, physiology, and disease.
-
----
-
-## Embryology
-
-The choroid is derived from [[Neural Crest Cells|neural crest cells]] and [[Mesoderm|mesoderm]]. During embryonic development, mesenchymal cells surrounding the [[Optic Cup|optic cup]] differentiate into the vascular and stromal components of the choroid. The choroidal vasculature begins to form during the fifth week of gestation, with the [[Choriocapillaris|choriocapillaris]] being the first vascular layer to develop, followed by the larger vessel layers (Haller's and Sattler's layers). The melanocytes of the choroidal stroma are neural crest–derived and begin to accumulate pigment during the second trimester. Proper embryological development of the choroid is essential; defects during this period can result in conditions such as [[Coloboma|choroidal coloboma]], a congenital gap in the choroidal tissue typically located inferonasal due to failure of the [[Embryonic Fissure|embryonic (optic) fissure]] to close.
+The **choroid** (Latin: *choroidea*) is a highly vascularized, pigmented tissue layer of the [[Uvea|uveal tract]] situated between the [[Retina|retina]] and the [[Sclera|sclera]]. It constitutes the posterior segment of the [[Uvea|uvea]], extending from the [[Ora Serrata|ora serrata]] anteriorly to the [[Optic Nerve|optic nerve]] posteriorly. As the principal blood supply to the outer retina—including the [[Photoreceptors|photoreceptor]] layer and the [[Retinal Pigment Epithelium|retinal pigment epithelium (RPE)]]—the choroid is indispensable for visual function. Choroidal pathology is implicated in a broad spectrum of sight-threatening conditions, including [[Age-Related Macular Degeneration|age-related macular degeneration (AMD)]], [[Central Serous Chorioretinopathy|central serous chorioretinopathy (CSCR)]], [[Choroidal Melanoma|choroidal melanoma]], [[Choroidal Neovascularization|choroidal neovascularization (CNV)]], and [[Posterior Uveitis|posterior uveitis]]. Advances in imaging—particularly [[Optical Coherence Tomography|enhanced depth imaging optical coherence tomography (EDI-OCT)]] and [[Indocyanine Green Angiography|indocyanine green angiography (ICGA)]]—have revolutionized the clinical understanding of choroidal anatomy, physiology, and disease.
 
 ---
 
@@ -16,138 +10,152 @@ The choroid is derived from [[Neural Crest Cells|neural crest cells]] and [[Meso
 
 ### General Structure
 
-The choroid is a thin, highly pigmented, and richly vascular tissue approximately **0.1 mm thick at the posterior pole** and tapering to approximately **0.1–0.15 mm** peripherally, though subfoveal choroidal thickness (SFCT) in healthy adults typically ranges from **250–350 µm** as measured by [[Optical Coherence Tomography|EDI-OCT]]. It is firmly attached at the [[Optic Disc|optic disc]] and at the exit points of the [[Vortex Veins|vortex veins]], but is otherwise loosely adherent to the sclera, separated by the potential [[Suprachoroidal Space|suprachoroidal space]] (lamina fusca).
+The choroid is approximately 0.22 mm thick at the posterior pole (subfoveal region) and thins to approximately 0.10 mm at the periphery near the [[Ora Serrata|ora serrata]]. It is bound externally by the [[Suprachoroidal Space|suprachoroidal space]] (lamina fusca) and internally by [[Bruch's Membrane|Bruch's membrane]]. The choroid is composed of blood vessels, [[Melanocytes|melanocytes]], [[Fibroblasts|fibroblasts]], resident [[Macrophages|macrophages]], [[Mast Cells|mast cells]], collagen, and elastic fibers embedded in a loose connective tissue stroma.
 
 ### Histological Layers
 
-From external (scleral side) to internal (retinal side), the choroid is classically divided into the following layers:
+The choroid is classically divided into the following layers, from external (scleral side) to internal (retinal side):
 
 | Layer | Description | Key Features |
 |---|---|---|
-| **[[Suprachoroidal Space\|Suprachoroidal Lamina (Lamina Fusca)]]** | Transitional zone between sclera and choroid | Contains collagen fibers, melanocytes, fibroblasts; potential space for fluid accumulation (e.g., [[Choroidal Effusion\|choroidal effusion]]) |
-| **[[Haller's Layer\|Haller's Layer (Large Vessel Layer)]]** | Outermost vascular layer | Contains large-caliber arteries and veins; the thickest choroidal layer |
-| **[[Sattler's Layer\|Sattler's Layer (Medium Vessel Layer)]]** | Intermediate vascular layer | Contains medium-caliber arterioles and venules |
-| **[[Choriocapillaris\|Choriocapillaris]]** | Innermost capillary layer | Dense, single-layered capillary network with fenestrated endothelium; directly nourishes the RPE and outer retina |
-| **[[Bruch's Membrane\|Bruch's Membrane]]** | Pentalaminar acellular membrane | Separates choriocapillaris from RPE; composed of RPE basement membrane, inner collagenous layer, elastic layer, outer collagenous layer, and choriocapillaris basement membrane |
+| **Suprachoroidal lamina (Lamina fusca)** | Transitional zone between [[Sclera]] and choroid | Thin collagenous lamellae, melanocytes, fibroblasts; potential space for suprachoroidal effusion |
+| **Haller's layer (Outer vascular layer)** | Large-caliber vessels (arteries and veins) | Contains the major choroidal arteries and veins; largest component of choroidal thickness |
+| **Sattler's layer (Middle vascular layer)** | Medium-caliber arterioles and venules | Transitional vascular network feeding the choriocapillaris |
+| **Choriocapillaris** | Dense capillary plexus immediately external to Bruch's membrane | Fenestrated endothelium; primary nutrient supply to outer retina and RPE |
+| **[[Bruch's Membrane]]** | Pentalaminar extracellular matrix | Composed of RPE basement membrane, inner collagenous layer, elastic layer, outer collagenous layer, and choriocapillaris basement membrane |
 
-### Choroidal Stroma
+### Vascular Supply
 
-The extravascular stroma of the choroid contains [[Melanocytes|melanocytes]], [[Fibroblasts|fibroblasts]], [[Mast Cells|mast cells]], [[Macrophages|macrophages]], [[Lymphocytes|lymphocytes]], collagen fibers, and non-vascular smooth muscle cells. The melanocytes are responsible for the dark pigmentation of the choroid, which serves to absorb stray light and reduce light scatter within the eye, thereby enhancing image quality on the retina. The density of melanocytes varies with [[Iris Color|iris color]] and ethnicity, with more heavily pigmented individuals having a denser choroidal pigment layer.
+The choroidal vasculature is derived from the [[Ophthalmic Artery|ophthalmic artery]] via two principal routes:
+
+- **[[Short Posterior Ciliary Arteries|Short posterior ciliary arteries (SPCAs)]]**: 15–20 branches that penetrate the sclera around the optic nerve to supply the posterior choroid and choriocapillaris.
+- **[[Long Posterior Ciliary Arteries|Long posterior ciliary arteries (LPCAs)]]**: Two arteries (medial and lateral) that course anteriorly within the suprachoroidal space to supply the anterior choroid and contribute to the [[Circle of Zinn-Haller|circle of Zinn-Haller]] and the [[Major Arterial Circle of the Iris|major arterial circle of the iris]].
+
+Venous drainage occurs through the **[[Vortex Veins|vortex veins]]** (venae vorticosae), typically four in number (one per quadrant), which exit the globe posterior to the equator and drain into the [[Superior Ophthalmic Vein|superior]] and [[Inferior Ophthalmic Vein|inferior ophthalmic veins]].
+
+The choroidal blood flow is the highest per unit tissue weight of any organ in the body, estimated at approximately 800–2000 mL/min/100 g of tissue. This extraordinary perfusion rate serves not only metabolic demands but also thermoregulatory functions for the retina.
 
 ### Innervation
 
-The choroid receives both **parasympathetic** and **sympathetic** innervation. Parasympathetic fibers originate from the [[Pterygopalatine Ganglion|pterygopalatine ganglion]] (via the [[Facial Nerve|facial nerve]], CN VII) and are vasodilatory, mediated by [[Nitric Oxide|nitric oxide (NO)]] and [[Vasoactive Intestinal Peptide|vasoactive intestinal peptide (VIP)]]. Sympathetic fibers arise from the [[Superior Cervical Ganglion|superior cervical ganglion]] and are vasoconstrictive, acting via [[Norepinephrine|norepinephrine]] on alpha-adrenergic receptors. Sensory innervation is provided by the [[Long Posterior Ciliary Nerves|long]] and [[Short Posterior Ciliary Nerves|short posterior ciliary nerves]], branches of the [[Ophthalmic Division of Trigeminal Nerve|ophthalmic division (V1)]] of the [[Trigeminal Nerve|trigeminal nerve (CN V)]]. Intrinsic choroidal neurons (ICNs), particularly concentrated in the submacular region, form a local ganglion plexus that may modulate choroidal blood flow independently.
-
----
-
-## Vascular Supply and Hemodynamics
-
-### Arterial Supply
-
-The choroid receives its blood supply from the [[Ophthalmic Artery|ophthalmic artery]] via the [[Posterior Ciliary Arteries|posterior ciliary arteries (PCAs)]]:
-
-- **[[Short Posterior Ciliary Arteries|Short posterior ciliary arteries (SPCAs)]]**: Approximately 15–20 branches that penetrate the sclera around the optic nerve and supply the posterior choroid and choriocapillaris.
-- **[[Long Posterior Ciliary Arteries|Long posterior ciliary arteries (LPCAs)]]**: Two arteries (medial and lateral) that travel anteriorly within the suprachoroidal space to supply the anterior choroid and contribute to the [[Major Arterial Circle of the Iris|major arterial circle of the iris]].
-
-The SPCAs supply the choroid in a **segmental, lobular** fashion. Each terminal arteriole supplies a discrete lobule of the choriocapillaris. This segmental arrangement has critical clinical significance: occlusion of a single SPCA results in a **triangular or wedge-shaped area of choroidal ischemia**, as seen in conditions such as [[Anterior Ischemic Optic Neuropathy|anterior ischemic optic neuropathy (AION)]] and [[Elschnig Spots|Elschnig spots]] in hypertensive choroidopathy.
-
-### Venous Drainage
-
-Venous blood from the choroid drains into the [[Vortex Veins|vortex veins (venae vorticosae)]], typically four in number (one per quadrant), which exit the globe posterior to the equator and drain into the [[Superior Ophthalmic Vein|superior]] and [[Inferior Ophthalmic Vein|inferior ophthalmic veins]].
-
-### Hemodynamic Characteristics
-
-The choroid has the **highest blood flow per unit tissue weight** of any organ in the body. Choroidal blood flow accounts for approximately **65–85%** of total ocular blood flow. Key hemodynamic features include:
-
-- **High flow rate, low oxygen extraction**: Only about 3–5% of available oxygen is extracted per pass, resulting in a high venous oxygen saturation (~95%). This is thought to serve a thermoregulatory function, dissipating heat generated by light absorption in the RPE and photoreceptors.
-- **Fenestrated capillaries**: The choriocapillaris endothelium is fenestrated (pore diameter ~60–80 nm), allowing free passage of large molecules, nutrients, and metabolic waste between the choroidal vasculature and the RPE/outer retina.
-- **Autoregulation**: Choroidal blood flow demonstrates limited myogenic autoregulation compared to the [[Retinal Vasculature|retinal vasculature]], making it more susceptible to changes in systemic blood pressure and autonomic tone.
+The choroid receives both **parasympathetic** innervation (via the [[Facial Nerve|facial nerve (CN VII)]] through the [[Pterygopalatine Ganglion|pterygopalatine ganglion]]) and **sympathetic** innervation (from the [[Superior Cervical Ganglion|superior cervical ganglion]]). Parasympathetic stimulation causes vasodilation and increased choroidal blood flow, while sympathetic stimulation causes vasoconstriction. Sensory innervation is provided by the [[Trigeminal Nerve|trigeminal nerve (CN V)]]. Intrinsic choroidal neurons (ICNs), particularly concentrated in the submacular region, are believed to play a role in local autoregulation of choroidal blood flow.
 
 ---
 
 ## Physiology and Function
 
-The choroid serves several critical physiological functions:
+### Metabolic Support of the Outer Retina
 
-1. **Nutritional support**: The choriocapillaris provides oxygen, glucose, fatty acids, retinol, and other essential nutrients to the RPE and the avascular outer retina (photoreceptor inner and outer segments).
-2. **Waste removal**: Metabolic byproducts from the RPE and photoreceptors, including water, carbon dioxide, and retinal metabolites, are cleared via the choriocapillaris.
-3. **Thermoregulation**: The high choroidal blood flow dissipates heat generated by phototransduction and light absorption, protecting the delicate photoreceptor cells from thermal damage.
-4. **Light absorption**: Choroidal melanocytes absorb scattered and transmitted light, reducing intraocular light scatter and improving retinal image contrast.
-5. **Secretion of growth factors**: The choroid produces [[Vascular Endothelial Growth Factor|vascular endothelial growth factor (VEGF)]], [[Pigment Epithelium-Derived Factor|pigment epithelium-derived factor (PEDF)]], and other cytokines that maintain the homeostasis of the RPE and Bruch's membrane.
-6. **Modulation of intraocular pressure (IOP)**: Changes in choroidal blood volume can influence [[Intraocular Pressure|IOP]] and [[Anterior Chamber Depth|anterior chamber depth]].
-7. **Accommodation support**: Choroidal thickness changes during [[Accommodation|accommodation]], with the choroid thinning during near focus and thickening during distance focus, contributing to the emmetropization process.
+The choroid's primary physiological role is to supply oxygen and nutrients to the outer retinal layers, including the [[Photoreceptors|photoreceptors]] (rods and cones) and the [[Retinal Pigment Epithelium|RPE]]. The [[Choriocapillaris|choriocapillaris]], with its fenestrated endothelium, permits the passage of large molecules and maintains the metabolic demands of the highly active photoreceptor cells. Approximately 90% of the oxygen consumed by the retina in the dark-adapted state is supplied by the choroidal circulation.
+
+### Thermoregulation
+
+The high blood flow through the choroid dissipates heat generated by the absorption of light energy by the RPE and photoreceptors, thereby protecting these thermally sensitive structures from photothermal damage.
+
+### Light Absorption
+
+Choroidal [[Melanocytes|melanocytes]] absorb scattered light that passes through the retina, reducing intraocular light scatter and improving image quality on the retina. This function is analogous to the matte black interior of a camera.
+
+### Modulation of Intraocular Pressure
+
+The choroid contributes to the regulation of [[Intraocular Pressure|intraocular pressure (IOP)]] through changes in choroidal blood volume. Rapid fluctuations in choroidal thickness can transiently alter IOP. The [[Uveoscleral Outflow|uveoscleral outflow pathway]], which traverses the suprachoroidal space, is a significant route for [[Aqueous Humor|aqueous humor]] drainage.
+
+### Role in Emmetropization and Refractive Development
+
+Experimental evidence demonstrates that the choroid plays an active role in [[Emmetropization|emmetropization]]—the process by which the eye adjusts its axial length to achieve focused vision. The choroid can rapidly change its thickness (choroidal thickening or thinning) to move the retina toward or away from the focal plane, acting as a biological "fine-tuning" mechanism. This has significant implications for the understanding of [[Myopia|myopia]] development and progression.
 
 ---
 
 ## Pathophysiology
 
-Choroidal pathology can be broadly categorized into vascular, inflammatory, degenerative, neoplastic, and structural disorders. The pathophysiological mechanisms underlying choroidal disease are diverse and often interrelated.
+Choroidal pathophysiology encompasses a wide range of mechanisms including vascular dysfunction, inflammatory infiltration, neoplastic transformation, degenerative changes, and structural abnormalities. The following subsections detail the major pathophysiological processes affecting the choroid.
 
 ### Choroidal Vascular Dysfunction
 
-Disruption of choroidal blood flow is central to many ocular diseases:
+#### Choroidal Ischemia
 
-- **Choroidal ischemia**: Occlusion of the SPCAs or choriocapillaris leads to ischemic infarction of the outer retina and RPE. This is observed in [[Hypertensive Choroidopathy|hypertensive choroidopathy]] (Elschnig spots, Siegrist streaks), [[Toxemia of Pregnancy|pre-eclampsia/eclampsia]], [[Disseminated Intravascular Coagulation|DIC]], and [[Giant Cell Arteritis|giant cell arteritis]].
-- **[[Choroidal Neovascularization|Choroidal neovascularization (CNV)]]**: Pathological angiogenesis from the choriocapillaris through breaks in Bruch's membrane into the sub-RPE or subretinal space. CNV is driven by an imbalance between pro-angiogenic factors (primarily [[Vascular Endothelial Growth Factor|VEGF]]) and anti-angiogenic factors ([[Pigment Epithelium-Derived Factor|PEDF]]). CNV is the hallmark of wet (exudative) [[Age-Related Macular Degeneration|AMD]] and is also seen in [[Pathologic Myopia|pathologic myopia]], [[Presumed Ocular Histoplasmosis Syndrome|presumed ocular histoplasmosis syndrome (POHS)]], [[Angioid Streaks|angioid streaks]], and idiopathic causes.
-- **[[Polypoidal Choroidal Vasculopathy|Polypoidal choroidal vasculopathy (PCV)]]**: Characterized by abnormal branching vascular networks with polypoidal dilations in the inner choroid, leading to serous and hemorrhagic detachments of the RPE. PCV is now classified within the [[Pachychoroid Spectrum|pachychoroid disease spectrum]].
+Impaired choroidal perfusion leads to ischemia of the outer retina and RPE. This is observed in conditions such as:
 
-### Pachychoroid Spectrum Disorders
+- **[[Hypertensive Choroidopathy|Hypertensive choroidopathy]]**: Severe systemic [[Hypertension|hypertension]] causes fibrinoid necrosis of choroidal arterioles, leading to focal ischemia, RPE damage, and serous [[Retinal Detachment|retinal detachment]] (Elschnig spots and Siegrist streaks).
+- **[[Triangular Syndrome|Watershed zone infarction]]**: Ischemia at the border zones between territories supplied by different SPCAs.
+- **[[Diabetic Choroidopathy|Diabetic choroidopathy]]**: Basement membrane thickening, choriocapillaris dropout, and vascular remodeling in [[Diabetes Mellitus|diabetes mellitus]].
 
-The concept of the **[[Pachychoroid|pachychoroid]]** has emerged as a unifying pathophysiological framework for a group of conditions characterized by increased choroidal thickness, dilated Haller's layer vessels (pachyvessels), and attenuation of the overlying choriocapillaris and Sattler's layer. The pachychoroid spectrum includes:
+#### Choroidal Hyperpermeability
 
-| Condition | Key Features |
-|---|---|
-| **[[Pachychoroid Pigment Epitheliopathy|Pachychoroid pigment epitheliopathy (PPE)]]** | Focal RPE changes overlying pachyvessels without subretinal fluid |
-| **[[Central Serous Chorioretinopathy|Central serous chorioretinopathy (CSC)]]** | Serous neurosensory retinal detachment due to focal RPE leak; associated with corticosteroid use, type A personality, [[Cushing Syndrome|Cushing syndrome]] |
-| **[[Pachychoroid Neovasculopathy|Pachychoroid neovasculopathy (PNV)]]** | Type 1 CNV arising in the setting of a pachychoroid |
-| **[[Polypoidal Choroidal Vasculopathy|Polypoidal choroidal vasculopathy (PCV)]]** | Branching vascular network with polypoidal lesions |
-| **[[Focal Choroidal Excavation|Focal choroidal excavation (FCE)]]** | Concavity of the choroid without full-thickness defect; may be conforming or non-conforming |
-| **[[Peripapillary Pachychoroid Syndrome|Peripapillary pachychoroid syndrome (PPS)]]** | Pachychoroid changes concentrated around the optic disc with nasal subretinal fluid |
+Increased permeability of the choroidal vasculature, particularly the choriocapillaris, is a hallmark of [[Central Serous Chorioretinopathy|central serous chorioretinopathy (CSCR)]] and the [[Pachychoroid Spectrum|pachychoroid disease spectrum]]. Dilated Haller's layer vessels (pachyvessels) compress Sattler's layer and the choriocapillaris, leading to focal ischemia, RPE dysfunction, and subretinal fluid accumulation.
 
-### Inflammatory Choroidal Disease
+#### Choroidal Neovascularization (CNV)
 
-Choroidal inflammation ([[Choroiditis|choroiditis]]) may be infectious or non-infectious:
+[[Choroidal Neovascularization|CNV]] refers to the growth of new, abnormal blood vessels from the choriocapillaris through defects in [[Bruch's Membrane|Bruch's membrane]] into the sub-RPE or subretinal space. CNV is driven by an imbalance between pro-angiogenic factors (primarily [[Vascular Endothelial Growth Factor|vascular endothelial growth factor (VEGF)]]) and anti-angiogenic factors (e.g., [[Pigment Epithelium-Derived Factor|pigment epithelium-derived factor (PEDF)]]). CNV is the pathological hallmark of:
 
-- **Infectious**: [[Toxoplasmosis|Toxoplasma gondii]] (most common cause of posterior uveitis worldwide), [[Tuberculosis|Mycobacterium tuberculosis]] (choroidal tubercles, serpiginous-like choroiditis), [[Syphilis|Treponema pallidum]], [[Histoplasmosis|Histoplasma capsulatum]], [[Cytomegalovirus Retinitis|CMV]], [[Pneumocystis Choroiditis|Pneumocystis jirovecii]].
-- **Non-infectious/Autoimmune**: [[Vogt-Koyanagi-Harada Disease|Vogt-Koyanagi-Harada (VKH) disease]] (granulomatous panuveitis targeting melanocyte-containing tissues), [[Sympathetic Ophthalmia|sympathetic ophthalmia]], [[Sarcoidosis|sarcoidosis]], [[Birdshot Chorioretinopathy|birdshot chorioretinopathy]] (associated with [[HLA-A29|HLA-A29]]), [[Multifocal Choroiditis|multifocal choroiditis and panuveitis (MCP)]], [[Serpiginous Choroiditis|serpiginous choroiditis]], and [[White Dot Syndromes|white dot syndromes]].
+- **Neovascular (wet) [[Age-Related Macular Degeneration|AMD]]**
+- **[[Pathologic Myopia|Pathologic myopia]]** (myopic CNV)
+- **[[Presumed Ocular Histoplasmosis Syndrome|Presumed ocular histoplasmosis syndrome (POHS)]]**
+- **[[Angioid Streaks|Angioid streaks]]**
+- **Idiopathic CNV**
+
+CNV is classified by the Gass system:
+
+| Type | Location | Description |
+|---|---|---|
+| **Type 1 (Occult)** | Sub-RPE (between RPE and Bruch's membrane) | Often associated with AMD; may present as pigment epithelial detachment (PED) |
+| **Type 2 (Classic)** | Subretinal (above RPE) | Well-defined on [[Fluorescein Angiography|fluorescein angiography (FA)]]; more aggressive leakage |
+| **Type 3 (RAP)** | Intraretinal (retinal angiomatous proliferation) | Originates from retinal vasculature with secondary choroidal anastomosis |
+
+### Inflammatory Pathophysiology
+
+Choroidal inflammation ([[Choroiditis|choroiditis]]) may be infectious or non-infectious and is a component of [[Posterior Uveitis|posterior uveitis]] and [[Panuveitis|panuveitis]].
+
+- **Granulomatous choroiditis**: Seen in [[Sarcoidosis|sarcoidosis]], [[Tuberculosis|tuberculosis (TB)]], [[Sympathetic Ophthalmia|sympathetic ophthalmia]], and [[Vogt-Koyanagi-Harada Disease|Vogt-Koyanagi-Harada (VKH) disease]]. Characterized by granuloma formation with epithelioid cells and multinucleated giant cells.
+- **Non-granulomatous choroiditis**: Seen in [[Toxoplasmosis|toxoplasmosis]], [[Birdshot Chorioretinopathy|birdshot chorioretinopathy]], and [[Multifocal Choroiditis|multifocal choroiditis]].
+- **White dot syndromes**: A group of inflammatory conditions affecting the choroid, RPE, and outer retina, including [[Multiple Evanescent White Dot Syndrome|MEWDS]], [[Punctate Inner Choroidopathy|punctate inner choroidopathy (PIC)]], [[Acute Posterior Multifocal Placoid Pigment Epitheliopathy|APMPPE]], and [[Serpiginous Choroiditis|serpiginous choroiditis]].
 
 ### Degenerative Changes
 
-- **[[Age-Related Macular Degeneration|Age-related macular degeneration (AMD)]]**: Progressive degeneration of the choriocapillaris, Bruch's membrane, and RPE. Choroidal thinning and choriocapillaris dropout are hallmarks of dry (atrophic) AMD, while CNV characterizes wet AMD.
-- **[[Choroidal Atrophy|Choroidal atrophy]]**: Seen in high [[Myopia|myopia]] (myopic macular degeneration), advanced AMD, and post-inflammatory states.
+Age-related changes in the choroid include:
 
-### Neoplastic Disease
+- Progressive thinning of the choroid (approximately 15.6 μm per decade of life)
+- Choriocapillaris dropout and reduced vascular density
+- Thickening and calcification of [[Bruch's Membrane|Bruch's membrane]]
+- Accumulation of [[Drusen|drusen]] (lipid-rich deposits between the RPE and Bruch's membrane)
+- Reduced choroidal blood flow
 
-- **[[Choroidal Melanoma|Choroidal melanoma]]**: The most common primary intraocular malignancy in adults. Arises from uveal melanocytes. Risk factors include light iris color, [[Choroidal Nevus|pre-existing choroidal nevus]], [[BAP1 Mutation|BAP1 mutation]], and [[Oculodermal Melanocytosis|oculodermal melanocytosis (nevus of Ota)]].
-- **[[Choroidal Nevus|Choroidal nevus]]**: Benign melanocytic lesion; present in approximately 5–10% of the population. Monitored for transformation using the mnemonic **"To Find Small Ocular Melanoma Using Helpful Hints Daily"** (Thickness >2 mm, Fluid, Symptoms, Orange pigment, Melanoma hollow on ultrasound, Halo absent, Drusen absent).
-- **[[Choroidal Metastasis|Choroidal metastasis]]**: The most common intraocular malignancy overall. Most frequently from breast (women) and lung (men) primary tumors. Typically appears as a creamy-yellow, flat or dome-shaped lesion.
-- **[[Choroidal Hemangioma|Choroidal hemangioma]]**: Circumscribed (sporadic) or diffuse (associated with [[Sturge-Weber Syndrome|Sturge-Weber syndrome]]).
-- **[[Choroidal Osteoma|Choroidal osteoma]]**: Rare benite ossifying tumor, typically in young women, appearing as a yellow-white, well-demarcated juxtapapillary lesion.
+These degenerative changes are central to the pathogenesis of [[Age-Related Macular Degeneration|AMD]].
 
-### Structural Abnormalities
+### Neoplastic Pathophysiology
 
-- **[[Choroidal Detachment|Choroidal detachment (choroidal effusion)]]**: Accumulation of fluid (serous) or blood (hemorrhagic) in the suprachoroidal space. Serous detachments occur post-operatively (especially after [[Glaucoma Surgery|glaucoma filtering surgery]]), with hypotony, or with inflammatory conditions. Hemorrhagic choroidal detachments (suprachoroidal hemorrhage) are a feared surgical complication.
-- **[[Choroidal Folds|Choroidal folds]]**: Parallel striations of the choroid and Bruch's membrane, caused by orbital tumors, [[Papilledema|papilledema]], hypotony, posterior scleritis, or idiopathic causes.
-- **[[Choroidal Rupture|Choroidal rupture]]**: Traumatic break in the choroid, Bruch's membrane, and RPE, typically crescent-shaped and concentric to the optic disc. May be complicated by secondary CNV.
+The choroid is the most common site of primary intraocular malignancy in adults. [[Choroidal Melanoma|Choroidal melanoma]] arises from uveal melanocytes and may grow in dome-shaped, mushroom-shaped (collar-button), or diffuse patterns. Metastatic tumors to the choroid (most commonly from [[Breast Cancer|breast]] and [[Lung Cancer|lung]] primaries) are the most common intraocular malignancies overall.
+
+[[Choroidal Hemangioma|Choroidal hemangiomas]] (circumscribed or diffuse) are benign vascular tumors. [[Choroidal Osteoma|Choroidal osteomas]] are rare benign tumors composed of mature bone.
 
 ---
 
 ## Clinical Presentation and Symptoms
 
-Choroidal diseases may present with a wide range of symptoms depending on the specific pathology, location, and extent of involvement:
+Choroidal pathology may present with a wide range of symptoms depending on the specific condition, location, and severity:
 
 | Symptom | Associated Choroidal Conditions |
 |---|---|
-| **Blurred or decreased vision** | CNV, CSC, choroidal detachment, choroidal tumors, VKH, choroiditis |
-| **[[Metamorphopsia\|Metamorphopsia]]** | CNV, CSC, pachychoroid neovasculopathy, choroidal folds |
-| **[[Scotoma\|Central or paracentral scotoma]]** | CNV, choroidal ischemia, choroidal rupture with macular involvement |
-| **[[Micropsia\|Micropsia]] / [[Hypermetropic Shift\|Hypermetropic shift]]** | CSC (due to subretinal fluid elevation of the neurosensory retina) |
-| **[[Photopsia\|Photopsia]]** | CNV, choroidal tumors, inflammatory choroiditis |
-| **[[Floaters\|Floaters]]** | Posterior uveitis/choroiditis with vitritis |
-| **Pain** | Posterior scleritis, choroidal hemorrhage, choroidal melanoma (rare) |
-| **Asymptomatic** | Choroidal nevus, early pachychoroid changes, peripheral choroidal lesions |
+| **Blurred or decreased vision** | CNV, CSCR, choroidal tumors, choroiditis, choroidal effusion |
+| **Metamorphopsia (distorted vision)** | CNV (especially subfoveal), CSCR, choroidal folds |
+| **Scotoma (visual field defect)** | Choroidal melanoma, choroiditis, choroidal infarction |
+| **Micropsia/Hypermetropic shift** | CSCR (serous detachment elevates retina) |
+| **Photopsia (flashes of light)** | Inflammatory choroiditis, CNV |
+| **Floaters** | Posterior uveitis with vitritis secondary to choroiditis |
+| **Pain** | Posterior scleritis with choroidal involvement, choroidal melanoma (rare), acute choroidal ischemia |
+| **Asymptomatic** | Choroidal nevus, early choroidal thinning, peripheral choroidal lesions |
 
-It is important to note that many choroidal conditions—particularly those affecting the peripheral choroid—may be entirely **asymptomatic** and discovered incidentally during routine [[Dilated Fundus Examination|dilated fundus examination]].
+It is critical to note that many choroidal conditions—particularly those affecting the peripheral choroid—may be entirely asymptomatic and discovered incidentally during routine [[Dilated Fundus Examination|dilated fundus examination]].
+
+### Choroidal Folds
+
+[[Choroidal Folds|Choroidal folds]] are parallel striations visible on fundoscopy, representing undulations of the choroid and Bruch's membrane. They may be caused by:
+
+- [[Orbital Tumors|Orbital mass lesions]]
+- [[Posterior Scleritis|Posterior scleritis]]
+- [[Hypotony|Hypotony]]
+- [[Choroidal Tumors|Choroidal tumors]]
+- [[Papilledema|Papilledema]]
+- Idiopathic
 
 ---
 
@@ -155,152 +163,211 @@ It is important to note that many choroidal conditions—particularly those affe
 
 ### Clinical Examination
 
-- **[[Dilated Fundus Examination|Dilated fundus examination]]**: Using [[Binocular Indirect Ophthalmoscopy|binocular indirect ophthalmoscopy (BIO)]] and [[Slit-Lamp Biomicroscopy|slit-lamp biomicroscopy]] with a [[78D Lens|78D]], [[90D Lens|90D]], or [[Volk Lens|Volk SuperField lens]]. Choroidal lesions may appear as pigmented or amelanotic masses, areas of atrophy, or subretinal fluid.
-- **[[Scleral Depression|Scleral depression]]**: Useful for evaluating peripheral choroidal lesions.
+- **[[Dilated Fundus Examination|Dilated fundus examination]]**: Using [[Binocular Indirect Ophthalmoscopy|binocular indirect ophthalmoscopy (BIO)]] and [[Slit-Lamp Biomicroscopy|slit-lamp biomicroscopy]] with condensing lenses (e.g., [[78D Lens|78D]], [[90D Lens|90D]], or [[Volk SuperField|SuperField]] lenses). Choroidal lesions may appear as elevated masses, pigmented or amelanotic lesions, or areas of atrophy.
+- **[[Scleral Depression|Scleral depression]]**: Useful for visualizing peripheral choroidal pathology.
 
-### Imaging
+### Imaging Modalities
 
-| Modality | Clinical Utility in Choroidal Assessment |
+#### Optical Coherence Tomography (OCT)
+
+[[Optical Coherence Tomography|OCT]], particularly **[[Enhanced Depth Imaging OCT|enhanced depth imaging OCT (EDI-OCT)]]** and **[[Swept-Source OCT|swept-source OCT (SS-OCT)]]**, has transformed choroidal assessment. EDI-OCT positions the zero-delay line closer to the choroid, providing superior visualization of choroidal structure.
+
+Key OCT measurements and findings include:
+
+| Parameter | Clinical Significance |
 |---|---|
-| **[[Optical Coherence Tomography\|Enhanced Depth Imaging OCT (EDI-OCT)]]** | Gold standard for measuring choroidal thickness (subfoveal and regional); visualizes choroidal layers, pachyvessels, suprachoroidal fluid, and choroidal tumors |
-| **[[Swept-Source OCT\|Swept-Source OCT (SS-OCT)]]** | Longer wavelength (1050 nm) provides superior choroidal penetration compared to spectral-domain OCT; enables detailed visualization of the choroidal-scleral interface |
-| **[[OCT Angiography\|OCT Angiography (OCTA)]]** | Non-invasive visualization of the choriocapillaris and deeper choroidal vasculature; detects CNV, choriocapillaris flow voids, and vascular abnormalities without dye injection |
-| **[[Fluorescein Angiography\|Fluorescein Angiography (FA)]]** | Identifies RPE leaks (CSC), CNV (classic and occult patterns), window defects, and blocked fluorescence from choroidal lesions |
-| **[[Indocyanine Green Angiography\|Indocyanine Green Angiography (ICGA)]]** | Superior for imaging the choroidal vasculature due to ICG's 98% protein binding and near-infrared fluorescence (835 nm); essential for diagnosing PCV, CSC, choroidal hemangioma, and inflammatory choroidopathies |
-| **[[B-Scan Ultrasonography\|B-Scan Ultrasonography]]** | Evaluates choroidal tumors (thickness, internal reflectivity, extrascleral extension), choroidal detachments, and posterior segment pathology when media opacity precludes fundoscopy |
-| **[[Ultrasound Biomicroscopy\|Ultrasound Biomicroscopy (UBM)]]** | High-resolution imaging of the anterior choroid and ciliary body |
-| **[[Fundus Autofluorescence\|Fundus Autofluorescence (FAF)]]** | Detects RPE changes overlying choroidal pathology; hyper-AF (lipofuscin accumulation) and hypo-AF (RPE atrophy) patterns |
-| **[[Magnetic Resonance Imaging\|MRI]]** | Characterizes choroidal tumors (melanoma: T1 hyperintense, T2 hypointense due to melanin); evaluates extraocular extension |
-| **[[Computed Tomography\|CT Scan]]** | Detects calcification in choroidal osteoma; evaluates orbital involvement of choroidal tumors |
+| **Subfoveal choroidal thickness (SFCT)** | Normal: ~250–350 μm (varies with age, axial length, refractive error); increased in CSCR and pachychoroid spectrum; decreased in AMD, high myopia, aging |
+| **Choroidal volume** | Quantitative assessment of overall choroidal bulk |
+| **Pachyvessels** | Dilated Haller's layer vessels; hallmark of pachychoroid disease spectrum |
+| **Choroidal cavitations** | Peripapillary or macular; associated with high myopia |
+| **Suprachoroidal fluid** | Hyporeflective space between choroid and sclera; seen in choroidal effusion, hypotony |
+| **Subretinal/sub-RPE fluid** | Indicative of CNV, CSCR, or inflammatory exudation |
 
-### Choroidal Thickness Measurement
+#### OCT Angiography (OCTA)
 
-**Subfoveal choroidal thickness (SFCT)** has become a critical biomarker in clinical practice and research. Normal SFCT values vary with age, axial length, refractive error, and time of day (diurnal variation):
+[[OCT Angiography|OCTA]] provides non-invasive, depth-resolved imaging of the choroidal vasculature without dye injection. It is particularly useful for detecting and monitoring [[Choroidal Neovascularization|CNV]] and assessing choriocapillaris flow voids.
 
-| Parameter | Effect on SFCT |
-|---|---|
-| **Age** | Decreases approximately 1.5–4 µm per year after age 30 |
-| **Axial length / Myopia** | Thinner choroid with increasing axial length |
-| **Hyperopia** | Thicker choroid |
-| **Time of day** | Thickest in the morning, thinnest in the evening (diurnal variation ~20–30 µm) |
-| **Systemic blood pressure** | Acute hypertension may increase choroidal thickness |
-| **Pachychoroid spectrum** | SFCT typically >300–400 µm with dilated Haller's layer vessels |
+#### Fluorescein Angiography (FA)
 
-### Biopsy and Cytogenetics
+[[Fluorescein Angiography|FA]] evaluates the retinal and choroidal circulation using intravenous [[Sodium Fluorescein|sodium fluorescein]]. The choroidal flush is the earliest phase of the angiogram. FA is essential for classifying CNV (classic vs. occult) and detecting RPE leakage in CSCR.
 
-For suspected choroidal malignancies, **fine-needle aspiration biopsy (FNAB)** or **transvitreal biopsy** may be performed for cytological diagnosis and [[Gene Expression Profiling|gene expression profiling (GEP)]] / [[Cytogenetic Analysis|cytogenetic analysis]] (e.g., [[Monosomy 3|monosomy 3]], [[BAP1 Mutation|BAP1 mutation]]) to determine prognosis in [[Choroidal Melanoma|uveal melanoma]].
+#### Indocyanine Green Angiography (ICGA)
+
+[[Indocyanine Green Angiography|ICGA]] is the gold standard for choroidal vascular imaging. ICG dye is 98% protein-bound, limiting leakage from the fenestrated choriocapillaris and allowing superior visualization of the choroidal vasculature. ICGA is indispensable for:
+
+- Identifying polypoidal lesions in [[Polypoidal Choroidal Vasculopathy|polypoidal choroidal vasculopathy (PCV)]]
+- Detecting choroidal hyperpermeability in CSCR
+- Evaluating choroidal inflammatory conditions (e.g., VKH, birdshot)
+- Characterizing choroidal tumors (e.g., hemangioma vs. melanoma)
+
+#### Ultrasonography
+
+**[[B-Scan Ultrasonography|B-scan ultrasonography]]** is essential for evaluating choroidal lesions when media opacities (e.g., dense [[Cataract|cataract]], [[Vitreous Hemorrhage|vitreous hemorrhage]]) preclude fundoscopic examination. It is the primary modality for measuring tumor thickness in [[Choroidal Melanoma|choroidal melanoma]] and detecting [[Choroidal Detachment|choroidal detachment/effusion]].
+
+- **Choroidal melanoma**: Low-to-medium internal reflectivity, acoustic hollowing, collar-button shape
+- **Choroidal hemangioma**: High internal reflectivity
+- **Choroidal metastasis**: Medium-to-high reflectivity, often flat or minimally elevated
+
+**[[A-Scan Ultrasonography|A-scan ultrasonography]]** provides quantitative internal reflectivity data for tissue characterization.
+
+#### Fundus Autofluorescence (FAF)
+
+[[Fundus Autofluorescence|FAF]] detects [[Lipofuscin|lipofuscin]] accumulation in the RPE, providing indirect information about choroidal-RPE interactions. Hyper-autofluorescence indicates RPE stress or lipofuscin accumulation; hypo-autofluorescence indicates RPE atrophy.
+
+#### Magnetic Resonance Imaging (MRI) and Computed Tomography (CT)
+
+[[MRI|MRI]] is useful for differentiating choroidal melanoma (T1 hyperintense, T2 hypointense due to melanin) from other lesions. [[CT|CT]] can identify calcification in [[Choroidal Osteoma|choroidal osteoma]].
 
 ---
 
-## Management and Treatment
+## Choroidal Diseases: Classification and Management
 
-Management of choroidal disease is highly dependent on the specific underlying condition. The following sections outline the major therapeutic approaches.
+### Pachychoroid Disease Spectrum
+
+The **[[Pachychoroid Spectrum|pachychoroid disease spectrum]]** is a group of conditions characterized by increased choroidal thickness, dilated Haller's layer vessels (pachyvessels), and choriocapillaris attenuation. The spectrum includes:
+
+1. **[[Pachychoroid Pigment Epitheliopathy|Pachychoroid pigment epitheliopathy (PPE)]]** — RPE changes without subretinal fluid
+2. **[[Central Serous Chorioretinopathy|Central serous chorioretinopathy (CSCR)]]** — Serous neurosensory detachment
+3. **[[Pachychoroid Neovasculopathy|Pachychoroid neovasculopathy (PNV)]]** — Type 1 CNV in a pachychoroid setting
+4. **[[Polypoidal Choroidal Vasculopathy|Polypoidal choroidal vasculopathy (PCV)]]** — Aneurysmal type 1 CNV with polypoidal lesions
+5. **[[Focal Choroidal Excavation|Focal choroidal excavation (FCE)]]** — Localized choroidal concavity
+6. **[[Peripapillary Pachychoroid Syndrome|Peripapillary pachychoroid syndrome]]** — Pachychoroid changes around the optic disc
+
+### Age-Related Macular Degeneration (AMD)
+
+While [[Age-Related Macular Degeneration|AMD]] is a complex multifactorial disease, choroidal changes are central to its pathogenesis:
+
+- **Dry (atrophic) AMD**: Progressive choriocapillaris loss, Bruch's membrane thickening, drusen accumulation, and [[Geographic Atrophy|geographic atrophy (GA)]] of the RPE and choriocapillaris.
+- **Wet (neovascular) AMD**: Type 1, Type 2, or Type 3 CNV with subretinal/sub-RPE hemorrhage, fluid, and exudation.
+
+### Choroidal Tumors
+
+| Tumor | Nature | Key Features | Management |
+|---|---|---|---|
+| **[[Choroidal Nevus]]** | Benign | Flat, pigmented, <2 mm thick, drusen, no subretinal fluid; monitor with "TFSOM-UHHD" mnemonic | Observation; serial photography, OCT, ultrasonography |
+| **[[Choroidal Melanoma]]** | Malignant | Dome/mushroom shape, >2 mm thick, orange pigment (lipofuscin), subretinal fluid, growth | [[Plaque Brachytherapy|Plaque brachytherapy]], [[Enucleation|enucleation]], [[Proton Beam Therapy|proton beam therapy]], [[Transpupillary Thermotherapy|TTT]] |
+| **[[Choroidal Metastasis]]** | Malignant (secondary) | Creamy-yellow, flat, often multifocal/bilateral; breast and lung most common primaries | Systemic chemotherapy, external beam radiation, [[Anti-VEGF Therapy|anti-VEGF]] |
+| **[[Choroidal Hemangioma]]** | Benign (vascular) | Orange-red, high reflectivity on ultrasound; circumscribed or diffuse (Sturge-Weber) | [[Photodynamic Therapy|PDT]], anti-VEGF, observation |
+| **[[Choroidal Osteoma]]** | Benign (osseous) | Yellow-white, well-demarcated, calcified on CT/ultrasound; young women | Observation; anti-VEGF for secondary CNV; PDT |
+
+The **TFSOM-UHHD** mnemonic for risk factors predicting malignant transformation of a choroidal nevus:
+
+- **T**hickness >2 mm
+- **F**luid (subretinal)
+- **S**ymptoms (blurred vision, photopsia)
+- **O**range pigment (lipofuscin)
+- **M**argin ≤3 mm from optic disc
+- **U**ltrasound hollowness
+- **H**alo absent
+- **H**eight >2 mm (by OCT)
+- **D**rusen absent
+
+### Choroidal Detachment and Effusion
+
+[[Choroidal Detachment|Choroidal detachment]] (choroidal effusion) results from accumulation of fluid (serous) or blood (hemorrhagic) in the suprachoroidal space.
+
+- **Serous choroidal detachment**: Associated with [[Hypotony|hypotony]] (post-surgical), inflammation, or [[Nanophthalmos|nanophthalmos]]. Appears as smooth, dome-shaped, orange-brown elevations that do not extend past the vortex vein ampullae.
+- **Hemorrhagic choroidal detachment (suprachoroidal hemorrhage)**: A surgical emergency; may occur intraoperatively or postoperatively. Appears as dark, bullous elevations. Risk factors include advanced age, [[Glaucoma|glaucoma]], anticoagulation, and high [[Myopia|myopia]].
+
+**Management**: Serous effusions may resolve with treatment of the underlying cause (e.g., cycloplegics, corticosteroids, IOP normalization). Hemorrhagic detachments may require surgical drainage.
+
+### Vogt-Koyanagi-Harada (VKH) Disease
+
+[[Vogt-Koyanagi-Harada Disease|VKH disease]] is a bilateral, granulomatous [[Panuveitis|panuveitis]] targeting melanocyte-containing tissues. Choroidal involvement is characterized by diffuse choroidal thickening, multifocal serous retinal detachments, and choroidal granulomas. ICGA reveals choroidal hyperfluorescent dots and disc hyperfluorescence. Treatment involves aggressive systemic [[Corticosteroids|corticosteroids]] and [[Immunosuppressive Therapy|immunosuppressive agents]].
+
+---
+
+## Treatment and Management
 
 ### Pharmacological Interventions
 
 #### Anti-VEGF Therapy
 
-[[Anti-VEGF Therapy|Anti-vascular endothelial growth factor (anti-VEGF)]] agents are the cornerstone of treatment for [[Choroidal Neovascularization|CNV]] and are administered via [[Intravitreal Injection|intravitreal injection]]:
+[[Anti-VEGF Therapy|Anti-VEGF agents]] are the mainstay of treatment for [[Choroidal Neovascularization|CNV]] in wet AMD, myopic CNV, and other causes. Agents include:
 
 | Agent | Mechanism | Dosing |
 |---|---|---|
-| **[[Ranibizumab|Ranibizumab (Lucentis®)]]** | Monoclonal antibody fragment binding all VEGF-A isoforms | 0.5 mg/0.05 mL monthly or PRN/treat-and-extend |
-| **[[Aflibercept|Aflibercept (Eylea®)]]** | Recombinant fusion protein binding VEGF-A, VEGF-B, and PlGF | 2 mg/0.05 mL; loading doses then q8 weeks or treat-and-extend |
-| **[[Bevacizumab|Bevacizumab (Avastin®)]]** | Full-length monoclonal antibody (off-label) | 1.25 mg/0.05 mL PRN |
-| **[[Brolucizumab|Brolucizumab (Beovu®)]]** | Single-chain antibody fragment | 6 mg/0.05 mL q8–12 weeks after loading |
-| **[[Faricimab|Faricimab (Vabysmo®)]]** | Bispecific antibody targeting VEGF-A and Ang-2 | 6 mg/0.05 mL; extended intervals up to q16 weeks |
+| **[[Ranibizumab]]** (Lucentis®) | Monoclonal antibody fragment binding VEGF-A | 0.5 mg intravitreal injection monthly or PRN |
+| **[[Aflibercept]]** (Eylea®) | Fusion protein binding VEGF-A, VEGF-B, PlGF | 2 mg intravitreal injection; treat-and-extend protocols |
+| **[[Bevacizumab]]** (Avastin®) | Full-length monoclonal antibody binding VEGF-A | 1.25 mg intravitreal injection (off-label) |
+| **[[Brolucizumab]]** (Beovu®) | Single-chain antibody fragment binding VEGF-A | 6 mg intravitreal injection q8–12 weeks |
+| **[[Faricimab]]** (Vabysmo®) | Bispecific antibody binding VEGF-A and Ang-2 | 6 mg intravitreal injection; extended intervals up to q16 weeks |
 
 #### Photodynamic Therapy (PDT)
 
-[[Photodynamic Therapy|Verteporfin PDT]] involves intravenous infusion of [[Verteporfin|verteporfin (Visudyne®)]] followed by activation with a 689 nm diode laser. PDT selectively damages the choriocapillaris endothelium and is used for:
+[[Photodynamic Therapy|Verteporfin PDT]] involves intravenous administration of [[Verteporfin|verteporfin]] followed by activation with a 689 nm diode laser. It is used for:
 
-- **[[Polypoidal Choroidal Vasculopathy|PCV]]**: Often in combination with anti-VEGF (EVEREST II protocol)
-- **[[Central Serous Chorioretinopathy|Chronic CSC]]**: Half-dose or half-fluence PDT protocols reduce choroidal hyperpermeability
-- **[[Choroidal Hemangioma|Circumscribed choroidal hemangioma]]**: PDT induces tumor regression
+- CSCR (reduced-fluence/half-dose PDT)
+- [[Polypoidal Choroidal Vasculopathy|PCV]] (often combined with anti-VEGF)
+- [[Choroidal Hemangioma|Circumscribed choroidal hemangioma]]
+
+PDT causes selective vascular occlusion and remodeling of the choroidal vasculature.
 
 #### Corticosteroids and Immunosuppressives
 
-For inflammatory choroidal diseases:
+Choroidal inflammatory conditions (e.g., VKH, sarcoidosis, birdshot chorioretinopathy, serpiginous choroiditis) are managed with:
 
-- **Systemic corticosteroids**: First-line for [[Vogt-Koyanagi-Harada Disease|VKH]], [[Sympathetic Ophthalmia|sympathetic ophthalmia]], and severe choroiditis. High-dose IV methylprednisolone (1 g/day × 3 days) followed by oral prednisone taper.
-- **Steroid-sparing immunosuppressive agents**: [[Methotrexate|Methotrexate]], [[Mycophenolate Mofetil|mycophenolate mofetil]], [[Azathioprine|azathioprine]], [[Cyclosporine|cyclosporine]], and biologic agents ([[Adalimumab|adalimumab]], [[Infliximab|infliximab]]) for chronic or recurrent disease.
-- **Antimicrobials**: Targeted therapy for infectious choroiditis (e.g., [[Pyrimethamine|pyrimethamine]]/[[Sulfadiazine|sulfadiazine]] for toxoplasmosis; anti-tubercular therapy for choroidal TB).
+- **Systemic [[Corticosteroids|corticosteroids]]** (e.g., oral prednisone 1 mg/kg/day with taper)
+- **Steroid-sparing [[Immunosuppressive Therapy|immunosuppressive agents]]**: [[Methotrexate|methotrexate]], [[Azathioprine|azathioprine]], [[Mycophenolate Mofetil|mycophenolate mofetil]], [[Cyclosporine|cyclosporine]]
+- **Biologic agents**: [[Adalimumab|adalimumab]] (Humira®), [[Infliximab|infliximab]], [[Tocilizumab|tocilizumab]] for refractory cases
+- **Intravitreal corticosteroids**: [[Triamcinolone Acetonide|triamcinolone acetonide]], [[Dexamethasone Implant|dexamethasone intravitreal implant (Ozurdex®)]], [[Fluocinolone Acetonide Implant|fluocinolone acetonide implant]]
 
 #### Mineralocorticoid Receptor Antagonists
 
-[[Eplerenone|Eplerenone]] and [[Spironolactone|spironolactone]] have shown efficacy in chronic [[Central Serous Chorioretinopathy|CSC]] by reducing choroidal vasodilation and subretinal fluid, though evidence remains mixed and further randomized controlled trials are ongoing.
+[[Eplerenone|Eplerenone]] and [[Spironolactone|spironolactone]] have been investigated for chronic CSCR, targeting the mineralocorticoid receptor pathway implicated in choroidal vascular hyperpermeability. Evidence remains mixed, and these agents are not universally adopted.
 
-### Laser Therapy
+### Surgical and Procedural Interventions
 
-- **[[Focal Laser Photocoagulation|Focal laser photocoagulation]]**: For extrafoveal CNV or focal RPE leaks in CSC (guided by FA).
-- **[[Subthreshold Micropulse Laser|Subthreshold micropulse laser (SML)]]**: Non-damaging laser therapy for chronic CSC; stimulates RPE pump function without creating visible burns.
-- **[[Transpupillary Thermotherapy|Transpupillary thermotherapy (TTT)]]**: Used as adjunctive treatment for small choroidal melanomas and choroidal hemangiomas.
+- **[[Plaque Brachytherapy|Plaque brachytherapy]]**: Gold standard for medium-sized choroidal melanoma (COMS study). Iodine-125 or ruthenium-106 plaques are sutured to the sclera overlying the tumor.
+- **[[Enucleation|Enucleation]]**: Reserved for large choroidal melanomas, tumors with extrascleral extension, or eyes with no visual potential.
+- **[[Proton Beam Therapy|Proton beam radiotherapy]]**: Alternative to plaque brachytherapy for choroidal melanoma.
+- **[[Transpupillary Thermotherapy|Transpupillary thermotherapy (TTT)]]**: Infrared laser applied to small choroidal melanomas or as adjunct to brachytherapy.
+- **[[Laser Photocoagulation|Laser photocoagulation]]**: Historically used for extrafoveal CNV; largely supplanted by anti-VEGF therapy. Still used for peripheral CNV or as adjunct.
+- **Suprachoroidal drug delivery**: Emerging approach using microneedles or specialized devices to deliver corticosteroids (e.g., [[Triamcinolone Acetonide|triamcinolone acetonide]] via suprachoroidal injection—XIPERE®) directly to the suprachoroidal space for posterior uveitis.
+- **Surgical drainage of suprachoroidal hemorrhage**: Sclerotomy with drainage of liquefied blood, typically performed 10–14 days after the hemorrhagic event.
 
-### Surgical Approaches
+### Monitoring and Follow-Up
 
-- **[[Pars Plana Vitrectomy|Pars plana vitrectomy (PPV)]]**: For complications of choroidal disease including submacular hemorrhage (with or without [[Tissue Plasminogen Activator|tPA]] and pneumatic displacement), epiretinal membrane, or vitreous hemorrhage.
-- **[[Choroidal Drainage|Suprachoroidal drainage]]**: Surgical drainage of suprachoroidal fluid or blood in cases of choroidal detachment or suprachoroidal hemorrhage.
-- **[[Scleral Buckling|Scleral buckling]]**: May be required in cases of choroidal detachment with associated [[Retinal Detachment|retinal detachment]].
+Patients with choroidal pathology require structured follow-up protocols:
 
-### Oncologic Management
-
-Treatment of [[Choroidal Melanoma|choroidal melanoma]] depends on tumor size, location, and metastatic risk:
-
-| Tumor Size | Primary Treatment Options |
-|---|---|
-| **Small** (thickness ≤2.5 mm, diameter ≤5 mm) | Observation with serial imaging; treatment if growth documented |
-| **Medium** (thickness 2.5–10 mm) | [[Plaque Brachytherapy|Plaque brachytherapy]] (iodine-125 or ruthenium-106); [[Proton Beam Radiotherapy|proton beam radiotherapy]] |
-| **Large** (thickness >10 mm or diameter >18 mm) | [[Enucleation|Enucleation]]; plaque brachytherapy in select cases; [[Proton Beam Radiotherapy|proton beam therapy]] |
-
-Systemic surveillance for [[Uveal Melanoma Metastasis|metastatic disease]] (liver most common site) is essential, including hepatic imaging (MRI or ultrasound) every 6–12 months. Prognostic testing via GEP (DecisionDx-UM) or cytogenetics (monosomy 3, 8q gain) guides surveillance intensity.
-
-For [[Choroidal Metastasis|choroidal metastases]], treatment is directed at the primary malignancy with systemic chemotherapy, targeted therapy, or immunotherapy. Local treatments include external beam radiation, plaque brachytherapy, or intravitreal anti-VEGF for associated fluid.
+- **Choroidal nevi**: Annual dilated examination with fundus photography, OCT, and ultrasonography; more frequent if risk factors for transformation are present.
+- **Wet AMD on anti-VEGF**: Monthly or treat-and-extend OCT monitoring with assessment of subretinal/sub-RPE fluid, central retinal thickness, and visual acuity.
+- **CSCR**: Serial OCT and ICGA to assess resolution of subretinal fluid and choroidal hyperpermeability.
+- **Post-brachytherapy melanoma**: Regular ultrasonography, fundoscopy, and systemic surveillance (liver imaging) for metastatic disease.
 
 ---
 
-## Choroidal Thickness as a Biomarker
+## Choroidal Thickness: Clinical Significance
 
-Choroidal thickness measurement has become an increasingly important clinical and research tool. Conditions associated with **increased** and **decreased** choroidal thickness are summarized below:
+Choroidal thickness, particularly **subfoveal choroidal thickness (SFCT)**, has emerged as an important biomarker in clinical practice. Factors influencing SFCT include:
 
-| Increased Choroidal Thickness | Decreased Choroidal Thickness |
+| Factor | Effect on SFCT |
 |---|---|
-| [[Central Serous Chorioretinopathy\|CSC]] | [[Age-Related Macular Degeneration\|Dry AMD / Geographic atrophy]] |
-| [[Pachychoroid Spectrum\|Pachychoroid spectrum disorders]] | [[Pathologic Myopia\|Pathologic myopia]] |
-| [[Vogt-Koyanagi-Harada Disease\|VKH (acute phase)]] | Advanced age |
-| [[Posterior Scleritis\|Posterior scleritis]] | [[Glaucoma\|Glaucoma]] (with some treatments) |
-| [[Choroidal Tumors\|Choroidal tumors]] | [[Retinitis Pigmentosa\|Retinitis pigmentosa]] |
-| Hyperopia | Post-[[Anti-VEGF Therapy\|anti-VEGF]] treatment |
-| [[Nanophthalmos\|Nanophthalmos]] | [[Diabetes Mellitus\|Diabetic eyes]] (variable) |
-
----
-
-## Prognosis
-
-The prognosis of choroidal disease varies enormously depending on the specific condition:
-
-- **Choroidal nevus**: Excellent prognosis; annual transformation rate to melanoma is approximately 1 in 8,845.
-- **CNV secondary to AMD**: Visual prognosis has dramatically improved with anti-VEGF therapy, though chronic disease may lead to macular atrophy.
-- **CSC**: Acute CSC resolves spontaneously in ~80% of cases within 3–4 months; chronic CSC may lead to progressive RPE atrophy and permanent visual loss.
-- **VKH**: Good visual prognosis with early, aggressive immunosuppression; delayed treatment is associated with chronic recurrent inflammation and sunset glow fundus.
-- **Choroidal melanoma**: 5-year melanoma-related mortality is approximately 30% for medium-large tumors; monosomy 3 and Class 2 GEP confer significantly worse prognosis.
-- **Choroidal metastasis**: Prognosis is generally poor, reflecting advanced systemic malignancy; median survival is approximately 6–12 months.
+| **Age** | Decreases ~15.6 μm/decade |
+| **Axial length/Myopia** | Decreases with increasing axial length |
+| **Time of day (diurnal variation)** | Thicker in the morning, thinner in the evening |
+| **IOP** | Inversely related |
+| **Systemic blood pressure** | Positively correlated |
+| **Pregnancy** | Increased SFCT |
+| **CSCR/Pachychoroid** | Markedly increased |
+| **AMD (dry)** | Decreased |
+| **High myopia** | Markedly decreased |
 
 ---
 
 ## Emerging Research and Future Directions
 
-- **Choroidal vascularity index (CVI)**: A ratio of luminal to total choroidal area on EDI-OCT, proposed as a more robust biomarker than SFCT alone, as it is less affected by physiological variables.
-- **Artificial intelligence (AI)**: Deep learning algorithms for automated choroidal segmentation, thickness mapping, and disease classification from OCT images.
-- **Gene therapy**: Investigational approaches targeting choroidal neovascularization and inherited choroidal dystrophies.
-- **Novel anti-VEGF agents**: Longer-acting formulations (e.g., [[Aflibercept 8 mg|high-dose aflibercept 8 mg]]) and sustained-release drug delivery systems (e.g., [[Port Delivery System|port delivery system with ranibizumab]]) aim to reduce treatment burden.
-- **Complement inhibitors**: [[Pegcetacoplan|Pegcetacoplan]] and [[Avacincaptad Pegol|avacincaptad pegol]] for geographic atrophy, targeting complement-mediated choriocapillaris and RPE degeneration.
-- **Suprachoroidal drug delivery**: [[Suprachoroidal Injection|Suprachoroidal injection]] of corticosteroids (e.g., [[Triamcinolone Acetonide|triamcinolone acetonide]] via the SCS Microinjector) and gene therapy vectors offers targeted posterior segment drug delivery with potentially fewer systemic side effects.
+- **Choroidal biomarkers in systemic disease**: Choroidal thickness and vascular indices are being investigated as biomarkers for systemic conditions including [[Alzheimer's Disease|Alzheimer's disease]], [[Cardiovascular Disease|cardiovascular disease]], and [[Obstructive Sleep Apnea|obstructive sleep apnea]].
+- **Artificial intelligence (AI)**: Deep learning algorithms are being developed for automated choroidal segmentation, thickness mapping, and disease classification from OCT images.
+- **Gene therapy**: Suprachoroidal delivery of gene therapy vectors (e.g., AAV vectors) is under investigation for inherited retinal diseases.
+- **Complement inhibition**: Agents targeting the [[Complement System|complement cascade]] (e.g., [[Pegcetacoplan|pegcetacoplan]], [[Avacincaptad Pegol|avacincaptad pegol]]) have been approved for geographic atrophy, addressing choriocapillaris and RPE degeneration.
+- **Choroidal imaging advances**: Widefield SS-OCT and adaptive optics imaging are enabling unprecedented visualization of choroidal microstructure in vivo.
 
 ---
 
 ## Summary
 
-The choroid is a complex, highly vascularized tissue essential for maintaining the metabolic demands of the outer retina and RPE. Its unique anatomy—characterized by segmental arterial supply, fenestrated capillaries, and rich autonomic innervation—renders it susceptible to a broad spectrum of vascular, inflammatory, degenerative, neoplastic, and structural diseases. Modern imaging technologies, particularly EDI-OCT, SS-OCT, OCTA, and ICGA, have transformed the ability to visualize and quantify choroidal structure and pathology in vivo. Treatment strategies range from intravitreal anti-VEGF therapy and photodynamic therapy for neovascular and pachychoroid diseases, to immunosuppression for inflammatory choroidopathies, and radiation or enucleation for choroidal malignancies. Ongoing research into choroidal biomarkers, AI-assisted diagnostics, novel pharmacotherapies, and suprachoroidal drug delivery continues to advance the understanding and management of choroidal disease.
+The choroid is a complex, highly vascularized tissue essential for retinal health and visual function. Its roles in metabolic support, thermoregulation, light absorption, and refractive development underscore its physiological importance. Choroidal pathology—including neovascularization, inflammation, degeneration, and neoplasia—is implicated in many of the most significant causes of visual impairment worldwide. Modern imaging technologies, particularly EDI-OCT, SS-OCT, OCTA, and ICGA, have dramatically enhanced the ability to diagnose and monitor choroidal disease. Therapeutic advances, especially anti-VEGF agents, PDT, immunosuppressive therapy, and emerging suprachoroidal drug delivery platforms, continue to improve outcomes for patients with choroidal disorders. A thorough understanding of choroidal anatomy, physiology, and pathology is essential for every eye care professional.
 
 ---
 
@@ -312,30 +379,28 @@ The choroid is a complex, highly vascularized tissue essential for maintaining t
 
 3. Cheung CMG, Lee WK, Koizumi H, Dansingani K, Lai TYY, Freund KB. Pachychoroid disease. *Eye (Lond)*. 2019;33(1):14-33. doi:10.1038/s41433-018-0158-4 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/29995841/)
 
-4. Shields CL, Shields JA. Choroidal melanoma. In: Ryan SJ, et al., eds. *Retina*. 6th ed. Elsevier; 2018:2316-2348.
+4. Shields CL, Dalvin LA, Ancona-Lezama D, et al. Choroidal nevus imaging features in 3,806 cases and risk factors for transformation into melanoma in 2,355 cases: the 2020 Taylor R. Smith and Victor T. Curtin Lecture. *Retina*. 2019;39(10):1840-1851. doi:10.1097/IAE.0000000000002440 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/31259808/)
 
-5. Mrejen S, Spaide RF. Optical coherence tomography: imaging of the choroid and beyond. *Surv Ophthalmol*. 2013;58(5):387-429. doi:10.1016/j.survophthal.2012.12.001 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/23916620/)
+5. Collaborative Ocular Melanoma Study Group. The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates and prognostic factors. *Arch Ophthalmol*. 2006;124(12):1684-1693. doi:10.1001/archopht.124.12.1684 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/17159027/)
 
-6. Daruich A, Matet A, Dirani A, et al. Central serous chorioretinopathy: recent findings and new physiopathology hypothesis. *Prog Retin Eye Res*. 2015;48:82-118. doi:10.1016/j.preteyeres.2015.05.003 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26026923/)
+6. Mrejen S, Spaide RF. Optical coherence tomography: imaging of the choroid and beyond. *Surv Ophthalmol*. 2013;58(5):387-429. doi:10.1016/j.survophthal.2012.12.001 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/23916620/)
 
-7. Agrawal R, Gupta P, Tan KA, Cheung CMG, Wong TY, Cheng CY. Choroidal vascularity index as a measure of vascular status of the choroid: measurements in healthy eyes from a population-based study. *Sci Rep*. 2016;6:21090. doi:10.1038/srep21090 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26868048/)
+7. Daruich A, Matet A, Dirani A, et al. Central serous chorioretinopathy: recent findings and new physiopathology hypothesis. *Prog Retin Eye Res*. 2015;48:82-118. doi:10.1016/j.preteyeres.2015.05.003 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26026923/)
 
-8. Kanski JJ, Bowling B. *Clinical Ophthalmology: A Systematic Approach*. 9th ed. Elsevier; 2020.
+8. Spaide RF, Fujimoto JG, Waheed NK, Sadda SR, Staurenghi G. Optical coherence tomography angiography. *Prog Retin Eye Res*. 2018;64:1-55. doi:10.1016/j.preteyeres.2017.11.003 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/29229445/)
 
-9. American Academy of Ophthalmology. Basic and Clinical Science Course (BCSC), Section 12: Retina and Vitreous. 2023-2024 ed. San Francisco: AAO; 2023.
+9. Hayreh SS. *Ischemic Optic Neuropathies*. Berlin: Springer; 2011. (Chapters on posterior ciliary artery circulation and choroidal vascular anatomy.)
 
-10. Spaide RF, Jaffe GJ, Sarraf D, et al. Consensus nomenclature for reporting neovascular age-related macular degeneration data: Consensus on Neovascular Age-Related Macular Degeneration Nomenclature Study Group. *Ophthalmology*. 2020;127(5):616-636. doi:10.1016/j.ophtha.2019.11.004 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/31864668/)
+10. Yanoff M, Duker JS. *Ophthalmology*. 5th ed. Philadelphia: Elsevier; 2019. (Chapters 6, 60–67: Uveal tract anatomy, choroidal tumors, posterior uveitis.)
 
-11. Dansingani KK, Balaratnasingam C, Naysan J, Freund KB. En face imaging of pachychoroid spectrum disorders with swept-source optical coherence tomography. *Retina*. 2016;36(3):499-516. doi:10.1097/IAE.0000000000000742 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26335436/)
+11. Ryan SJ, Sadda SR, Hinton DR, et al. *Retina*. 6th ed. Philadelphia: Elsevier; 2018. (Sections on choroidal anatomy, AMD, CNV, choroidal tumors.)
 
-12. Collaborative Ocular Melanoma Study Group. The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates and prognostic factors. *Arch Ophthalmol*. 2006;124(12):1684-1693. doi:10.1001/archopht.124.12.1684 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/17159027/)
+12. Agrawal R, Gupta P, Tan KA, Cheung CMG, Wong TY, Cheng CY. Choroidal vascularity index as a measure of vascular status of the choroid: measurements in healthy eyes from a population-based study. *Sci Rep*. 2016;6:21090. doi:10.1038/srep21090 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26868048/)
 
-13. Liao DS, Grossi FV, El Mehdi D, et al. Complement C3 inhibitor pegcetacoplan for geographic atrophy secondary to age-related macular degeneration: a randomized phase 2 trial. *Ophthalmology*. 2020;127(2):186-195. doi:10.1016/j.ophtha.2019.07.011 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/31474439/)
+13. Dansingani KK, Balaratnasingam C, Naysan J, Freund KB. En face imaging of pachychoroid spectrum disorders with swept-source optical coherence tomography. *Retina*. 2016;36(3):499-516. doi:10.1097/IAE.0000000000000742 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/26335436/)
 
-14. Hayreh SS. *Ischemic Optic Neuropathies*. Springer; 2011. (Chapters on posterior ciliary artery circulation and choroidal blood supply.)
-
-15. Yzer S, Barbazetto I, Allikmets R. Expanded clinical spectrum of enhanced S-cone syndrome. *JAMA Ophthalmol*. 2013;131(10):1324-1330. (Referenced for choroidal imaging methodology.)
+14. Liew G, Sim DA, Keane PA, et al. Choroidal thickness and the complement system in age-related macular degeneration. *Ophthalmology*. 2023. (Emerging literature on complement inhibition and choroidal degeneration.)
 
 ---
 
-*This article is intended for eye care professionals and should not be used as a substitute for clinical judgment. Clinical decisions should be based on individual patient assessment and current evidence-based guidelines.*
+*This article is intended for eye care professionals and students of [[Optometry]] and [[Ophthalmology]]. Clinical decisions should be based on individual patient assessment and current evidence-based guidelines.*
