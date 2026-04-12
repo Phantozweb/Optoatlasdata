@@ -2,167 +2,159 @@
 
 # Retina
 
-The **retina** is a highly specialized, multilayered neurosensory tissue lining the inner posterior segment of the [[eye]], serving as the primary structure responsible for [[phototransduction]]—the conversion of light energy into electrochemical neural signals. Embryologically derived from the [[neuroectoderm]] of the [[diencephalon]], the retina is considered an extension of the [[central nervous system]] (CNS) and represents one of the most metabolically active tissues in the human body. Its integrity is essential for visual function, and pathology affecting any of its layers can result in significant, often irreversible, vision loss.
+---
 
-This article provides a comprehensive clinical overview of retinal anatomy, physiology, pathophysiology, clinical presentation of retinal diseases, diagnostic modalities, and current management strategies relevant to the practicing [[optometrist]] and [[ophthalmologist]].
+The **retina** is a highly specialized, multilayered neurosensory tissue lining the inner posterior segment of the [[eye]], serving as the primary structure responsible for [[phototransduction]]—the conversion of light energy into electrochemical neural signals. Embryologically derived from the [[neuroectoderm]] of the [[diencephalon]], the retina is considered an extension of the [[central nervous system]] (CNS) and represents one of the most metabolically active tissues in the human body. Its integrity is essential for visual function, and pathology affecting any of its layers can result in significant, often irreversible, vision loss. This article provides a comprehensive clinical overview of retinal anatomy, physiology, pathophysiology, clinical presentation of retinal diseases, diagnostic modalities, and current management strategies relevant to the practicing [[optometrist]] and [[ophthalmologist]].
 
 ---
 
 ## Gross Anatomy and Topography
 
-The retina extends from the [[optic disc]] posteriorly to the [[ora serrata]] anteriorly, where it transitions into the non-pigmented epithelium of the [[ciliary body]]. The retina covers approximately 72% of the inner surface of the globe, with a total surface area of roughly 1,100 mm².
+The retina extends from the [[optic disc]] posteriorly to the [[ora serrata]] anteriorly, where it transitions into the non-pigmented epithelium of the [[ciliary body]]. It covers approximately 72% of the inner surface of the globe, with a total surface area of roughly 1,100 mm². The retina is thinnest at the [[fovea]] (approximately 0.1 mm) and thickest near the optic disc (approximately 0.56 mm).
 
-Key topographic landmarks include:
+### Key Topographic Landmarks
 
-| **Landmark** | **Description** |
-|---|---|
-| [[Optic disc]] (optic nerve head) | Site where [[retinal ganglion cell]] axons exit the eye to form the [[optic nerve]]; lacks photoreceptors ("blind spot"); approximately 1.5 mm in diameter |
-| [[Macula lutea]] | Oval-shaped, pigmented area approximately 5.5 mm in diameter, centered temporal to the optic disc; responsible for central, high-acuity, and color vision |
-| [[Fovea centralis]] | Central depression within the macula (~1.5 mm diameter); contains the highest density of [[cone photoreceptors]] and is devoid of inner retinal layers, optimizing light path to cones |
-| [[Foveola]] | Central floor of the fovea (~0.35 mm diameter); exclusively contains cones; avascular zone critical for peak visual acuity |
-| [[Foveal avascular zone]] (FAZ) | Capillary-free zone surrounding the foveola (~0.5 mm diameter); its integrity is critical for central vision and is assessed via [[fluorescein angiography]] and [[OCT angiography]] |
-| [[Ora serrata]] | Scalloped anterior boundary of the retina; more irregular nasally; a common site for peripheral retinal pathology including [[retinal tears]] and [[lattice degeneration]] |
-| [[Peripheral retina]] | Region anterior to the vascular arcades extending to the ora serrata; thinner, predominantly rod-rich; clinically significant for [[retinal detachment]] and degenerative changes |
+| Landmark | Description | Clinical Significance |
+|---|---|---|
+| **[[Macula lutea]]** | Oval-shaped area approximately 5.5 mm in diameter, centered temporal to the [[optic disc]], containing [[xanthophyll]] pigment (lutein and zeaxanthin) | Central visual acuity; site of [[age-related macular degeneration]] (AMD) |
+| **[[Fovea centralis]]** | Central depression within the macula, approximately 1.5 mm in diameter | Highest cone density; responsible for 20/20 visual acuity |
+| **[[Foveola]]** | Central pit of the fovea, approximately 0.35 mm in diameter; contains only [[cone photoreceptors]] and is avascular | Maximum visual resolution |
+| **[[Umbo]]** | Central point of the foveola producing the foveal light reflex | Clinical landmark on [[fundoscopy]] |
+| **[[Optic disc]]** | Site where [[retinal ganglion cell]] axons exit the eye to form the [[optic nerve]]; approximately 1.5 mm in diameter | Physiologic [[blind spot]]; site of [[glaucoma]]tous damage and [[papilledema]] |
+| **[[Ora serrata]]** | Scalloped anterior border of the retina | Common site of [[retinal tears]] and [[peripheral retinal degenerations]] |
+| **Peripapillary region** | Retina immediately surrounding the optic disc | Relevant in [[glaucoma]] assessment via [[RNFL]] analysis |
 
-The retina is thickest near the optic disc (~0.56 mm) and thinnest at the fovea (~0.10 mm) and ora serrata (~0.10 mm).
+The retina is broadly divided into the **central retina** (posterior pole, including the macula) and the **peripheral retina** (extending from the vascular arcades to the ora serrata). The peripheral retina is further subdivided into the near periphery, mid-periphery, far periphery, and ora serrata region—each with distinct clinical relevance for conditions such as [[lattice degeneration]], [[retinal holes]], and [[retinal detachment]].
 
 ---
 
 ## Histological Architecture: The Ten Layers of the Retina
 
-The retina is classically described as consisting of ten distinct histological layers, listed from outermost (closest to the [[choroid]]) to innermost (closest to the [[vitreous humor]]):
+The retina is classically described as consisting of **ten distinct histological layers**, listed from outermost (closest to the [[choroid]]) to innermost (closest to the [[vitreous humor]]):
 
-| **Layer Number** | **Layer Name** | **Composition and Function** |
+| Layer Number | Layer Name | Primary Cellular Components |
 |---|---|---|
-| 1 | [[Retinal pigment epithelium]] (RPE) | Monolayer of pigmented cuboidal cells; phagocytoses shed photoreceptor outer segments; maintains the [[blood-retinal barrier]]; recycles [[visual cycle]] retinoids; absorbs stray light |
-| 2 | Photoreceptor layer (PRL) | Outer and inner segments of [[rod photoreceptors]] and [[cone photoreceptors]]; site of phototransduction |
-| 3 | [[External limiting membrane]] (ELM) | Junctional complexes (zonulae adherentes) between [[Müller cells]] and photoreceptors; not a true membrane; provides structural support |
-| 4 | [[Outer nuclear layer]] (ONL) | Contains nuclei (cell bodies) of rods and cones |
-| 5 | [[Outer plexiform layer]] (OPL) | Synaptic connections between photoreceptors and [[bipolar cells]] and [[horizontal cells]] |
-| 6 | [[Inner nuclear layer]] (INL) | Contains nuclei of bipolar cells, horizontal cells, [[amacrine cells]], and Müller cells |
-| 7 | [[Inner plexiform layer]] (IPL) | Synaptic connections between bipolar cells, amacrine cells, and [[retinal ganglion cells]] |
-| 8 | [[Ganglion cell layer]] (GCL) | Contains cell bodies of retinal ganglion cells and displaced amacrine cells; thickest at the macula where ganglion cells are stacked multiple layers deep |
-| 9 | [[Retinal nerve fiber layer]] (RNFL) | Axons of retinal ganglion cells coursing toward the optic disc; thickest superiorly and inferiorly; assessed clinically in [[glaucoma]] evaluation |
-| 10 | [[Internal limiting membrane]] (ILM) | Basement membrane of Müller cells; interface between retina and vitreous; relevant in [[epiretinal membrane]] and [[macular hole]] surgery |
+| 1 | **[[Retinal pigment epithelium]] (RPE)** | Single layer of hexagonal melanin-containing cells |
+| 2 | **Photoreceptor layer (PRL)** | Outer and inner segments of [[rod photoreceptors]] and [[cone photoreceptors]] |
+| 3 | **[[External limiting membrane]] (ELM)** | Junctional complexes between [[Müller cells]] and photoreceptors |
+| 4 | **[[Outer nuclear layer]] (ONL)** | Nuclei of rods and cones |
+| 5 | **[[Outer plexiform layer]] (OPL)** | Synapses between photoreceptors and [[bipolar cells]]/[[horizontal cells]] |
+| 6 | **[[Inner nuclear layer]] (INL)** | Nuclei of bipolar cells, horizontal cells, [[amacrine cells]], and Müller cells |
+| 7 | **[[Inner plexiform layer]] (IPL)** | Synapses between bipolar cells, amacrine cells, and [[retinal ganglion cells]] |
+| 8 | **[[Ganglion cell layer]] (GCL)** | Cell bodies of retinal ganglion cells and displaced amacrine cells |
+| 9 | **[[Retinal nerve fiber layer]] (RNFL)** | Axons of retinal ganglion cells coursing toward the optic disc |
+| 10 | **[[Internal limiting membrane]] (ILM)** | Basement membrane of Müller cells; interface with the vitreous |
 
-### Photoreceptors: Rods and Cones
-
-The human retina contains approximately **92 million rods** and **4.6 million cones**. Rods are responsible for [[scotopic vision]] (low-light, achromatic vision) and are most densely concentrated in the [[parafoveal]] and peripheral retina. Cones mediate [[photopic vision]] (daylight, high-acuity, color vision) and are concentrated in the fovea.
-
-Three types of cones exist, classified by peak spectral sensitivity:
-
-| **Cone Type** | **Peak Wavelength** | **Color Perception** |
-|---|---|---|
-| S-cones (short) | ~420 nm | Blue |
-| M-cones (medium) | ~530 nm | Green |
-| L-cones (long) | ~560 nm | Red |
-
-Dysfunction or absence of specific cone types underlies [[color vision deficiency]] (e.g., [[protanopia]], [[deuteranopia]], [[tritanopia]]).
+Understanding these layers is critical for interpreting modern imaging modalities such as [[optical coherence tomography]] (OCT), where each layer can be individually resolved and assessed for pathological changes.
 
 ---
 
-## Retinal Vasculature and Blood Supply
+## Retinal Physiology and Phototransduction
+
+### Photoreceptor Cells
+
+The human retina contains approximately **92 million rod photoreceptors** and **4.6 million cone photoreceptors**. Rods are responsible for [[scotopic vision]] (low-light, achromatic vision), while cones mediate [[photopic vision]] (daylight, color vision) and high-acuity central vision.
+
+**Cone subtypes** include:
+- **S-cones (short-wavelength)**: Peak sensitivity ~420 nm (blue)
+- **M-cones (medium-wavelength)**: Peak sensitivity ~530 nm (green)
+- **L-cones (long-wavelength)**: Peak sensitivity ~560 nm (red)
+
+The fovea is exclusively populated by cones (predominantly L- and M-cones), with a 1:1 ratio of cones to ganglion cells, enabling maximal spatial resolution. Rod density peaks in a ring approximately 20° from the fovea and decreases toward the periphery.
+
+### The Phototransduction Cascade
+
+[[Phototransduction]] is the biochemical process by which photons of light are converted into electrical signals:
+
+1. **Photon absorption**: Light is absorbed by the visual pigment [[rhodopsin]] (in rods) or [[photopsin]] (in cones), which contains the chromophore [[11-cis-retinal]] bound to an [[opsin]] protein.
+2. **Isomerization**: 11-cis-retinal undergoes photoisomerization to [[all-trans-retinal]], triggering a conformational change in opsin to form [[metarhodopsin II]].
+3. **G-protein activation**: Metarhodopsin II activates the G-protein [[transducin]] (Gα-t), which in turn activates [[phosphodiesterase]] (PDE6).
+4. **cGMP hydrolysis**: PDE6 hydrolyzes [[cyclic guanosine monophosphate]] (cGMP), reducing its intracellular concentration.
+5. **Channel closure**: Decreased cGMP causes closure of [[cGMP-gated cation channels]] in the outer segment membrane, reducing Na⁺ and Ca²⁺ influx.
+6. **Hyperpolarization**: The photoreceptor cell hyperpolarizes (from approximately −40 mV to −65 mV), reducing [[glutamate]] release at the synaptic terminal.
+7. **Signal transmission**: The change in glutamate release is detected by [[bipolar cells]], which either depolarize (ON-bipolar cells via [[mGluR6]] receptors) or hyperpolarize (OFF-bipolar cells via ionotropic glutamate receptors), initiating parallel visual processing pathways.
+
+### The Visual Cycle
+
+Regeneration of 11-cis-retinal from all-trans-retinal occurs primarily in the [[retinal pigment epithelium]] through a series of enzymatic steps collectively known as the **[[visual cycle]]** (or retinoid cycle). Key enzymes include [[lecithin retinol acyltransferase]] (LRAT) and [[RPE65 isomerase]]. Dysfunction of the visual cycle underlies several inherited retinal dystrophies, including [[Leber congenital amaurosis]] (LCA) type 2 and [[Stargardt disease]].
+
+---
+
+## Retinal Pigment Epithelium (RPE)
+
+The [[retinal pigment epithelium]] is a monolayer of polarized, hexagonal cells situated between the photoreceptor outer segments and [[Bruch's membrane]]. Despite being a single cell layer, the RPE performs an extraordinary number of functions critical to retinal health:
+
+- **Phagocytosis** of shed photoreceptor outer segment discs (each RPE cell phagocytoses ~30 outer segment discs daily)
+- **Recycling of retinoids** in the visual cycle
+- **Absorption of stray light** via melanin granules to reduce light scatter
+- **Transport of nutrients** (glucose, retinol, fatty acids) from the [[choriocapillaris]] to photoreceptors
+- **Removal of metabolic waste** products from the subretinal space
+- **Secretion of growth factors** including [[VEGF]] (vascular endothelial growth factor), [[PEDF]] (pigment epithelium-derived factor), and [[FGF]] (fibroblast growth factor)
+- **Maintenance of the [[outer blood-retinal barrier]]** via tight junctions ([[zonulae occludentes]])
+- **Ion and water transport** to maintain subretinal space homeostasis
+
+RPE dysfunction is central to the pathogenesis of [[age-related macular degeneration]], [[central serous chorioretinopathy]] (CSCR), and numerous inherited retinal dystrophies.
+
+---
+
+## Retinal Blood Supply
 
 The retina has a **dual blood supply**:
 
-1. **[[Central retinal artery]] (CRA):** A branch of the [[ophthalmic artery]], it enters the eye through the optic disc and divides into superior and inferior branches, further subdividing into temporal and nasal arcades. It supplies the inner two-thirds of the retina (inner nuclear layer through nerve fiber layer). The retinal vasculature is an **end-arterial system** with no anastomoses, making it highly vulnerable to occlusive events.
+1. **[[Central retinal artery]] (CRA)**: A branch of the [[ophthalmic artery]], enters the eye through the optic disc and supplies the **inner retinal layers** (from the RNFL to the inner portion of the INL) via four major branch arterioles (superior temporal, inferior temporal, superior nasal, inferior nasal). The retinal vasculature is an **end-arterial system** with no anastomoses, making it vulnerable to ischemic events such as [[central retinal artery occlusion]] (CRAO) and [[branch retinal artery occlusion]] (BRAO).
 
-2. **[[Choroidal circulation]]:** The [[choriocapillaris]], the innermost layer of the choroid, supplies the outer one-third of the retina (RPE and photoreceptor layer) via diffusion across [[Bruch's membrane]]. The choroidal blood flow is among the highest per unit tissue weight in the body, reflecting the extreme metabolic demands of the photoreceptors.
+2. **[[Choroidal circulation]]**: The [[choriocapillaris]], the innermost layer of the [[choroid]], supplies the **outer retinal layers** (photoreceptors and RPE) by diffusion across [[Bruch's membrane]]. The choroidal circulation accounts for approximately 65–85% of total retinal blood flow.
 
-### Blood-Retinal Barrier (BRB)
+The **[[inner blood-retinal barrier]]** is formed by tight junctions between [[retinal vascular endothelial cells]], analogous to the [[blood-brain barrier]]. The **[[outer blood-retinal barrier]]** is formed by tight junctions of the RPE. Breakdown of either barrier leads to retinal edema, as seen in [[diabetic macular edema]] (DME) and [[uveitic macular edema]].
 
-The [[blood-retinal barrier]] is analogous to the [[blood-brain barrier]] and consists of two components:
-
-- **Inner BRB:** Tight junctions ([[zonulae occludentes]]) between retinal capillary [[endothelial cells]], supported by [[pericytes]] and Müller cell foot processes.
-- **Outer BRB:** Tight junctions between adjacent RPE cells.
-
-Breakdown of the BRB is a hallmark of numerous retinal diseases, including [[diabetic retinopathy]], [[retinal vein occlusion]], and [[uveitis]], leading to [[macular edema]] and exudation.
-
----
-
-## Physiology of Phototransduction
-
-[[Phototransduction]] is the biochemical cascade by which photoreceptors convert photons of light into electrical signals. The process occurs in the outer segments of rods and cones and involves the following key steps:
-
-1. **Photon absorption:** Light is absorbed by the visual pigment [[rhodopsin]] (in rods) or [[photopsin]]/cone opsins (in cones), which contain the chromophore [[11-cis-retinal]] bound to an [[opsin]] protein.
-2. **Isomerization:** Photon absorption causes isomerization of 11-cis-retinal to [[all-trans-retinal]], triggering a conformational change in opsin to its active form ([[metarhodopsin II]]).
-3. **G-protein activation:** Metarhodopsin II activates the G-protein [[transducin]] (Gα-t), which in turn activates [[phosphodiesterase 6]] (PDE6).
-4. **cGMP hydrolysis:** PDE6 hydrolyzes [[cyclic guanosine monophosphate]] (cGMP), reducing its intracellular concentration.
-5. **Channel closure:** Decreased cGMP causes closure of cGMP-gated [[cation channels]] in the outer segment membrane, reducing Na⁺ and Ca²⁺ influx.
-6. **Hyperpolarization:** The photoreceptor cell membrane hyperpolarizes (from approximately −40 mV in the dark to −65 mV in light), reducing [[glutamate]] release at the synaptic terminal.
-7. **Signal transmission:** The change in glutamate release is detected by postsynaptic [[bipolar cells]], which either depolarize (ON-bipolar cells via [[mGluR6]] receptors) or hyperpolarize (OFF-bipolar cells via ionotropic glutamate receptors), initiating parallel visual processing pathways.
-
-The [[visual cycle]] (retinoid cycle) regenerates 11-cis-retinal from all-trans-retinal, primarily through enzymatic processes in the RPE involving [[RPE65 isomerase]] and [[lecithin retinol acyltransferase]] (LRAT). Dysfunction of the visual cycle is implicated in diseases such as [[Stargardt disease]], [[retinitis pigmentosa]], and [[Leber congenital amaurosis]].
+A notable feature is the **[[foveal avascular zone]] (FAZ)**, a capillary-free region approximately 0.5 mm in diameter centered on the foveola, which is entirely dependent on choroidal blood supply. Enlargement of the FAZ is a biomarker of macular ischemia in conditions such as [[diabetic retinopathy]] and [[retinal vein occlusion]].
 
 ---
 
 ## Pathophysiology of Retinal Disease
 
-Retinal pathology can arise from vascular, degenerative, inflammatory, hereditary, traumatic, or neoplastic mechanisms. The following sections detail the pathophysiology of major retinal conditions.
+Retinal pathology can be broadly categorized by mechanism:
 
-### Diabetic Retinopathy (DR)
+### 1. Vascular Pathology
 
-[[Diabetic retinopathy]] is the most common retinal vascular disease and a leading cause of blindness worldwide. Chronic [[hyperglycemia]] induces:
+Retinal vascular diseases are among the most common causes of vision loss worldwide.
 
-- **Pericyte loss** and basement membrane thickening in retinal capillaries
-- Upregulation of [[vascular endothelial growth factor]] (VEGF) due to retinal [[ischemia]]
-- Breakdown of the inner BRB leading to [[diabetic macular edema]] (DME)
-- Formation of [[microaneurysms]], [[dot-and-blot hemorrhages]], [[hard exudates]], [[cotton-wool spots]], and [[intraretinal microvascular abnormalities]] (IRMA)
-- In proliferative stages ([[proliferative diabetic retinopathy]], PDR), [[neovascularization]] of the disc (NVD) or elsewhere (NVE), which can lead to [[vitreous hemorrhage]] and [[tractional retinal detachment]]
+- **[[Diabetic retinopathy]] (DR)**: Chronic [[hyperglycemia]] leads to pericyte loss, basement membrane thickening, endothelial cell damage, and breakdown of the inner blood-retinal barrier. This progresses from **non-proliferative diabetic retinopathy** (NPDR)—characterized by [[microaneurysms]], [[dot-and-blot hemorrhages]], [[hard exudates]], [[cotton-wool spots]], and [[intraretinal microvascular abnormalities]] (IRMA)—to **proliferative diabetic retinopathy** (PDR), marked by [[retinal neovascularization]] driven by [[VEGF]] upregulation secondary to retinal ischemia. [[Diabetic macular edema]] can occur at any stage.
 
-Key biochemical pathways include the [[polyol pathway]], [[advanced glycation end-products]] (AGEs), [[protein kinase C]] (PKC) activation, and the [[hexosamine pathway]].
+- **[[Retinal vein occlusion]] (RVO)**: Includes [[central retinal vein occlusion]] (CRVO) and [[branch retinal vein occlusion]] (BRVO). Pathophysiology involves thrombotic occlusion at arteriovenous crossing points (BRVO) or at the [[lamina cribrosa]] (CRVO), leading to venous congestion, hemorrhage, edema, and potential ischemia with secondary neovascularization.
 
-### Age-Related Macular Degeneration (AMD)
+- **[[Retinal artery occlusion]]**: Embolic or thrombotic occlusion of the central retinal artery or its branches causes acute retinal ischemia. The classic fundoscopic finding in CRAO is a pale, edematous retina with a **[[cherry-red spot]]** at the macula (where the thin fovea allows visualization of the underlying choroidal circulation). This constitutes an **ophthalmic emergency**.
 
-[[Age-related macular degeneration]] is the leading cause of irreversible central vision loss in individuals over 50 years of age in developed countries. Two forms exist:
+- **[[Hypertensive retinopathy]]**: Chronic systemic [[hypertension]] causes arteriolar narrowing, arteriovenous nicking ([[Salus sign]], [[Gunn sign]]), flame-shaped hemorrhages, cotton-wool spots, hard exudates (sometimes in a macular star pattern), and in severe cases, [[optic disc edema]].
 
-- **Dry (atrophic) AMD:** Characterized by [[drusen]] (extracellular deposits between the RPE and Bruch's membrane), RPE pigmentary changes, and progressive [[geographic atrophy]] (GA) of the RPE and overlying photoreceptors. Pathophysiology involves oxidative stress, [[complement system]] dysregulation (particularly [[complement factor H]] polymorphisms), lipid accumulation in Bruch's membrane, and chronic low-grade inflammation.
+### 2. Degenerative Pathology
 
-- **Wet (neovascular/exudative) AMD:** Characterized by [[choroidal neovascularization]] (CNV), where abnormal blood vessels grow from the choriocapillaris through Bruch's membrane into the sub-RPE or subretinal space. These vessels are fragile and leak fluid, lipid, and blood, causing acute central vision loss. VEGF-A is the primary mediator.
+- **[[Age-related macular degeneration]] (AMD)**: The leading cause of irreversible central vision loss in individuals over 50 in developed nations. **Dry (atrophic) AMD** is characterized by [[drusen]] (extracellular deposits between the RPE and Bruch's membrane), RPE changes, and progressive [[geographic atrophy]]. **Wet (neovascular/exudative) AMD** involves [[choroidal neovascularization]] (CNV) that breaches Bruch's membrane, leading to subretinal fluid, hemorrhage, lipid exudation, and ultimately disciform scarring. Pathophysiology involves oxidative stress, complement dysregulation (polymorphisms in [[CFH]], [[ARMS2]], [[C3]]), lipid accumulation in Bruch's membrane, and VEGF-driven angiogenesis.
 
-### Retinal Detachment
+- **[[Inherited retinal dystrophies]] (IRDs)**: A genetically heterogeneous group of disorders including [[retinitis pigmentosa]] (RP), [[Stargardt disease]], [[cone-rod dystrophy]], [[Leber congenital amaurosis]], [[Best disease]] (vitelliform macular dystrophy), [[choroideremia]], and [[X-linked retinoschisis]]. These conditions typically involve mutations in genes encoding proteins critical for phototransduction, the visual cycle, photoreceptor structure, or RPE function. Over 280 causative genes have been identified.
 
-[[Retinal detachment]] (RD) involves separation of the neurosensory retina from the underlying RPE. Three types exist:
+### 3. Tractional and Rhegmatogenous Pathology
 
-| **Type** | **Mechanism** | **Common Associations** |
-|---|---|---|
-| [[Rhegmatogenous retinal detachment]] (RRD) | Full-thickness retinal break allows liquefied vitreous to enter the subretinal space | [[Posterior vitreous detachment]], [[lattice degeneration]], [[myopia]], prior [[cataract surgery]], trauma |
-| [[Tractional retinal detachment]] (TRD) | Fibrovascular membranes exert traction on the retina, pulling it away from the RPE | [[Proliferative diabetic retinopathy]], [[retinopathy of prematurity]], [[proliferative vitreoretinopathy]] |
-| [[Exudative (serous) retinal detachment]] | Fluid accumulates in the subretinal space without a break or traction | [[Central serous chorioretinopathy]], [[Vogt-Koyanagi-Harada disease]], choroidal tumors, severe [[pre-eclampsia]] |
+- **[[Retinal detachment]] (RD)**: Separation of the neurosensory retina from the RPE. Three types:
+  - **[[Rhegmatogenous retinal detachment]]**: Most common; caused by a full-thickness retinal break (tear or hole) allowing liquefied vitreous to enter the subretinal space. Risk factors include [[posterior vitreous detachment]] (PVD), [[myopia]], prior [[cataract surgery]], and [[lattice degeneration]].
+  - **[[Tractional retinal detachment]]**: Caused by fibrovascular proliferation exerting traction on the retina, most commonly in PDR.
+  - **[[Exudative (serous) retinal detachment]]**: Caused by subretinal fluid accumulation without a retinal break, seen in conditions such as [[Vogt-Koyanagi-Harada disease]], [[posterior scleritis]], choroidal tumors, and severe [[preeclampsia]].
 
-### Retinal Vascular Occlusions
+- **[[Epiretinal membrane]] (ERM)**: Fibrocellular proliferation on the inner retinal surface (ILM), causing retinal wrinkling and metamorphopsia. Often idiopathic or secondary to PVD, retinal surgery, or inflammation.
 
-- **[[Central retinal artery occlusion]] (CRAO):** Acute, painless, profound vision loss; caused by [[embolism]] (most commonly from [[carotid artery]] atherosclerosis) or [[thrombosis]]; fundoscopic appearance includes diffuse retinal whitening with a [[cherry-red spot]] at the fovea (due to the thin fovea allowing visualization of the underlying choroidal circulation). This is an ophthalmic emergency.
+- **[[Macular hole]]**: Full-thickness defect in the foveal neurosensory retina, typically caused by vitreomacular traction. Staged by the Gass classification (Stages 1–4).
 
-- **[[Branch retinal artery occlusion]] (BRAO):** Segmental retinal whitening corresponding to the territory of the occluded arteriole; often associated with [[Hollenhorst plaques]].
+### 4. Inflammatory and Infectious Pathology
 
-- **[[Central retinal vein occlusion]] (CRVO):** Presents with sudden painless vision loss; fundoscopy reveals diffuse retinal hemorrhages in all four quadrants ("blood and thunder" appearance), dilated tortuous veins, cotton-wool spots, and disc edema. Risk factors include [[hypertension]], [[diabetes mellitus]], [[glaucoma]], and [[hyperviscosity syndromes]].
+- **[[Retinitis]]**: Inflammation of the retina, which may be infectious (e.g., [[CMV retinitis]], [[toxoplasmic retinochoroiditis]], [[acute retinal necrosis]] from [[herpes simplex virus]] or [[varicella-zoster virus]]) or autoimmune.
+- **[[Posterior uveitis]]** and **[[panuveitis]]** frequently involve the retina and choroid.
+- **[[White dot syndromes]]**: A group of inflammatory conditions including [[multiple evanescent white dot syndrome]] (MEWDS), [[acute posterior multifocal placoid pigment epitheliopathy]] (APMPPE), [[birdshot chorioretinopathy]], [[serpiginous choroidopathy]], and [[multifocal choroiditis with panuveitis]] (MCP).
 
-- **[[Branch retinal vein occlusion]] (BRVO):** Hemorrhages and edema confined to the distribution of the affected vein, typically at an arteriovenous crossing point.
+### 5. Neoplastic Pathology
 
-### Inherited Retinal Dystrophies (IRDs)
-
-[[Inherited retinal dystrophies]] encompass a genetically and phenotypically heterogeneous group of conditions causing progressive photoreceptor and/or RPE degeneration. Key examples include:
-
-- **[[Retinitis pigmentosa]] (RP):** The most common IRD; characterized by progressive rod-cone degeneration leading to [[nyctalopia]] (night blindness), progressive peripheral visual field loss ([[tunnel vision]]), and eventual central vision loss. Fundoscopic hallmarks include bone-spicule pigmentation, arteriolar attenuation, and waxy pallor of the optic disc. Over 80 causative genes have been identified, with autosomal dominant, autosomal recessive, and X-linked inheritance patterns.
-
-- **[[Stargardt disease]]:** The most common juvenile macular dystrophy; caused by mutations in the [[ABCA4]] gene leading to accumulation of toxic [[lipofuscin]] (particularly [[A2E]]) in the RPE. Presents with progressive central vision loss in childhood or adolescence. Fundoscopy reveals yellow-white [[flecks]] at the level of the RPE and a "beaten bronze" macular appearance.
-
-- **[[Leber congenital amaurosis]] (LCA):** Severe retinal dystrophy presenting in infancy with profound vision loss, [[nystagmus]], and a markedly reduced or absent [[electroretinogram]] (ERG). Mutations in [[RPE65]] are the target of the first FDA-approved gene therapy, [[voretigene neparvovec]] (Luxturna).
-
-- **[[Cone-rod dystrophy]]:** Progressive cone degeneration followed by rod involvement; presents with central vision loss, [[photophobia]], and color vision deficits before peripheral field loss.
-
-### Other Important Retinal Conditions
-
-- **[[Central serous chorioretinopathy]] (CSCR):** Idiopathic serous detachment of the neurosensory retina, often at the macula, associated with focal RPE leakage. Typically affects young to middle-aged males; associated with [[corticosteroid]] use, type A personality, and stress.
-
-- **[[Retinopathy of prematurity]] (ROP):** Vasoproliferative retinal disease affecting premature, low-birth-weight infants exposed to supplemental oxygen. Abnormal [[neovascularization]] at the junction of vascularized and avascular peripheral retina can lead to tractional retinal detachment and blindness if untreated.
-
-- **[[Macular hole]]:** Full-thickness defect in the foveal neurosensory retina, most commonly caused by vitreomacular traction. Classified by the Gass staging system (Stages 1–4).
-
-- **[[Epiretinal membrane]] (ERM):** Fibrocellular proliferation on the inner retinal surface (ILM), causing metamorphopsia and reduced acuity through retinal wrinkling and distortion.
-
-- **[[Retinoblastoma]]:** The most common primary intraocular malignancy of childhood; arises from immature retinal cells due to biallelic inactivation of the [[RB1]] tumor suppressor gene. Presents with [[leukocoria]] and [[strabismus]].
+- **[[Retinoblastoma]]**: The most common primary intraocular malignancy of childhood, caused by biallelic inactivation of the [[RB1]] tumor suppressor gene. Presents with [[leukocoria]], [[strabismus]], or decreased vision.
+- **[[Retinal capillary hemangioblastoma]]**: Associated with [[von Hippel-Lindau disease]].
+- **[[Choroidal melanoma]]** and [[choroidal metastases]] can secondarily affect the retina.
 
 ---
 
@@ -170,209 +162,176 @@ Key biochemical pathways include the [[polyol pathway]], [[advanced glycation en
 
 Retinal diseases present with a spectrum of visual symptoms depending on the location and nature of the pathology:
 
-| **Symptom** | **Possible Retinal Etiology** |
+| Symptom | Possible Retinal Etiology |
 |---|---|
-| Sudden painless vision loss | CRAO, CRVO, retinal detachment, vitreous hemorrhage, wet AMD |
-| Gradual central vision loss | Dry AMD, Stargardt disease, diabetic macular edema, macular hole, ERM |
-| [[Metamorphopsia]] (distorted vision) | Wet AMD, ERM, CSCR, macular edema, macular hole |
-| [[Floaters]] and [[photopsia]] (flashes) | [[Posterior vitreous detachment]], retinal tear, retinal detachment |
-| Peripheral visual field loss | Retinitis pigmentosa, retinal detachment, BRVO, BRAO |
-| [[Nyctalopia]] (night blindness) | Retinitis pigmentosa, [[vitamin A deficiency]], congenital stationary night blindness |
-| [[Scotoma]] (blind spot) | AMD (central scotoma), BRAO, BRVO, optic nerve pathology |
-| [[Photophobia]] | Cone dystrophy, [[achromatopsia]], retinal inflammation |
-| [[Micropsia]]/[[Macropsia]] | CSCR, macular edema |
-
-It is critical to note that many retinal conditions, particularly [[diabetic retinopathy]] in its early stages, may be **completely asymptomatic**, underscoring the importance of routine dilated [[fundus examination]] in at-risk populations.
+| **Sudden painless vision loss** | [[CRAO]], [[CRVO]], [[retinal detachment]], [[vitreous hemorrhage]], wet [[AMD]] |
+| **Gradual central vision loss** | Dry [[AMD]], [[macular hole]], [[ERM]], [[diabetic macular edema]] |
+| **[[Metamorphopsia]]** (distortion) | Wet AMD, ERM, [[CSCR]], macular edema, macular hole |
+| **[[Photopsia]]** (flashes of light) | [[Posterior vitreous detachment]], retinal tear, retinal detachment |
+| **[[Floaters]]** | PVD, vitreous hemorrhage, [[asteroid hyalosis]], retinal tear |
+| **Visual field defect / curtain or shadow** | [[Retinal detachment]], BRVO, BRAO |
+| **[[Nyctalopia]]** (night blindness) | [[Retinitis pigmentosa]], [[vitamin A deficiency]], [[congenital stationary night blindness]] |
+| **[[Dyschromatopsia]]** (color vision changes) | Cone dystrophy, optic neuropathy (when associated with retinal pathology) |
+| **[[Micropsia]] / [[Macropsia]]** | Macular edema, CSCR |
+| **Central [[scotoma]]** | AMD, macular hole, Stargardt disease, [[solar retinopathy]] |
 
 ---
 
 ## Diagnostic Modalities
 
-Modern retinal diagnosis relies on a combination of clinical examination techniques and advanced imaging technologies.
-
 ### Clinical Examination
 
-- **[[Dilated fundus examination]] (DFE):** Gold standard for retinal evaluation using [[slit-lamp biomicroscopy]] with a [[78D lens]], [[90D lens]], or [[Volk lens]], or [[binocular indirect ophthalmoscopy]] (BIO) with a [[20D lens]] or [[28D lens]] for wide-field peripheral retinal assessment.
-- **[[Direct ophthalmoscopy]]:** Provides a magnified, upright view of the posterior pole; limited field of view (~5°); useful for screening.
-- **[[Amsler grid]] testing:** Detects central and paracentral scotomas and metamorphopsia; useful for monitoring macular disease, particularly AMD.
-- **[[Goldmann visual field]] / [[Humphrey visual field]]:** Quantifies peripheral and central visual field defects associated with retinal and optic nerve pathology.
+- **[[Visual acuity]] testing**: [[Snellen chart]], [[ETDRS chart]]; essential baseline measurement.
+- **[[Amsler grid]]**: Detects central and paracentral scotomas and metamorphopsia; critical for monitoring AMD.
+- **[[Dilated fundus examination]] (DFE)**: Using [[slit-lamp biomicroscopy]] with a [[78D lens]], [[90D lens]], or [[Volk lens]], or [[binocular indirect ophthalmoscopy]] (BIO) with a [[20D condensing lens]] for peripheral retinal evaluation.
+- **[[Goldmann three-mirror contact lens]]**: Allows detailed examination of the peripheral retina, ora serrata, and vitreous base.
+- **[[Scleral depression]]**: Technique used during BIO to visualize the far peripheral retina and ora serrata.
 
-### Imaging Technologies
+### Imaging
 
-| **Modality** | **Principle** | **Clinical Application** |
+| Modality | Principle | Primary Clinical Applications |
 |---|---|---|
-| [[Optical coherence tomography]] (OCT) | Low-coherence interferometry providing cross-sectional images of retinal layers at micrometer resolution | Macular edema, AMD (drusen, CNV, GA), macular hole, ERM, vitreomacular traction, RNFL analysis for glaucoma |
-| [[OCT angiography]] (OCTA) | Motion-contrast imaging of retinal and choroidal vasculature without dye injection | CNV detection in AMD, diabetic retinopathy capillary non-perfusion, FAZ assessment, retinal vascular occlusions |
-| [[Fluorescein angiography]] (FA) | Intravenous [[sodium fluorescein]] dye with sequential fundus photography to assess retinal vascular perfusion and leakage | Diabetic retinopathy (ischemia, neovascularization, leakage), CRVO/BRVO, CSCR, CNV, retinal vasculitis |
-| [[Indocyanine green angiography]] (ICGA) | Intravenous [[indocyanine green]] dye; better choroidal penetration due to near-infrared fluorescence and high protein binding | Choroidal neovascularization (especially occult CNV), polypoidal choroidal vasculopathy, CSCR, choroidal tumors |
-| [[Fundus autofluorescence]] (FAF) | Imaging of intrinsic fluorescence from [[lipofuscin]] in the RPE | Geographic atrophy mapping in AMD, Stargardt disease, monitoring RPE health, IRDs |
-| [[B-scan ultrasonography]] | High-frequency sound waves to image posterior segment when direct visualization is obscured | Vitreous hemorrhage, retinal detachment, intraocular tumors, posterior scleritis |
-| [[Electroretinography]] (ERG) | Measures electrical responses of retinal cells (photoreceptors, bipolar cells) to light stimulation | Diagnosis and monitoring of IRDs (RP, LCA, cone-rod dystrophy), toxic retinopathies ([[hydroxychloroquine]] toxicity), CRAO |
-| [[Multifocal ERG]] (mfERG) | Topographic mapping of retinal function across the central 40–50° | Hydroxychloroquine maculopathy screening, localized macular dysfunction |
-| [[Electrooculography]] (EOG) | Measures the standing potential of the eye, reflecting RPE function | [[Best vitelliform macular dystrophy]] (abnormal Arden ratio) |
-| [[Ultra-widefield imaging]] | Captures up to 200° of the retina in a single image (e.g., [[Optos]]) | Peripheral retinal pathology, diabetic retinopathy screening, ROP, retinal detachment |
-| [[Adaptive optics]] imaging | Corrects optical aberrations to achieve cellular-level resolution | Research applications; individual photoreceptor and RPE cell visualization |
+| **[[Optical coherence tomography]] (OCT)** | Low-coherence interferometry providing cross-sectional retinal images with ~5 μm axial resolution | Macular edema, AMD (drusen, CNV, geographic atrophy), macular hole, ERM, vitreoretinal interface disorders, RNFL analysis for [[glaucoma]] |
+| **[[OCT angiography]] (OCTA)** | Motion-contrast imaging of retinal and choroidal vasculature without dye injection | CNV detection, FAZ analysis, diabetic retinopathy, RVO, macular telangiectasia |
+| **[[Fundus fluorescein angiography]] (FFA)** | Intravenous [[sodium fluorescein]] dye with sequential fundus photography to assess retinal vascular perfusion and leakage | Diabetic retinopathy, RVO, CRAO, CNV, retinal vasculitis, CSCR |
+| **[[Indocyanine green angiography]] (ICGA)** | Intravenous [[ICG]] dye; near-infrared imaging penetrates RPE and visualizes choroidal vasculature | Polypoidal choroidal vasculopathy (PCV), CSCR, choroidal tumors, occult CNV |
+| **[[Fundus autofluorescence]] (FAF)** | Imaging of [[lipofuscin]] fluorescence in the RPE | Geographic atrophy mapping, Stargardt disease, Best disease, monitoring RPE health |
+| **[[B-scan ultrasonography]]** | High-frequency ultrasound imaging of the posterior segment | Retinal detachment (when media opacities preclude fundoscopy), intraocular tumors, vitreous hemorrhage |
+| **[[Electroretinography]] (ERG)** | Measures electrical responses of retinal cells to light stimulation | Inherited retinal dystrophies (RP, CSNB, cone dystrophy), toxic retinopathies, unexplained vision loss |
+| **[[Multifocal ERG]] (mfERG)** | Topographic mapping of cone-driven retinal function | Hydroxychloroquine toxicity screening, localized macular dysfunction |
+| **[[Electrooculography]] (EOG)** | Measures the standing potential of the eye (RPE function) | [[Best disease]] (abnormal Arden ratio) |
+| **[[Ultra-widefield imaging]]** | Scanning laser ophthalmoscopy covering up to 200° of the retina | Peripheral retinal pathology, diabetic retinopathy screening, ROP |
+| **[[Adaptive optics]] imaging** | Corrects ocular aberrations to achieve cellular-level resolution | Research applications; individual photoreceptor visualization |
 
 ---
 
 ## Management and Treatment
 
-### Medical (Pharmacological) Management
+### Medical (Pharmacological) Interventions
 
 #### Anti-VEGF Therapy
 
-[[Anti-VEGF]] agents represent the most significant pharmacological advancement in retinal disease management. They are administered via [[intravitreal injection]] and are the first-line treatment for:
+[[Anti-VEGF]] agents have revolutionized the treatment of neovascular retinal diseases. They are administered via **[[intravitreal injection]]** and target [[vascular endothelial growth factor]], reducing neovascularization, vascular permeability, and macular edema.
 
-- Neovascular (wet) AMD
-- Diabetic macular edema (DME)
-- Macular edema secondary to CRVO and BRVO
-- Neovascular glaucoma (adjunctive)
-- ROP (select cases)
-
-| **Agent** | **Mechanism** | **Dosing Interval** |
+| Agent | Target | Approved Indications |
 |---|---|---|
-| [[Ranibizumab]] (Lucentis) | Monoclonal antibody fragment binding VEGF-A | Monthly or treat-and-extend |
-| [[Aflibercept]] (Eylea) | Fusion protein ("VEGF trap") binding VEGF-A, VEGF-B, and [[placental growth factor]] (PlGF) | Every 8 weeks after loading doses; high-dose (8 mg) formulation allows extended intervals up to 16 weeks |
-| [[Bevacizumab]] (Avastin) | Full-length monoclonal antibody binding VEGF-A (off-label use) | Monthly (off-label, cost-effective) |
-| [[Brolucizumab]] (Beovu) | Single-chain antibody fragment binding VEGF-A; smallest anti-VEGF molecule | Every 8–12 weeks after loading; associated with risk of [[retinal vasculitis]] and [[occlusive retinal vasculitis]] |
-| [[Faricimab]] (Vabysmo) | Bispecific antibody targeting both VEGF-A and [[angiopoietin-2]] (Ang-2) | Up to every 16 weeks; first bispecific antibody approved for retinal disease |
+| **[[Ranibizumab]]** (Lucentis®) | VEGF-A (all isoforms) | Wet AMD, DME, RVO-associated macular edema, myopic CNV |
+| **[[Aflibercept]]** (Eylea®) | VEGF-A, VEGF-B, [[PlGF]] | Wet AMD, DME, RVO, diabetic retinopathy |
+| **[[Bevacizumab]]** (Avastin®) | VEGF-A (all isoforms) | Off-label but widely used for wet AMD, DME, RVO (cost-effective) |
+| **[[Brolucizumab]]** (Beovu®) | VEGF-A | Wet AMD, DME |
+| **[[Faricimab]]** (Vabysmo®) | VEGF-A and [[Ang-2]] (bispecific) | Wet AMD, DME |
+
+Treatment regimens include monthly, treat-and-extend (T&E), and pro re nata (PRN) protocols. Landmark trials include **ANCHOR**, **MARINA**, **CATT**, **DRCR.net Protocol T**, **HAWK/HARRIER**, and **TENAYA/LUCERNE**.
 
 #### Corticosteroids
 
-Intravitreal corticosteroids are used for refractory macular edema, particularly in DME and retinal vein occlusion:
+Intravitreal corticosteroids reduce inflammation and vascular permeability:
+- **[[Dexamethasone intravitreal implant]]** (Ozurdex®): Biodegradable implant for DME, RVO-associated macular edema, and non-infectious posterior uveitis.
+- **[[Fluocinolone acetonide intravitreal implant]]** (Iluvien®, Retisert®): Long-acting implants for chronic DME and non-infectious posterior uveitis.
+- **[[Triamcinolone acetonide]]**: Intravitreal injection (off-label) for macular edema.
 
-- **[[Dexamethasone intravitreal implant]] (Ozurdex):** Biodegradable sustained-release implant; duration ~4–6 months.
-- **[[Fluocinolone acetonide intravitreal implant]] (Iluvien/Retisert):** Long-acting; Iluvien lasts up to 36 months; Retisert (surgically implanted) lasts up to 30 months.
-- **[[Triamcinolone acetonide]]:** Off-label intravitreal injection.
-
-Side effects include elevated [[intraocular pressure]] (IOP) and [[posterior subcapsular cataract]] formation.
-
-#### Complement Inhibitors (for Geographic Atrophy)
-
-- **[[Pegcetacoplan]] (Syfovre):** C3 complement inhibitor; first FDA-approved treatment for geographic atrophy in dry AMD; administered via intravitreal injection monthly or every other month.
-- **[[Avacincaptad pegol]] (Izervay):** C5 complement inhibitor; also approved for GA; monthly intravitreal injection.
+Side effects include elevated [[intraocular pressure]] and [[posterior subcapsular cataract]] formation.
 
 #### Other Pharmacological Agents
 
-- **[[Ocriplasmin]] (Jetrea):** Recombinant protease for pharmacologic [[vitreolysis]] in symptomatic vitreomacular adhesion.
-- **[[Verteporfin]] (Visudyne):** Used in [[photodynamic therapy]] (PDT) for CSCR and select cases of CNV.
-- **[[Hydroxychloroquine]]:** While not a retinal treatment, its use requires retinal screening due to risk of [[hydroxychloroquine retinopathy]] (bull's-eye maculopathy), per [[American Academy of Ophthalmology]] (AAO) guidelines recommending baseline examination and annual screening after 5 years of use (or sooner with risk factors).
+- **[[Verteporfin]]** (Visudyne®): Used in [[photodynamic therapy]] (PDT) for polypoidal choroidal vasculopathy, CSCR, and select cases of CNV.
+- **[[Ocriplasmin]]** (Jetrea®): Recombinant protease for pharmacologic [[vitreolysis]] in symptomatic vitreomacular adhesion.
+- **Antioxidant supplementation** ([[AREDS2 formula]]): Lutein 10 mg, zeaxanthin 2 mg, vitamin C 500 mg, vitamin E 400 IU, zinc 80 mg, copper 2 mg—shown to reduce progression from intermediate to advanced AMD by approximately 25% (AREDS/AREDS2 studies).
 
 ### Laser Therapy
 
-| **Laser Type** | **Mechanism** | **Indications** |
+| Laser Modality | Mechanism | Indications |
 |---|---|---|
-| [[Panretinal photocoagulation]] (PRP) | Thermal destruction of peripheral ischemic retina to reduce VEGF drive | Proliferative diabetic retinopathy, ischemic CRVO with neovascularization, ROP |
-| [[Focal/grid laser photocoagulation]] | Targeted thermal treatment of leaking microaneurysms or diffuse macular edema | Clinically significant diabetic macular edema (largely supplanted by anti-VEGF but still used adjunctively) |
-| [[Photodynamic therapy]] (PDT) | Verteporfin dye activated by 689 nm laser causing localized vascular occlusion | CSCR, polypoidal choroidal vasculopathy, select CNV cases |
-| [[Subthreshold micropulse laser]] | Repetitive short laser pulses below thermal damage threshold; stimulates RPE without creating visible burns | DME, CSCR, BRVO-associated macular edema |
-| [[Laser retinopexy]] | Thermal adhesion (chorioretinal scar) around retinal breaks | Retinal tears, lattice degeneration with holes (prophylactic) |
+| **[[Panretinal photocoagulation]] (PRP)** | Thermal destruction of ischemic peripheral retina to reduce VEGF drive | PDR, severe NPDR, ischemic CRVO with neovascularization |
+| **[[Focal/grid laser photocoagulation]]** | Targeted treatment of leaking microaneurysms and areas of diffuse leakage | Clinically significant macular edema (per ETDRS criteria), BRVO |
+| **[[Photodynamic therapy]] (PDT)** | Verteporfin-mediated photochemical vascular occlusion | PCV, chronic CSCR, select CNV |
+| **[[Subthreshold micropulse laser]]** | Repetitive short pulses below tissue damage threshold; stimulates RPE without photoreceptor destruction | DME, CSCR, chronic macular edema |
+| **[[Laser retinopexy]]** (barricade laser) | Thermal adhesion of retina to RPE/choroid around retinal breaks | Retinal tears, lattice degeneration with holes (prophylactic) |
 
-### Surgical Management
+### Surgical Interventions
 
-| **Procedure** | **Indication** | **Description** |
-|---|---|---|
-| [[Pars plana vitrectomy]] (PPV) | Vitreous hemorrhage, tractional/rhegmatogenous retinal detachment, macular hole, ERM, endophthalmitis, retained lens fragments | Microsurgical removal of vitreous gel with instrumentation through the pars plana; modern systems use 23-, 25-, or 27-gauge instrumentation |
-| [[Scleral buckle]] | Rhegmatogenous retinal detachment | Silicone band or sponge sutured to the sclera to indent the wall and appose the RPE to the detached retina; often combined with [[cryopexy]] |
-| [[Pneumatic retinopexy]] | Select superior rhegmatogenous retinal detachments with single break | Intravitreal gas bubble injection ([[SF6]] or [[C3F8]]) combined with cryopexy or laser retinopexy; patient positioning critical |
-| [[Cryopexy]] | Retinal tears, lattice degeneration | Transconjunctival/transscleral freezing probe creates chorioretinal adhesion |
-| [[Macular translocation]] | Subfoveal CNV (rarely performed today) | Surgical relocation of the fovea to healthier RPE |
-| [[ILM peeling]] | Macular hole, ERM, vitreomacular traction | Removal of the internal limiting membrane during vitrectomy to relieve tangential traction |
+- **[[Pars plana vitrectomy]] (PPV)**: The cornerstone of vitreoretinal surgery. Indications include rhegmatogenous retinal detachment, tractional retinal detachment, non-clearing vitreous hemorrhage, macular hole, ERM, endophthalmitis, retained lens fragments, and intraocular foreign body removal. Modern systems use 23-, 25-, or 27-gauge microincision techniques with high-speed vitreous cutters, wide-angle viewing systems, and [[endolaser]] photocoagulation.
 
-### Gene Therapy and Emerging Treatments
+- **[[Scleral buckle]]**: External silicone band or sponge sutured to the sclera to indent the eye wall and relieve vitreoretinal traction. Used for rhegmatogenous retinal detachment, particularly in young, phakic patients with inferior breaks.
 
-The field of retinal gene therapy has achieved landmark milestones:
+- **[[Pneumatic retinopexy]]**: Office-based procedure involving intravitreal injection of an expansile gas bubble ([[SF6]] or [[C3F8]]) combined with cryopexy or laser retinopexy. Suitable for select superior rhegmatogenous retinal detachments with single breaks.
 
-- **[[Voretigene neparvovec-rzyl]] (Luxturna):** FDA-approved in 2017 for biallelic [[RPE65]]-mediated retinal dystrophy (a form of LCA/RP). Delivered via subretinal injection using an [[adeno-associated virus]] (AAV2) vector carrying a functional copy of the RPE65 gene.
+- **[[Macular translocation surgery]]**: Rarely performed; involves surgical displacement of the fovea away from a subfoveal CNV or area of RPE atrophy.
 
-- **Ongoing clinical trials** are investigating gene therapies for [[RPGR]]-associated X-linked RP, [[CNGA3]]- and [[CNGB3]]-associated [[achromatopsia]], [[choroideremia]] ([[CHM]] gene), and Stargardt disease.
+- **[[Internal limiting membrane (ILM) peeling]]**: Performed during vitrectomy for macular hole closure (success rate >90%) and ERM removal.
 
-- **[[Optogenetics]]:** An experimental approach to restore light sensitivity to remaining retinal cells (e.g., ganglion cells) in advanced retinal degeneration by introducing light-sensitive proteins ([[channelrhodopsins]]).
+### Gene Therapy
 
-- **[[Retinal prostheses]]:** Devices such as the [[Argus II]] retinal prosthesis system ("bionic eye") provide rudimentary vision by electrically stimulating remaining retinal ganglion cells in patients with end-stage RP, though commercial availability has been limited.
+- **[[Voretigene neparvovec]]** (Luxturna®): The first FDA-approved gene therapy for an inherited retinal disease. It delivers a functional copy of the [[RPE65]] gene via subretinal injection of an [[adeno-associated virus]] (AAV2) vector in patients with biallelic RPE65 mutation-associated retinal dystrophy (including LCA type 2 and RP). Clinical trials (Phase III) demonstrated significant improvement in functional vision as measured by the multi-luminance mobility test.
+- Numerous gene therapy trials are underway for other IRDs, including [[choroideremia]] (REP1 gene), [[X-linked retinitis pigmentosa]] (RPGR gene), [[achromatopsia]] (CNGA3, CNGB3), and [[Stargardt disease]] (ABCA4).
 
-- **[[Stem cell therapy]]:** RPE cell replacement using [[human embryonic stem cell]]-derived or [[induced pluripotent stem cell]] (iPSC)-derived RPE is under active investigation for AMD and Stargardt disease.
+### Emerging Therapies
 
-- **[[Port delivery system]] (PDS):** A surgically implanted refillable reservoir (Susvimo, ranibizumab) designed to provide continuous anti-VEGF drug delivery for wet AMD, reducing injection burden.
+- **[[Complement inhibitors]]**: [[Pegcetacoplan]] (Syfovre®) and [[avacincaptad pegol]] (Izervay®) are intravitreal complement inhibitors approved for geographic atrophy secondary to dry AMD—the first treatments for this condition.
+- **[[Port delivery system]]** (Susvimo®): Surgically implanted refillable reservoir for continuous intravitreal delivery of ranibizumab in wet AMD.
+- **[[Retinal prostheses]]** (e.g., [[Argus II]]): Electronic devices that partially restore visual function in patients with end-stage RP by electrically stimulating remaining retinal ganglion cells.
+- **[[Stem cell therapy]]**: RPE cell transplantation and photoreceptor replacement strategies are in clinical trials for AMD and IRDs.
+- **[[Optogenetics]]**: Introduction of light-sensitive proteins into surviving retinal cells to restore light sensitivity in degenerated retinas; early clinical trials are ongoing.
 
 ---
 
-## Role of the Optometrist in Retinal Care
+## Retinal Screening and Prevention
 
-[[Optometrists]] play a critical role in retinal disease through:
+### Diabetic Retinopathy Screening
 
-1. **Screening and early detection:** Routine dilated fundus examinations, particularly in diabetic patients, elderly populations, and high-risk groups.
-2. **Monitoring:** Serial OCT imaging, visual field testing, and clinical assessment for disease progression.
-3. **Patient education:** Counseling on risk factor modification (glycemic control, blood pressure management, smoking cessation, UV protection, nutritional supplementation).
-4. **Co-management:** Collaborative care with [[retinal specialists]] (vitreoretinal surgeons) for patients requiring intravitreal injections, laser treatment, or surgery.
-5. **Low vision rehabilitation:** Prescribing [[low vision aids]] and referring to [[low vision specialists]] for patients with irreversible retinal vision loss.
+The [[American Academy of Ophthalmology]] (AAO) and [[American Optometric Association]] (AOA) recommend:
+- **Type 1 diabetes**: Initial dilated fundus examination within 5 years of diagnosis, then annually.
+- **Type 2 diabetes**: At the time of diagnosis, then annually (or more frequently based on severity).
+- **Gestational diabetes**: Examination in the first trimester with follow-up based on findings.
 
-### Nutritional Supplementation in AMD
+[[Artificial intelligence]] (AI)-based screening systems (e.g., [[IDx-DR]], now [[LumineticsCore]]) have received FDA clearance for autonomous detection of more-than-mild diabetic retinopathy, enabling screening in primary care settings.
 
-Based on the [[AREDS2]] (Age-Related Eye Disease Study 2) findings, the recommended supplementation for patients at risk of progression to advanced AMD includes:
+### Retinopathy of Prematurity (ROP) Screening
 
-| **Component** | **Daily Dose** |
-|---|---|
-| Vitamin C | 500 mg |
-| Vitamin E | 400 IU |
-| [[Lutein]] | 10 mg |
-| [[Zeaxanthin]] | 2 mg |
-| Zinc oxide | 80 mg |
-| Cupric oxide | 2 mg |
+[[Retinopathy of prematurity]] affects premature infants and involves abnormal retinal vascular development. Screening criteria (per AAP/AAO/AAPOS guidelines):
+- Birth weight ≤1500 g or gestational age ≤30 weeks
+- Selected infants 1500–2000 g with unstable clinical course
 
-Note: Beta-carotene was removed from the AREDS2 formulation due to increased lung cancer risk in smokers.
+Treatment includes [[laser photocoagulation]] to avascular retina and intravitreal [[anti-VEGF]] injection (bevacizumab or ranibizumab) for aggressive posterior ROP or zone I disease.
+
+### Hydroxychloroquine Retinal Toxicity Screening
+
+Patients on long-term [[hydroxychloroquine]] (Plaquenil®) therapy require baseline examination and annual screening after 5 years (or sooner with risk factors) using [[SD-OCT]], [[mfERG]], and [[10-2 visual field]] testing to detect early [[bull's eye maculopathy]] before irreversible photoreceptor loss occurs (per 2016 AAO revised guidelines).
 
 ---
 
-## Prognosis and Complications
+## Prognosis and Rehabilitation
 
-Prognosis varies widely depending on the specific retinal condition, stage at diagnosis, and response to treatment:
-
-- **Wet AMD** treated with anti-VEGF therapy: Majority of patients maintain or improve vision with consistent treatment; however, long-term outcomes depend on treatment adherence and development of macular atrophy.
-- **Diabetic retinopathy:** Excellent prognosis with early detection and tight glycemic/blood pressure control; advanced PDR and refractory DME carry risk of severe vision loss.
-- **Rhegmatogenous retinal detachment:** Surgical success rate >90% for primary reattachment; visual recovery depends on macular involvement and duration of detachment.
-- **Inherited retinal dystrophies:** Generally progressive; gene therapy offers hope for specific genotypes.
-
-Complications of retinal disease and its treatment include:
-
-- [[Neovascular glaucoma]] (from ischemic retinal disease)
-- [[Proliferative vitreoretinopathy]] (PVR) following retinal detachment surgery
-- [[Endophthalmitis]] (rare but serious complication of intravitreal injections and surgery)
-- [[Phthisis bulbi]] (end-stage globe shrinkage from chronic retinal detachment or inflammation)
-- Iatrogenic [[cataract]] and IOP elevation from intravitreal corticosteroids
+Visual prognosis in retinal disease varies enormously depending on the specific condition, stage at presentation, and response to treatment. Early detection and timely intervention are paramount. For patients with irreversible vision loss from retinal disease, **[[low vision rehabilitation]]** services—including magnification devices, eccentric viewing training, assistive technology, and psychosocial support—play a vital role in maximizing functional independence and quality of life.
 
 ---
 
 ## References
 
-1. Ryan, S.J., Sadda, S.R., et al. *Ryan's Retina*. 6th ed. Elsevier; 2018. [https://www.elsevier.com/books/ryans-retina/sadda/978-0-323-40197-5](https://www.elsevier.com/books/ryans-retina/sadda/978-0-323-40197-5)
+1. Ryan SJ, Sadda SR, Hinton DR, et al. *Retina*. 6th ed. Elsevier; 2018. [Link](https://www.elsevier.com/books/ryan-s-retina/sadda/978-0-323-40197-5)
 
-2. Bowling, B. *Kanski's Clinical Ophthalmology: A Systematic Approach*. 9th ed. Elsevier; 2020. [https://www.elsevier.com/books/kanskis-clinical-ophthalmology/bowling/978-0-7020-7711-1](https://www.elsevier.com/books/kanskis-clinical-ophthalmology/bowling/978-0-7020-7711-1)
+2. American Academy of Ophthalmology. *Basic and Clinical Science Course (BCSC), Section 12: Retina and Vitreous*. 2023–2024 ed. [Link](https://www.aao.org/bcsc)
 
-3. American Academy of Ophthalmology. Preferred Practice Pattern: Diabetic Retinopathy. 2019. [https://www.aao.org/preferred-practice-pattern/diabetic-retinopathy-ppp](https://www.aao.org/preferred-practice-pattern/diabetic-retinopathy-ppp)
+3. Kanski JJ, Bowling B. *Clinical Ophthalmology: A Systematic Approach*. 9th ed. Elsevier; 2020. [Link](https://www.elsevier.com/books/clinical-ophthalmology/bowling/978-0-7020-7711-1)
 
-4. American Academy of Ophthalmology. Preferred Practice Pattern: Age-Related Macular Degeneration. 2019. [https://www.aao.org/preferred-practice-pattern/age-related-macular-degeneration-ppp](https://www.aao.org/preferred-practice-pattern/age-related-macular-degeneration-ppp)
+4. Age-Related Eye Disease Study 2 Research Group. Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the AREDS2 randomized clinical trial. *JAMA*. 2013;309(19):2005-2015. [Link](https://doi.org/10.1001/jama.2013.4997)
 
-5. Age-Related Eye Disease Study 2 Research Group. "Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the Age-Related Eye Disease Study 2 (AREDS2) randomized clinical trial." *JAMA*. 2013;309(19):2005-2015. [https://doi.org/10.1001/jama.2013.4997](https://doi.org/10.1001/jama.2013.4997)
+5. Diabetic Retinopathy Clinical Research Network (DRCR.net). Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema (Protocol T). *N Engl J Med*. 2015;372(13):1193-1203. [Link](https://doi.org/10.1056/NEJMoa1414264)
 
-6. Heier, J.S., et al. "Intravitreal aflibercept (VEGF trap-eye) in wet age-related macular degeneration." *Ophthalmology*. 2012;119(12):2537-2548. [https://doi.org/10.1016/j.ophtha.2012.09.006](https://doi.org/10.1016/j.ophtha.2012.09.006)
+6. Russell S, Bennett J, Wellman JA, et al. Efficacy and safety of voretigene neparvovec (AAV2-hRPE65v2) in patients with RPE65-mediated inherited retinal dystrophy: a randomised, controlled, open-label, phase 3 trial. *Lancet*. 2017;390(10097):849-860. [Link](https://doi.org/10.1016/S0140-6736(17)31868-8)
 
-7. Russell, S., et al. "Efficacy and safety of voretigene neparvovec (AAV2-hRPE65v2) in patients with RPE65-mediated inherited retinal dystrophy: a randomised, controlled, open-label, phase 3 trial." *Lancet*. 2017;390(10097):849-860. [https://doi.org/10.1016/S0140-6736(17)31868-8](https://doi.org/10.1016/S0140-6736(17)31868-8)
+7. Marmor MF, Kellner U, Lai TYY, et al. Recommendations on screening for chloroquine and hydroxychloroquine retinopathy (2016 revision). *Ophthalmology*. 2016;123(6):1386-1394. [Link](https://doi.org/10.1016/j.ophtha.2016.01.058)
 
-8. Marmor, M.F., et al. "Recommendations on screening for chloroquine and hydroxychloroquine retinopathy (2016 revision)." *Ophthalmology*. 2016;123(6):1386-1394. [https://doi.org/10.1016/j.ophtha.2016.01.058](https://doi.org/10.1016/j.ophtha.2016.01.058)
+8. Flaxel CJ, Adelman RA, Bailey ST, et al. Age-Related Macular Degeneration Preferred Practice Pattern®. *Ophthalmology*. 2020;127(1):P1-P65. [Link](https://doi.org/10.1016/j.ophtha.2019.09.024)
 
-9. Flaxel, C.J., et al. "Retinal Detachment Preferred Practice Pattern." *Ophthalmology*. 2020;127(2):P199-P226. [https://doi.org/10.1016/j.ophtha.2019.10.026](https://doi.org/10.1016/j.ophtha.2019.10.026)
+9. Heier JS, Lad EM, Holz FG, et al. Pegcetacoplan for the treatment of geographic atrophy secondary to age-related macular degeneration (OAKS and DERBY): two multicentre, randomised, double-masked, sham-controlled, phase 3 trials. *Lancet*. 2023;402(10411):1434-1448. [Link](https://doi.org/10.1016/S0140-6736(23)01520-9)
 
-10. Liao, D.S., et al. "Complement C3 inhibitor pegcetacoplan for geographic atrophy secondary to age-related macular degeneration: a randomized phase 2 trial." *Ophthalmology*. 2020;127(2):186-195. [https://doi.org/10.1016/j.ophtha.2019.07.011](https://doi.org/10.1016/j.ophtha.2019.07.011)
+10. Spaide RF, Fujimoto JG, Waheed NK, et al. Optical coherence tomography angiography. *Prog Retin Eye Res*. 2018;64:1-55. [Link](https://doi.org/10.1016/j.preteyeres.2017.11.003)
 
-11. Sahel, J.A., et al. "Partial recovery of visual function in a blind patient after optogenetic therapy." *Nature Medicine*. 2021;27:1223-1229. [https://doi.org/10.1038/s41591-021-01351-4](https://doi.org/10.1038/s41591-021-01351-4)
+11. Fierson WM; American Academy of Pediatrics Section on Ophthalmology. Screening examination of premature infants for retinopathy of prematurity. *Pediatrics*. 2018;142(6):e20183061. [Link](https://doi.org/10.1542/peds.2018-3061)
 
-12. Spaide, R.F., et al. "Optical coherence tomography angiography." *Progress in Retinal and Eye Research*. 2018;64:1-55. [https://doi.org/10.1016/j.preteyeres.2017.11.003](https://doi.org/10.1016/j.preteyeres.2017.11.003)
-
-13. Diabetic Retinopathy Clinical Research Network (DRCR.net). "Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema." *New England Journal of Medicine*. 2015;372(13):1193-1203. [https://doi.org/10.1056/NEJMoa1414264](https://doi.org/10.1056/NEJMoa1414264)
-
-14. Yanoff, M., Duker, J.S. *Ophthalmology*. 5th ed. Elsevier; 2019. [https://www.elsevier.com/books/ophthalmology/yanoff/978-0-323-52821-4](https://www.elsevier.com/books/ophthalmology/yanoff/978-0-323-52821-4)
+12. Yanoff M, Duker JS. *Ophthalmology*. 6th ed. Elsevier; 2023. [Link](https://www.elsevier.com/books/ophthalmology/yanoff/978-0-323-79542-8)
 
 ---
 
-*This article is intended for use by eye care professionals and students of [[optometry]] and [[ophthalmology]]. Clinical decisions should be based on individual patient assessment and current evidence-based guidelines. Article compiled by OptoAtlas from aggregated peer-reviewed clinical literature and professional practice guidelines.*
+*This article is intended for use by eye care professionals and students of [[optometry]] and [[ophthalmology]]. Clinical decisions should be based on individual patient assessment and current evidence-based guidelines. Article compiled by OptoAtlas from aggregated peer-reviewed clinical literature and authoritative ophthalmic references.*
