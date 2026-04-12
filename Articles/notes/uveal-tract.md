@@ -2,7 +2,7 @@
 
 # Uveal Tract
 
-The **uveal tract** (also known as the **uvea** or **vascular tunic**) is the middle pigmented and highly vascular coat of the [[eye]], situated between the outer fibrous tunic ([[sclera]] and [[cornea]]) and the inner neural tunic ([[retina]]). The term "uvea" derives from the Latin word *uva*, meaning "grape," owing to the structure's resemblance to a peeled dark grape when the sclera is removed. The uveal tract is composed of three anatomically continuous yet functionally distinct structures: the [[iris]], the [[ciliary body]], and the [[choroid]]. Together, these components serve critical roles in ocular nutrition, light regulation, [[aqueous humor]] dynamics, [[accommodation]], and thermoregulation of the globe. Pathology of the uveal tract—collectively termed **[[uveitis]]** when inflammatory, or uveal neoplasia when neoplastic—represents a significant cause of ocular morbidity and visual impairment worldwide.
+The **uveal tract** (also known as the **uvea** or **vascular tunic**) is the middle pigmented and highly vascular coat of the [[eye]], situated between the outer fibrous tunic ([[sclera]] and [[cornea]]) and the inner neural tunic ([[retina]]). The term "uvea" derives from the Latin word *uva*, meaning "grape," owing to the structure's resemblance to a peeled dark grape when the sclera is removed. The uveal tract is composed of three continuous, anatomically distinct structures: the [[iris]], the [[ciliary body]], and the [[choroid]]. Together, these components serve critical roles in ocular nutrition, [[aqueous humor]] dynamics, [[accommodation]], light regulation, and immune surveillance. Diseases of the uveal tract—collectively termed **uveal disorders** or **uveal pathology**—encompass a broad spectrum of inflammatory, neoplastic, degenerative, and congenital conditions that are of paramount importance in clinical [[optometry]] and [[ophthalmology]].
 
 ---
 
@@ -10,94 +10,94 @@ The **uveal tract** (also known as the **uvea** or **vascular tunic**) is the mi
 
 ### Overview of the Three Components
 
-The uveal tract extends from the [[pupil]] margin anteriorly to the [[optic nerve]] posteriorly. It is the most vascular tissue in the body per unit weight and is richly innervated by both sympathetic and parasympathetic nerve fibers.
+The uveal tract extends from the [[pupil]] anteriorly to the [[optic nerve]] posteriorly and can be divided into an **anterior uvea** (iris and ciliary body) and a **posterior uvea** (choroid).
 
 | Component | Location | Primary Functions |
-|-----------|----------|-------------------|
-| **[[Iris]]** | Most anterior; forms the posterior wall of the [[anterior chamber]] | Regulates pupil size and light entry; contributes to aqueous outflow |
-| **[[Ciliary Body]]** | Intermediate; extends from the [[scleral spur]] to the [[ora serrata]] | Produces [[aqueous humor]]; controls [[accommodation]] via the [[zonules of Zinn]]; contributes to [[uveoscleral outflow]] |
-| **[[Choroid]]** | Posterior; lines the inner sclera from the ora serrata to the optic nerve | Nourishes outer retina; absorbs scattered light; thermoregulation |
+|---|---|---|
+| **[[Iris]]** | Most anterior; visible through the cornea | Regulates pupil size and light entry; contributes to [[aqueous humor]] drainage |
+| **[[Ciliary Body]]** | Intermediate; extends from the iris root to the [[ora serrata]] | Produces [[aqueous humor]]; controls [[accommodation]] via the [[zonules of Zinn]]; contributes to [[uveoscleral outflow]] |
+| **[[Choroid]]** | Posterior; lines the inner sclera from the ora serrata to the optic nerve | Provides blood supply and metabolic support to the outer [[retina]] and [[retinal pigment epithelium]] (RPE); thermoregulation; light absorption |
 
 ### The Iris
 
-The [[iris]] is a thin, contractile diaphragm with a central aperture, the [[pupil]]. It is the most anterior component of the uveal tract and divides the space between the [[cornea]] and the [[lens]] into the [[anterior chamber]] and [[posterior chamber]].
+The [[iris]] is a thin, contractile, pigmented diaphragm with a central aperture—the [[pupil]]. It is composed of:
 
-**Histological Layers (anterior to posterior):**
+- **Anterior border layer**: A discontinuous layer of [[fibroblasts]] and [[melanocytes]] without a true epithelial covering, which accounts for the iris crypts visible on [[slit-lamp biomicroscopy]].
+- **Stroma**: A loose [[connective tissue]] matrix containing [[collagen]] fibers, melanocytes (whose density determines iris color), blood vessels, nerves, and the [[sphincter pupillae]] muscle (innervated by [[parasympathetic]] fibers via the [[oculomotor nerve]], CN III).
+- **Dilator pupillae muscle**: A myoepithelial layer derived from the anterior [[iris pigment epithelium]], innervated by [[sympathetic]] fibers originating from the [[superior cervical ganglion]].
+- **Posterior pigment epithelium**: A bilayer of heavily pigmented [[neuroectodermal]] cells continuous with the non-pigmented and pigmented epithelium of the [[ciliary body]].
 
-1. **Anterior border layer** – A discontinuous layer of [[fibroblasts]] and [[melanocytes]]; not a true epithelium. The density of melanocytes in this layer determines iris color.
-2. **Iris stroma** – Loose [[connective tissue]] containing [[collagen]] fibers, melanocytes, blood vessels, nerves, and the [[sphincter pupillae]] muscle (innervated by [[parasympathetic]] fibers via the [[oculomotor nerve]], CN III).
-3. **Anterior iris epithelium (myoepithelium)** – Contains the [[dilator pupillae]] muscle, innervated by [[sympathetic]] fibers from the [[superior cervical ganglion]].
-4. **Posterior pigmented epithelium** – A heavily pigmented layer continuous with the non-pigmented epithelium of the [[ciliary body]] and the [[retinal pigment epithelium]] (RPE).
-
-The iris vasculature is derived from the [[long posterior ciliary arteries]] and the [[anterior ciliary arteries]], which anastomose to form the **[[major arterial circle of the iris]]** (circulus arteriosus iridis major) at the iris root and the **minor arterial circle** near the [[collarette]].
+The iris vasculature is supplied by the **[[major arterial circle of the iris]]** (formed by anastomoses of the [[long posterior ciliary arteries]] and the [[anterior ciliary arteries]]) and radial vessels that course toward the pupillary margin.
 
 ### The Ciliary Body
 
-The [[ciliary body]] is a roughly triangular structure in cross-section, extending approximately 6 mm from the scleral spur anteriorly to the [[ora serrata]] posteriorly. It is divided into two zones:
+The [[ciliary body]] is a roughly triangular structure in cross-section, extending approximately 6 mm from the [[scleral spur]] anteriorly to the [[ora serrata]] posteriorly. It is divided into:
 
-- **Pars plicata (corona ciliaris)** – The anterior 2 mm, characterized by approximately 70–80 radial folds called [[ciliary processes]]. These processes are the primary site of [[aqueous humor]] secretion via active secretion, ultrafiltration, and diffusion. Each process is lined by a bilayered epithelium: an inner [[non-pigmented ciliary epithelium]] (NPE) facing the posterior chamber and an outer [[pigmented ciliary epithelium]] (PE) facing the stroma.
-- **Pars plana (orbiculus ciliaris)** – The posterior 4 mm, a relatively flat and avascular zone. The pars plana is the preferred surgical entry site for [[vitreoretinal surgery]] (e.g., [[pars plana vitrectomy]]) due to its relative avascularity and distance from the [[retina]] and [[lens]].
+- **Pars plicata** (corona ciliaris): The anterior 2 mm, bearing approximately 70–80 [[ciliary processes]]—finger-like projections richly supplied with fenestrated capillaries responsible for active secretion of [[aqueous humor]].
+- **Pars plana** (orbiculus ciliaris): The posterior 4 mm, a relatively flat and avascular zone commonly used as a surgical entry site for [[pars plana vitrectomy]].
 
-The [[ciliary muscle]], the primary effector of [[accommodation]], lies within the ciliary body stroma and consists of three fiber orientations:
+The ciliary body contains the **[[ciliary muscle]]**, a smooth muscle with longitudinal (Brücke's), radial, and circular (Müller's) fibers. Contraction of the ciliary muscle relaxes tension on the [[zonules of Zinn]], allowing the [[crystalline lens]] to assume a more spherical shape for near focus—the process of [[accommodation]]. The ciliary muscle also modulates [[uveoscleral outflow]] of aqueous humor by altering the permeability of the extracellular spaces within the muscle.
 
-| Fiber Orientation | Action | Innervation |
-|-------------------|--------|-------------|
-| **Longitudinal (Brücke's muscle)** | Opens [[trabecular meshwork]]; facilitates [[uveoscleral outflow]] | [[Parasympathetic]] (CN III) |
-| **Radial** | Transitional fibers assisting both functions | [[Parasympathetic]] (CN III) |
-| **Circular (Müller's muscle)** | Relaxes [[zonules of Zinn]], allowing lens to become more convex for near focus | [[Parasympathetic]] (CN III) |
+The epithelium of the ciliary body consists of two layers:
+
+1. **Non-pigmented ciliary epithelium (NPCE)**: The inner layer, facing the [[posterior chamber]], responsible for active secretion of aqueous humor via [[Na⁺/K⁺-ATPase]], [[carbonic anhydrase]], and [[ascorbate transport]] mechanisms.
+2. **Pigmented ciliary epithelium (PCE)**: The outer layer, continuous with the [[retinal pigment epithelium]].
 
 ### The Choroid
 
-The [[choroid]] is the largest component of the uveal tract, extending from the ora serrata to the [[optic nerve head]]. It is approximately 0.1 mm thick at the posterior pole and thins to 0.1 mm peripherally. The choroid receives the highest blood flow per unit tissue weight of any organ in the body, accounting for approximately 85% of total ocular blood flow.
+The [[choroid]] is the most posterior and extensive component of the uveal tract, approximately 0.1–0.22 mm thick, and is one of the most highly vascularized tissues in the human body. Its layers, from external to internal, include:
 
-**Histological Layers (external to internal):**
+- **Suprachoroidal lamina (lamina fusca)**: A transitional zone between the sclera and choroid containing melanocytes, fibroblasts, collagen, and a potential space—the **[[suprachoroidal space]]**—which is clinically significant in [[choroidal detachment]] and [[suprachoroidal hemorrhage]].
+- **Haller's layer (outer vascular layer)**: Contains large-caliber choroidal vessels (arteries and veins), including branches of the [[short posterior ciliary arteries]] and the [[vortex veins]].
+- **Sattler's layer (middle vascular layer)**: Contains medium-caliber vessels.
+- **[[Choriocapillaris]]**: A dense, single-layered network of fenestrated capillaries immediately adjacent to [[Bruch's membrane]], providing oxygen and nutrients to the outer retina, including the [[photoreceptors]] and [[retinal pigment epithelium]].
+- **[[Bruch's membrane]]**: A pentalaminar structure (basement membrane of the RPE, inner collagenous zone, elastic layer, outer collagenous zone, and basement membrane of the choriocapillaris) that serves as a selective barrier between the choroid and the RPE. Age-related changes in Bruch's membrane are central to the pathogenesis of [[age-related macular degeneration]] (AMD).
 
-1. **Suprachoroidal lamina (lamina fusca)** – A transitional zone between the sclera and choroid containing melanocytes, fibroblasts, collagen, and a potential space (the [[suprachoroidal space]]) that is clinically significant in [[choroidal detachment]] and [[suprachoroidal hemorrhage]].
-2. **Stroma (Haller's layer and Sattler's layer)** – Contains large vessels (Haller's layer, outermost) and medium-sized vessels (Sattler's layer, inner). The stroma also contains melanocytes, macrophages, lymphocytes, mast cells, and collagen.
-3. **[[Choriocapillaris]]** – A dense, single-layered capillary network with fenestrated endothelium that provides oxygen and nutrients to the outer retina, including the [[photoreceptors]] and [[retinal pigment epithelium]]. The choriocapillaris is most dense at the [[macula]] and becomes progressively sparser toward the periphery.
-4. **[[Bruch's membrane]]** – A pentalaminar structure (basement membrane of RPE, inner collagenous zone, elastic layer, outer collagenous zone, basement membrane of choriocapillaris) that serves as a selective barrier between the choroid and the RPE. Degeneration of Bruch's membrane is central to the pathogenesis of [[age-related macular degeneration]] (AMD).
-
-The choroid is supplied primarily by the [[short posterior ciliary arteries]] (SPCAs), with contributions from the [[long posterior ciliary arteries]] and recurrent branches of the [[anterior ciliary arteries]]. Venous drainage occurs via the [[vortex veins]] (venae vorticosae), typically four in number, which exit the globe posterior to the equator.
+The choroidal blood flow is among the highest per unit tissue weight in the body, estimated at approximately 800–2000 mL/min/100g, and is regulated by [[autonomic nervous system]] input, local [[nitric oxide]] (NO) production, and [[autoregulatory]] mechanisms.
 
 ---
 
-## Embryology
+## Vascular Supply and Innervation
 
-The uveal tract has a dual embryological origin:
+### Arterial Supply
 
-- **[[Neural crest]]–derived mesenchyme** gives rise to the stromal components of the iris, ciliary body, and choroid, including melanocytes, fibroblasts, vascular endothelium, and the ciliary muscle.
-- **[[Neuroectoderm]]** (from the [[optic cup]]) gives rise to the bilayered epithelium of the iris and ciliary body, as well as the [[sphincter pupillae]] and [[dilator pupillae]] muscles (which are unique in being muscles of neuroectodermal origin).
+The uveal tract receives its blood supply primarily from branches of the [[ophthalmic artery]]:
 
-Developmental anomalies of the uveal tract include [[aniridia]], [[coloboma]] (due to failure of closure of the [[embryonic fissure]]), [[persistent pupillary membrane]], and [[albinism]] (deficient melanin in uveal melanocytes).
+| Artery | Supplies |
+|---|---|
+| **[[Short posterior ciliary arteries]]** (15–20) | Choroid, choriocapillaris |
+| **[[Long posterior ciliary arteries]]** (2) | Iris, ciliary body (via the major arterial circle) |
+| **[[Anterior ciliary arteries]]** (7, from the [[rectus muscles]]) | Iris, ciliary body, anterior conjunctiva, episclera |
+
+### Venous Drainage
+
+Venous blood from the choroid drains via the **[[vortex veins]]** (venae vorticosae), typically four in number (one per quadrant), which exit the globe posterior to the equator and drain into the [[superior and inferior ophthalmic veins]]. The anterior uvea drains via the anterior ciliary veins.
+
+### Innervation
+
+- **Sensory**: The uveal tract is innervated by the [[long ciliary nerves]] (branches of the [[nasociliary nerve]], a division of [[CN V1]]) and the [[short ciliary nerves]] (from the [[ciliary ganglion]]).
+- **Parasympathetic**: Preganglionic fibers from the [[Edinger-Westphal nucleus]] synapse in the [[ciliary ganglion]]; postganglionic fibers travel via the short ciliary nerves to innervate the [[sphincter pupillae]] and [[ciliary muscle]].
+- **Sympathetic**: Postganglionic fibers from the [[superior cervical ganglion]] travel via the long ciliary nerves and the sympathetic root of the ciliary ganglion to innervate the [[dilator pupillae]], choroidal vasculature, and ciliary body vasculature.
 
 ---
 
 ## Physiology and Function
 
-### Aqueous Humor Production and Dynamics
+The uveal tract serves several indispensable physiological roles:
 
-The [[ciliary processes]] of the pars plicata are responsible for the production of [[aqueous humor]] at a rate of approximately 2.0–2.5 µL/min in the adult human eye. The mechanisms include:
+1. **Aqueous Humor Production**: The [[ciliary processes]] of the [[ciliary body]] produce approximately 2.0–2.5 µL/min of [[aqueous humor]] through a combination of active secretion (70–80%), ultrafiltration, and diffusion. This fluid maintains [[intraocular pressure]] (IOP), provides nutrients to the avascular [[cornea]] and [[crystalline lens]], and removes metabolic waste.
 
-- **Active secretion** (accounts for ~80%): Mediated by [[Na⁺/K⁺-ATPase]] and [[carbonic anhydrase]] in the [[non-pigmented ciliary epithelium]]. This is the target of [[carbonic anhydrase inhibitors]] (e.g., [[dorzolamide]], [[acetazolamide]]) and [[beta-adrenergic antagonists]] (e.g., [[timolol]]) used in [[glaucoma]] management.
-- **Ultrafiltration**: Driven by hydrostatic pressure differences between the capillaries of the ciliary processes and the posterior chamber.
-- **Diffusion**: Passive movement of solutes along concentration gradients.
+2. **Regulation of Light Entry**: The [[iris]] functions as a dynamic aperture, adjusting [[pupil]] diameter from approximately 1.5 mm (miosis) to 8 mm (mydriasis) in response to light intensity ([[pupillary light reflex]]), near stimuli ([[near triad]]), and autonomic tone.
 
-Aqueous humor flows from the posterior chamber through the pupil into the anterior chamber and exits via two pathways:
+3. **Accommodation**: Contraction of the [[ciliary muscle]] enables the [[crystalline lens]] to increase its refractive power for near vision—a process that diminishes with age ([[presbyopia]]).
 
-1. **Conventional (trabecular) outflow** (~85–90%): Through the [[trabecular meshwork]] → [[Schlemm's canal]] → collector channels → [[episcleral veins]].
-2. **Unconventional ([[uveoscleral outflow]])** (~10–15%): Through the iris root and ciliary muscle interstitial spaces → [[suprachoroidal space]] → sclera. This pathway is enhanced by [[prostaglandin analogs]] (e.g., [[latanoprost]], [[travoprost]]).
+4. **Nutritional Support**: The [[choriocapillaris]] provides the sole blood supply to the outer retina, including the metabolically demanding [[photoreceptor]] layer. Disruption of choroidal perfusion leads to rapid photoreceptor degeneration.
 
-### Accommodation
+5. **Light Absorption**: Melanocytes throughout the uveal tract absorb stray light, reducing intraocular light scatter and improving image quality on the [[retina]].
 
-The [[ciliary muscle]] contracts in response to parasympathetic stimulation, causing the [[zonules of Zinn]] to relax. This allows the elastic [[crystalline lens]] to assume a more spherical shape, increasing its refractive power for near vision. This process, known as [[accommodation]], diminishes with age ([[presbyopia]]) due to progressive sclerosis of the lens nucleus.
+6. **Thermoregulation**: The high choroidal blood flow dissipates heat generated by light absorption in the RPE and photoreceptors.
 
-### Choroidal Blood Flow and Thermoregulation
-
-The [[choroid]] provides approximately 90% of the oxygen supply to the outer retina. Choroidal blood flow is exceptionally high (approximately 800–2000 mL/100g/min), far exceeding metabolic demand, which serves a thermoregulatory function—dissipating heat generated by light absorption in the RPE and photoreceptors. Choroidal blood flow is regulated by sympathetic innervation, local autoregulatory mechanisms, and nitric oxide.
-
-### Light Absorption
-
-Melanin within uveal melanocytes absorbs stray light, reducing intraocular light scatter and improving image quality on the retina. This function is compromised in conditions such as [[ocular albinism]] and [[oculocutaneous albinism]], leading to photophobia, reduced visual acuity, and [[foveal hypoplasia]].
+7. **Immune Privilege and Surveillance**: The uveal tract participates in [[anterior chamber-associated immune deviation]] (ACAID), a form of immune tolerance that limits destructive inflammatory responses within the eye. However, the uvea is also a common site of immune-mediated inflammation ([[uveitis]]).
 
 ---
 
@@ -105,38 +105,42 @@ Melanin within uveal melanocytes absorbs stray light, reducing intraocular light
 
 ### Uveitis
 
-**[[Uveitis]]** refers to inflammation of the uveal tract and is the most clinically significant category of uveal pathology. It is classified anatomically according to the Standardization of Uveitis Nomenclature (SUN) Working Group:
+**[[Uveitis]]** refers to inflammation of the uveal tract and is the most clinically significant category of uveal disease. It is classified anatomically by the Standardization of Uveitis Nomenclature (SUN) Working Group:
 
 | Type | Primary Site of Inflammation | Examples |
-|------|------------------------------|----------|
-| **Anterior uveitis** ([[iritis]], [[iridocyclitis]]) | [[Anterior chamber]] | [[HLA-B27]]-associated uveitis, [[herpetic anterior uveitis]], [[Fuchs heterochromic iridocyclitis]] |
-| **Intermediate uveitis** | [[Vitreous]] (with or without pars planitis) | [[Pars planitis]], [[multiple sclerosis]]-associated, [[sarcoidosis]] |
-| **Posterior uveitis** | [[Retina]] and/or [[choroid]] | [[Toxoplasmosis]], [[CMV retinitis]], [[Vogt-Koyanagi-Harada disease]], [[birdshot chorioretinopathy]] |
-| **Panuveitis** | All segments | [[Behçet disease]], [[sarcoidosis]], [[sympathetic ophthalmia]], [[endophthalmitis]] |
+|---|---|---|
+| **[[Anterior uveitis]]** (iritis, iridocyclitis) | Iris, anterior ciliary body, [[anterior chamber]] | [[HLA-B27]]-associated uveitis, [[Fuchs heterochromic iridocyclitis]], [[herpetic anterior uveitis]] |
+| **[[Intermediate uveitis]]** | Vitreous, pars plana, peripheral retina | [[Pars planitis]], [[multiple sclerosis]]-associated uveitis, [[sarcoidosis]] |
+| **[[Posterior uveitis]]** | Choroid, retina | [[Toxoplasmosis]], [[Vogt-Koyanagi-Harada disease]], [[birdshot chorioretinopathy]], [[serpiginous choroiditis]] |
+| **[[Panuveitis]]** | All segments | [[Behçet disease]], [[sympathetic ophthalmia]], [[sarcoidosis]], [[tuberculosis]] |
 
-**Pathophysiological Mechanisms:**
+#### Immunopathogenesis
 
-The pathophysiology of uveitis involves a complex interplay of innate and adaptive immune responses. In autoimmune and autoinflammatory uveitis, molecular mimicry, loss of immune privilege, and breakdown of the [[blood-aqueous barrier]] (BAB) and [[blood-retinal barrier]] (BRB) lead to infiltration of inflammatory cells (T-lymphocytes, macrophages, neutrophils) and release of pro-inflammatory cytokines (TNF-α, IL-1, IL-6, IL-17, IFN-γ) into the ocular tissues.
+The pathophysiology of uveitis involves a complex interplay of innate and adaptive immune mechanisms:
 
-In infectious uveitis, direct microbial invasion (e.g., [[Toxoplasma gondii]], [[herpes simplex virus]], [[Mycobacterium tuberculosis]], [[Treponema pallidum]]) triggers both innate and adaptive immune responses. Granulomatous inflammation (characterized by mutton-fat [[keratic precipitates]], [[Busacca nodules]], and [[Koeppe nodules]]) is associated with sarcoidosis, tuberculosis, syphilis, and VKH disease, while non-granulomatous inflammation (fine keratic precipitates) is more typical of HLA-B27-associated and idiopathic anterior uveitis.
+- **Autoimmune/Autoinflammatory**: Molecular mimicry, loss of immune tolerance, or aberrant T-cell activation against retinal or uveal [[autoantigens]] (e.g., [[S-antigen]], [[interphotoreceptor retinoid-binding protein]]) can trigger inflammation. [[Th1]] and [[Th17]] lymphocyte subsets are particularly implicated.
+- **Infectious**: Direct microbial invasion (e.g., [[Toxoplasma gondii]], [[Mycobacterium tuberculosis]], [[herpes simplex virus]], [[cytomegalovirus]], [[Treponema pallidum]]) triggers innate immune responses, granulomatous or non-granulomatous inflammation, and tissue destruction.
+- **Breakdown of the [[blood-ocular barrier]]**: Inflammation increases vascular permeability of the iris and ciliary body vessels (blood-aqueous barrier) and the choriocapillaris/RPE (blood-retinal barrier), leading to protein and cellular exudation into the aqueous humor and vitreous.
+- **Cytokine and chemokine cascades**: [[TNF-α]], [[IL-1β]], [[IL-6]], [[IL-17]], [[IFN-γ]], and [[VEGF]] are key mediators driving uveal inflammation, vascular leakage, and tissue damage.
 
 ### Uveal Melanoma
 
-**[[Uveal melanoma]]** is the most common primary intraocular malignancy in adults, arising from melanocytes within the uveal stroma. Approximately 90% arise in the [[choroid]], 6% in the [[ciliary body]], and 4% in the [[iris]]. Risk factors include light skin color, [[ocular melanocytosis]] (nevus of Ota), [[BAP1 tumor predisposition syndrome]], and the presence of choroidal nevi.
+**[[Uveal melanoma]]** is the most common primary intraocular malignancy in adults, arising from melanocytes within the uveal tract. Approximately 90% originate in the [[choroid]], 6% in the [[ciliary body]], and 4% in the [[iris]].
 
-Pathophysiologically, uveal melanoma is driven by activating mutations in [[GNAQ]] or [[GNA11]] (found in >80% of cases), which activate the MAPK and YAP signaling pathways. Prognostic classification is based on gene expression profiling (Class 1A, 1B, 2), [[monosomy 3]], and [[BAP1]] mutation status, with Class 2 tumors and monosomy 3 carrying a significantly higher risk of metastasis (predominantly hepatic).
+- **Molecular pathogenesis**: Activating mutations in [[GNAQ]] or [[GNA11]] (encoding Gα subunits of G-protein-coupled receptors) are found in >80% of uveal melanomas. Additional mutations in [[BAP1]], [[SF3B1]], and [[EIF1AX]] influence prognosis and metastatic risk.
+- **Metastatic behavior**: Uveal melanoma has a strong predilection for hepatic metastasis, occurring in up to 50% of patients, often years after primary treatment. [[Monosomy 3]] and [[BAP1]] loss are associated with high metastatic risk (Class 2 gene expression profile).
 
 ### Choroidal Effusion and Detachment
 
-**[[Choroidal detachment]]** (serous or hemorrhagic) involves separation of the choroid from the sclera at the [[suprachoroidal space]]. Serous choroidal detachment may occur postoperatively (especially after [[glaucoma filtering surgery]]), in [[hypotony]], or in [[nanophthalmos]]. Hemorrhagic choroidal detachment ([[suprachoroidal hemorrhage]]) is a feared intraoperative or postoperative complication, particularly in patients on anticoagulation or with systemic hypertension.
+**[[Choroidal detachment]]** (serous or hemorrhagic) results from accumulation of fluid or blood in the [[suprachoroidal space]], separating the choroid from the sclera. Causes include hypotony (post-surgical or traumatic), inflammation, and vascular abnormalities. **[[Uveal effusion syndrome]]** is a rare idiopathic condition characterized by serous choroidal and [[retinal detachment]] without inflammation or elevated IOP, often associated with abnormal scleral composition.
 
 ### Other Uveal Pathologies
 
-- **[[Choroidal neovascularization]] (CNV)**: Abnormal vessel growth from the choriocapillaris through breaks in [[Bruch's membrane]], central to the pathogenesis of wet [[age-related macular degeneration]], [[pathologic myopia]], and [[presumed ocular histoplasmosis syndrome]] (POHS).
-- **[[Iris neovascularization]] ([[rubeosis iridis]])**: Abnormal vessel growth on the iris surface, typically secondary to retinal ischemia (e.g., [[proliferative diabetic retinopathy]], [[central retinal vein occlusion]]), which can lead to [[neovascular glaucoma]].
-- **[[Choroidal hemangioma]]**: Benign vascular tumors that may be circumscribed (sporadic) or diffuse (associated with [[Sturge-Weber syndrome]]).
-- **[[Iridodialysis]]**: Traumatic disinsertion of the iris root from the ciliary body.
-- **[[Cyclodialysis]]**: Separation of the ciliary body from the scleral spur, creating a direct communication between the anterior chamber and the suprachoroidal space, resulting in [[hypotony]].
+- **[[Choroidal neovascularization]] (CNV)**: Abnormal vessel growth from the choriocapillaris through defects in [[Bruch's membrane]], most commonly associated with [[age-related macular degeneration]], [[pathologic myopia]], and inflammatory conditions.
+- **[[Iris neovascularization]] (rubeosis iridis)**: Growth of new vessels on the iris surface, typically secondary to retinal ischemia (e.g., [[proliferative diabetic retinopathy]], [[central retinal vein occlusion]]), leading to [[neovascular glaucoma]].
+- **Uveal coloboma**: A congenital defect resulting from incomplete closure of the [[embryonic fissure]] (optic fissure), which may involve the iris, ciliary body, and/or choroid.
+- **[[Choroidal hemangioma]]**: A benign vascular tumor, either circumscribed (sporadic) or diffuse (associated with [[Sturge-Weber syndrome]]).
+- **[[Choroidal osteoma]]**: A rare benign ossifying tumor of the choroid, typically affecting young women.
 
 ---
 
@@ -144,55 +148,70 @@ Pathophysiologically, uveal melanoma is driven by activating mutations in [[GNAQ
 
 Symptoms of uveal tract disease vary depending on the anatomical location and nature of the pathology:
 
-| Symptom | Anterior Uveal Disease | Posterior Uveal Disease |
-|---------|------------------------|------------------------|
-| **Pain** | Moderate to severe, deep aching; photophobia | Usually painless |
-| **Redness** | [[Ciliary flush]] (circumcorneal injection) | Absent or minimal |
-| **Vision changes** | Mild blurring | Significant blurring, [[scotomas]], [[floaters]] |
-| **Photophobia** | Prominent | Variable |
-| **Tearing** | Common | Uncommon |
-| **Floaters** | Mild | Prominent (intermediate/posterior uveitis) |
-| **Pupil** | [[Miosis]] (due to sphincter spasm) | Normal |
+| Condition | Common Symptoms |
+|---|---|
+| **[[Anterior uveitis]]** | [[Ocular pain]], [[photophobia]], [[lacrimation]], [[ciliary flush]] (circumcorneal injection), blurred vision, miosis |
+| **[[Intermediate uveitis]]** | [[Floaters]], blurred vision; often minimal pain |
+| **[[Posterior uveitis]]** / [[Choroiditis]] | Blurred vision, [[scotomas]], floaters; pain is uncommon unless associated anterior segment inflammation |
+| **[[Panuveitis]]** | Combination of the above |
+| **[[Uveal melanoma]]** | Often asymptomatic; may present with blurred vision, [[visual field defect]], [[photopsia]], or visible iris mass |
+| **[[Choroidal detachment]]** | Decreased vision, shallow [[anterior chamber]], hypotony |
+| **[[Iris coloboma]]** | [[Photophobia]], cosmetic concern, [[monocular diplopia]] |
 
-Chronic or recurrent uveal inflammation may lead to secondary complications including [[posterior synechiae]], [[peripheral anterior synechiae]], [[cataract]] (particularly [[posterior subcapsular cataract]]), [[secondary glaucoma]] (both open-angle from trabecular meshwork obstruction by inflammatory debris and angle-closure from pupillary block due to seclusio pupillae), [[cystoid macular edema]] (CME), [[band keratopathy]], [[epiretinal membrane]], and [[phthisis bulbi]].
+### Signs on Examination
+
+- **Anterior uveitis**: [[Keratic precipitates]] (KPs) on the [[corneal endothelium]] (fine/stellate in non-granulomatous; large "mutton-fat" KPs in [[granulomatous uveitis]]), [[anterior chamber cells and flare]], [[posterior synechiae]] (adhesions between the iris and lens), [[iris nodules]] (Koeppe nodules at the pupillary margin; Busacca nodules in the iris stroma), [[hypopyon]] (layered white blood cells in the anterior chamber).
+- **Intermediate uveitis**: [[Vitreous cells]], [[snowbanking]] (exudates over the pars plana), [[snowball opacities]] (vitreous aggregates).
+- **Posterior uveitis**: [[Choroidal infiltrates]], [[retinal vasculitis]], [[macular edema]], [[subretinal fluid]], [[optic disc edema]].
+- **Uveal melanoma**: Dome-shaped or mushroom-shaped pigmented (or amelanotic) choroidal mass, [[orange pigment]] (lipofuscin) on the tumor surface, associated [[serous retinal detachment]], sentinel episcleral vessels.
 
 ---
 
 ## Diagnostic Modalities
 
+A comprehensive diagnostic evaluation of uveal tract disease integrates clinical examination with advanced imaging and laboratory investigations.
+
 ### Clinical Examination
 
-- **[[Slit-lamp biomicroscopy]]**: Essential for evaluating anterior segment inflammation. Key findings include [[keratic precipitates]] (KPs), [[anterior chamber cells and flare]] (graded 0 to 4+ per SUN criteria), [[hypopyon]], iris nodules ([[Koeppe nodules]] at the pupillary margin, [[Busacca nodules]] on the iris stroma), [[posterior synechiae]], and iris heterochromia.
-- **[[Gonioscopy]]**: Evaluates the [[anterior chamber angle]] for peripheral anterior synechiae, angle neovascularization, or inflammatory debris.
-- **[[Dilated fundus examination]]** with [[indirect ophthalmoscopy]] and [[slit-lamp biomicroscopy with condensing lenses]]: Evaluates for vitritis, snowbanking (pars planitis), chorioretinal lesions, retinal vasculitis, and choroidal masses.
-- **[[Intraocular pressure]] (IOP) measurement**: IOP may be low (due to ciliary body shutdown in acute uveitis) or elevated (due to trabeculitis, trabecular meshwork obstruction, steroid response, or neovascular glaucoma).
+- **[[Slit-lamp biomicroscopy]]**: Essential for evaluating the anterior uvea—iris architecture, anterior chamber cells and flare (graded per SUN criteria), KPs, synechiae, and lens changes.
+- **[[Gonioscopy]]**: Assesses the [[iridocorneal angle]] for peripheral anterior synechiae (PAS), angle neovascularization, or tumor extension.
+- **[[Dilated fundus examination]]** with [[binocular indirect ophthalmoscopy]] and [[slit-lamp fundoscopy]] (e.g., [[78D]] or [[90D]] lens): Evaluates the choroid, retina, and vitreous for inflammation, masses, or detachments.
+- **[[Intraocular pressure]] measurement**: IOP may be elevated (e.g., [[glaucomatocyclitic crisis]], [[trabeculitis]], [[neovascular glaucoma]]) or reduced (hypotony from ciliary body shutdown) in uveal disease.
 
 ### Imaging
 
 | Modality | Application in Uveal Tract Disease |
-|----------|-------------------------------------|
-| **[[Optical coherence tomography]] (OCT)** | Detects [[cystoid macular edema]], [[epiretinal membrane]], subretinal fluid, choroidal thickening |
-| **[[Enhanced depth imaging OCT]] (EDI-OCT)** | Measures [[choroidal thickness]]; useful in VKH, central serous chorioretinopathy, choroidal tumors |
-| **[[OCT angiography]] (OCTA)** | Non-invasive visualization of choroidal neovascularization, choriocapillaris flow voids |
-| **[[Fluorescein angiography]] (FA)** | Detects retinal vasculitis, CME, disc leakage, CNV |
-| **[[Indocyanine green angiography]] (ICGA)** | Superior for imaging choroidal vasculature; detects stromal choroidal inflammation, choroidal granulomas (sarcoidosis, VKH, tuberculosis) |
-| **[[B-scan ultrasonography]]** | Evaluates choroidal masses, choroidal detachment, posterior scleritis with choroidal involvement; measures tumor dimensions |
-| **[[Ultrasound biomicroscopy]] (UBM)** | High-resolution imaging of the iris, ciliary body, and anterior choroid; detects ciliary body tumors, cyclodialysis clefts, plateau iris |
-| **[[MRI]] of the orbits** | Characterizes uveal melanoma (T1 hyperintense, T2 hypointense due to melanin); evaluates extraocular extension |
+|---|---|
+| **[[Optical coherence tomography]] (OCT)** | Detects [[cystoid macular edema]], subretinal fluid, choroidal thickening, epiretinal membranes |
+| **[[Enhanced depth imaging OCT]] (EDI-OCT)** | Measures [[choroidal thickness]]; identifies choroidal masses, pachychoroid spectrum disorders |
+| **[[OCT angiography]] (OCTA)** | Non-invasive visualization of choriocapillaris flow voids, choroidal neovascularization |
+| **[[Fluorescein angiography]] (FA)** | Identifies retinal vascular leakage, [[cystoid macular edema]], vasculitis, disc hyperfluorescence |
+| **[[Indocyanine green angiography]] (ICGA)** | Superior for imaging choroidal vasculature; detects choroidal granulomas, stromal vasculitis (e.g., in [[Vogt-Koyanagi-Harada disease]], [[sarcoidosis]]), and occult CNV |
+| **[[B-scan ultrasonography]]** | Evaluates choroidal masses (acoustic hollowness in melanoma), choroidal detachment, and posterior segment pathology when media are opaque |
+| **[[Ultrasound biomicroscopy]] (UBM)** | High-resolution imaging of the iris, ciliary body, and anterior segment; detects ciliary body tumors, cysts, and cyclodialysis clefts |
+| **[[MRI]] of the orbits** | Characterizes uveal masses (melanoma appears hyperintense on T1, hypointense on T2 due to melanin); evaluates extraocular extension |
+| **[[CT scan]]** | Detects calcification (e.g., [[choroidal osteoma]]) and bony orbital involvement |
+| **[[Fundus autofluorescence]] (FAF)** | Identifies lipofuscin accumulation over choroidal tumors, RPE changes in inflammatory conditions |
 
 ### Laboratory Investigations
 
-Laboratory workup is guided by clinical presentation and is particularly important in cases of recurrent, bilateral, granulomatous, or posterior uveitis:
+For suspected uveitis, a targeted laboratory workup is guided by clinical presentation:
 
-- **[[HLA-B27]]**: Associated with acute anterior uveitis, [[ankylosing spondylitis]], [[reactive arthritis]]
-- **[[Angiotensin-converting enzyme]] (ACE) and [[lysozyme]]**: Elevated in [[sarcoidosis]]
-- **Chest X-ray or CT chest**: Hilar lymphadenopathy (sarcoidosis), pulmonary tuberculosis
-- **[[QuantiFERON-TB Gold]] / [[Tuberculin skin test]]**: Screening for [[tuberculosis]]
-- **[[FTA-ABS]] / [[RPR]]/[[VDRL]]**: Screening for [[syphilis]]
-- **[[Toxoplasma]] IgG/IgM**: [[Toxoplasmosis]]
-- **[[Complete blood count]], [[erythrocyte sedimentation rate]], [[C-reactive protein]]**: General inflammatory markers
-- **[[Antinuclear antibody]] (ANA)**: Particularly in pediatric uveitis associated with [[juvenile idiopathic arthritis]]
-- **[[Aqueous humor]] or [[vitreous]] sampling**: For PCR (herpes viruses, toxoplasma, tuberculosis), cytology (lymphoma vs. uveitis), and antibody coefficient analysis (Goldmann-Witmer coefficient)
+| Suspected Etiology | Investigations |
+|---|---|
+| **[[HLA-B27]]-associated** | [[HLA-B27]] typing, sacroiliac joint radiography |
+| **[[Sarcoidosis]]** | [[ACE level]], [[lysozyme]], chest X-ray or CT, [[gallium scan]] or [[PET-CT]] |
+| **[[Tuberculosis]]** | [[QuantiFERON-TB Gold]], [[tuberculin skin test]], chest imaging |
+| **[[Syphilis]]** | [[FTA-ABS]], [[RPR]]/[[VDRL]] |
+| **[[Toxoplasmosis]]** | [[Toxoplasma IgG/IgM]], [[aqueous humor PCR]] (Goldmann-Witmer coefficient) |
+| **[[Herpetic uveitis]]** | [[Aqueous humor PCR]] for [[HSV]], [[VZV]], [[CMV]] |
+| **[[Behçet disease]]** | Clinical criteria (oral/genital ulcers, skin lesions), [[pathergy test]], [[HLA-B51]] |
+| **[[Vogt-Koyanagi-Harada disease]]** | Clinical criteria, [[lumbar puncture]] (cerebrospinal fluid pleocytosis in acute phase) |
+
+### Biopsy and Cytology
+
+- **[[Fine-needle aspiration biopsy]] (FNAB)**: May be performed for atypical intraocular masses to obtain cytologic and genetic material (e.g., gene expression profiling in uveal melanoma).
+- **[[Aqueous humor]] or [[vitreous]] sampling**: PCR, cytology, and flow cytometry for infectious and masquerade syndromes (e.g., [[primary intraocular lymphoma]]).
 
 ---
 
@@ -200,133 +219,133 @@ Laboratory workup is guided by clinical presentation and is particularly importa
 
 ### Pharmacological Interventions
 
-#### Corticosteroids
+#### Anterior Uveitis
 
-[[Corticosteroids]] remain the mainstay of treatment for non-infectious uveitis, acting by suppressing NF-κB-mediated transcription of pro-inflammatory cytokines.
+- **[[Topical corticosteroids]]**: The mainstay of treatment. [[Prednisolone acetate 1%]] or [[difluprednate 0.05%]] are commonly used, with frequency titrated to the severity of inflammation. Tapering must be gradual to prevent rebound.
+- **[[Cycloplegic/mydriatic agents]]**: [[Cyclopentolate 1%]], [[homatropine 2%–5%]], or [[atropine 1%]] are used to relieve ciliary spasm (reducing pain), prevent and break [[posterior synechiae]], and stabilize the [[blood-aqueous barrier]].
+- **Periocular or intravitreal corticosteroids**: [[Sub-Tenon's triamcinolone acetonide]] or [[intravitreal dexamethasone implant]] ([[Ozurdex]]) for refractory or intermediate/posterior uveitis.
 
-| Route | Examples | Indications |
-|-------|----------|-------------|
-| **Topical** | [[Prednisolone acetate]] 1%, [[difluprednate]] 0.05% | Anterior uveitis |
-| **Periocular injection** | Sub-Tenon's [[triamcinolone acetonide]] | Intermediate/posterior uveitis, CME |
-| **Intravitreal injection** | [[Triamcinolone acetonide]], [[dexamethasone intravitreal implant]] (Ozurdex®) | Posterior uveitis, refractory CME |
-| **Intravitreal sustained-release** | [[Fluocinolone acetonide implant]] (Retisert®, Yutiq®) | Chronic non-infectious posterior uveitis |
-| **Systemic** | [[Prednisone]] (oral), [[methylprednisolone]] (IV pulse) | Severe bilateral or systemic disease-associated uveitis |
+#### Posterior and Intermediate Uveitis
 
-#### Cycloplegic/Mydriatic Agents
+- **Systemic corticosteroids**: [[Oral prednisone]] (typically 1 mg/kg/day with taper) for sight-threatening posterior or panuveitis.
+- **[[Immunomodulatory therapy]] (IMT)**: Steroid-sparing agents are indicated for chronic, recurrent, or bilateral disease, or when corticosteroid side effects are unacceptable.
 
-[[Cyclopentolate]] 1%, [[atropine]] 1%, or [[homatropine]] 2–5% are used in anterior uveitis to:
-- Relieve pain from ciliary spasm
-- Prevent and break [[posterior synechiae]]
-- Stabilize the [[blood-aqueous barrier]]
-
-#### Immunomodulatory Therapy (Steroid-Sparing Agents)
-
-For chronic, recurrent, or sight-threatening uveitis requiring long-term immunosuppression (to avoid chronic corticosteroid side effects), the following agents are employed per a stepladder approach:
-
-| Class | Examples | Mechanism |
-|-------|----------|-----------|
+| Drug Class | Examples | Mechanism |
+|---|---|---|
 | **Antimetabolites** | [[Methotrexate]], [[mycophenolate mofetil]], [[azathioprine]] | Inhibit purine/pyrimidine synthesis; suppress lymphocyte proliferation |
-| **T-cell inhibitors** | [[Cyclosporine A]], [[tacrolimus]] | Inhibit [[calcineurin]], blocking IL-2 production |
+| **T-cell inhibitors** | [[Cyclosporine A]], [[tacrolimus]] | Inhibit [[calcineurin]], blocking IL-2 transcription and T-cell activation |
 | **Alkylating agents** | [[Cyclophosphamide]], [[chlorambucil]] | DNA cross-linking; reserved for severe, refractory disease (e.g., Behçet) |
-| **Biologic agents** | [[Adalimumab]] (anti-TNF-α; FDA-approved for non-infectious intermediate, posterior, and panuveitis), [[infliximab]], [[tocilizumab]] (anti-IL-6R), [[rituximab]] (anti-CD20) | Targeted cytokine or cell-surface receptor blockade |
+| **Biologic agents** | [[Adalimumab]] (anti-TNF-α), [[infliximab]], [[tocilizumab]] (anti-IL-6R), [[rituximab]] (anti-CD20) | Targeted cytokine or cell-surface receptor blockade |
 
-#### Antimicrobial Therapy
+**[[Adalimumab]]** (Humira) is the first FDA-approved biologic for non-infectious intermediate, posterior, and panuveitis and has demonstrated significant efficacy in reducing uveitic flares and corticosteroid dependence (VISUAL I and VISUAL II trials).
 
-Infectious uveitis requires targeted antimicrobial treatment:
-- **[[Toxoplasmosis]]**: [[Pyrimethamine]] + [[sulfadiazine]] + [[folinic acid]] (classic triple therapy); alternatives include [[trimethoprim-sulfamethoxazole]], [[azithromycin]], or [[clindamycin]]
-- **[[Herpetic uveitis]]**: [[Oral valacyclovir]] or [[acyclovir]]; [[intravitreal ganciclovir]] or [[foscarnet]] for CMV retinitis
-- **[[Ocular tuberculosis]]**: Standard anti-tubercular therapy (isoniazid, rifampicin, pyrazinamide, ethambutol) with concurrent corticosteroids
-- **[[Ocular syphilis]]**: IV [[penicillin G]] (neurosyphilis protocol)
-- **[[Endophthalmitis]]**: Intravitreal [[vancomycin]] + [[ceftazidime]] (or [[amikacin]]); systemic antibiotics; possible [[pars plana vitrectomy]]
+#### Infectious Uveitis
 
-### Anti-VEGF Therapy
+- **[[Toxoplasmosis]]**: [[Pyrimethamine]], [[sulfadiazine]], and [[folinic acid]] (classic triple therapy); alternatives include [[trimethoprim-sulfamethoxazole]] or [[azithromycin]] combined with corticosteroids.
+- **[[Herpetic uveitis]]**: [[Oral valacyclovir]] or [[acyclovir]]; [[intravitreal ganciclovir]] or [[foscarnet]] for CMV retinitis.
+- **[[Ocular tuberculosis]]**: Standard anti-tubercular therapy ([[isoniazid]], [[rifampicin]], [[pyrazinamide]], [[ethambutol]]) with adjunctive corticosteroids.
+- **[[Ocular syphilis]]**: [[Intravenous penicillin G]] as per neurosyphilis protocols.
 
-[[Anti-VEGF]] agents ([[ranibizumab]], [[aflibercept]], [[bevacizumab]]) are used for [[choroidal neovascularization]] secondary to uveal tract inflammation, as well as for uveitic [[cystoid macular edema]] refractory to corticosteroids.
+#### Management of Complications
 
-### Surgical and Procedural Interventions
+- **[[Cystoid macular edema]]**: Topical [[NSAIDs]] (e.g., [[nepafenac]], [[ketorolac]]), periocular/intravitreal corticosteroids, [[intravitreal anti-VEGF]] agents, or systemic IMT.
+- **[[Secondary glaucoma]]**: [[Topical IOP-lowering agents]] (avoiding [[prostaglandin analogs]] in active uveitis due to potential pro-inflammatory effects), [[oral acetazolamide]], or surgical intervention ([[trabeculectomy]], [[glaucoma drainage device]]).
+- **[[Cataract]]**: [[Phacoemulsification]] with [[intraocular lens]] implantation after achieving quiescence for ≥3 months; perioperative corticosteroid intensification is essential.
+- **[[Band keratopathy]]**: [[EDTA chelation]] of calcium deposits on the cornea.
 
-| Procedure | Indication |
-|-----------|------------|
-| **[[Pars plana vitrectomy]]** | Diagnostic vitreous biopsy; therapeutic in endophthalmitis, vitreous opacities, epiretinal membrane, tractional retinal detachment |
-| **[[Cataract surgery]]** ([[phacoemulsification]])** | Uveitic cataract; requires meticulous preoperative inflammation control (quiescent for ≥3 months) |
-| **[[Glaucoma surgery]]** ([[trabeculectomy]], [[glaucoma drainage device]])** | Uveitic glaucoma refractory to medical therapy |
-| **[[Plaque brachytherapy]] (e.g., iodine-125)** | Medium-sized [[uveal melanoma]] |
-| **[[Enucleation]]** | Large uveal melanoma; blind painful eye with uncontrolled uveitis |
-| **[[Photodynamic therapy]] (PDT)** | Circumscribed [[choroidal hemangioma]], select cases of CNV |
-| **[[Laser photocoagulation]]** | Peripheral retinal neovascularization secondary to ischemic uveitis; retinal breaks |
-| **[[Proton beam radiotherapy]]** | Uveal melanoma, particularly juxtapapillary or large tumors |
+### Surgical and Interventional Approaches
 
----
+#### Uveal Melanoma
 
-## Prognosis and Complications
+Management of [[uveal melanoma]] depends on tumor size, location, and metastatic risk:
 
-The prognosis of uveal tract disease depends on the etiology, anatomical location, chronicity, and adequacy of treatment. Anterior uveitis generally carries a favorable prognosis with appropriate therapy, while chronic posterior uveitis and panuveitis are associated with higher rates of visual morbidity.
+| Tumor Size | Treatment Options |
+|---|---|
+| **Small** (thickness <2.5 mm, diameter <10 mm) | Observation with serial imaging; [[transpupillary thermotherapy]] (TTT); [[plaque brachytherapy]] |
+| **Medium** (thickness 2.5–10 mm) | **[[Plaque brachytherapy]]** (e.g., [[iodine-125]], [[ruthenium-106]]); [[proton beam radiotherapy]]; [[stereotactic radiosurgery]] |
+| **Large** (thickness >10 mm or diameter >18 mm) | **[[Enucleation]]**; may consider radiation for select cases |
+| **With extraocular extension** | [[Enucleation]] with adjuvant [[external beam radiation therapy]] or [[orbital exenteration]] in advanced cases |
 
-**Major complications of chronic uveal inflammation include:**
+- **[[Plaque brachytherapy]]**: The most common eye-conserving treatment; a radioactive plaque is sutured to the sclera overlying the tumor base for a calculated duration (typically 3–7 days) to deliver ~85 Gy to the tumor apex (COMS study protocols).
+- **Systemic surveillance**: Regular hepatic imaging ([[liver ultrasound]], [[MRI]], or [[LFTs]]) every 6–12 months given the high risk of hepatic metastasis.
+- **Prognostic testing**: [[Gene expression profiling]] (e.g., DecisionDx-UM) and [[cytogenetic analysis]] (monosomy 3, chromosome 8q gain) guide metastatic risk stratification.
 
-- [[Cystoid macular edema]] (leading cause of visual loss in uveitis)
-- [[Secondary cataract]] (posterior subcapsular)
-- [[Secondary glaucoma]] (steroid-induced or inflammatory)
-- [[Band keratopathy]]
-- [[Posterior synechiae]] and [[seclusio pupillae]]
-- [[Epiretinal membrane]]
-- [[Retinal detachment]] (exudative or tractional)
-- [[Optic disc edema]]
-- [[Phthisis bulbi]] (end-stage)
-- [[Hypotony maculopathy]]
+#### Surgical Management of Uveitic Complications
 
-For [[uveal melanoma]], the 5-year mortality rate is approximately 30% for medium-to-large tumors, with hepatic metastasis being the most common cause of death. Regular systemic surveillance (hepatic imaging, liver function tests) is mandatory following treatment.
+- **[[Pars plana vitrectomy]]**: Indicated for non-clearing vitreous opacities, epiretinal membrane, tractional retinal detachment, or diagnostic vitreous biopsy.
+- **[[Glaucoma surgery]]**: [[Ahmed valve]] or [[Baerveldt implant]] preferred over trabeculectomy in uveitic glaucoma due to lower failure rates from scarring.
+- **[[Iris reconstruction]]**: Prosthetic iris devices or suture techniques for traumatic or surgical iris defects causing glare and photophobia.
 
 ---
 
-## Special Considerations
+## Congenital and Developmental Anomalies
 
-### Pediatric Uveitis
+| Anomaly | Description |
+|---|---|
+| **[[Iris coloboma]]** | Keyhole-shaped pupil due to incomplete closure of the embryonic fissure; may be isolated or part of [[CHARGE syndrome]] |
+| **[[Aniridia]]** | Near-complete absence of the iris; associated with [[PAX6]] gene mutations and risk of [[Wilms tumor]] ([[WAGR syndrome]]) |
+| **[[Persistent pupillary membrane]]** | Remnants of the anterior [[tunica vasculosa lentis]] crossing the pupil |
+| **[[Albinism]]** | Reduced or absent uveal pigmentation leading to iris transillumination, photophobia, and [[foveal hypoplasia]] |
+| **[[Heterochromia iridis]]** | Difference in iris color between eyes (heterochromia iridum) or within one eye (sectoral heterochromia); may be congenital or acquired (e.g., [[Fuchs heterochromic iridocyclitis]], [[Horner syndrome]]) |
+| **Choroidal coloboma** | Absence of choroidal tissue inferonasally; may involve the optic nerve and retina |
 
-Uveitis in children warrants special attention due to its often insidious, asymptomatic onset and high complication rate. The most common association is [[juvenile idiopathic arthritis]] (JIA), particularly the oligoarticular subtype in ANA-positive young girls. Screening guidelines recommend slit-lamp examination every 3–4 months in high-risk children. Treatment follows the same stepladder approach, with [[methotrexate]] and [[adalimumab]] being the most commonly used steroid-sparing agents in pediatric populations.
+---
 
-### Uveitis in Pregnancy
+## Uveal Tract and Systemic Disease
 
-Management of uveitis during pregnancy requires careful consideration of teratogenic risks. [[Corticosteroids]] (topical and systemic prednisone) are generally considered safe. [[Methotrexate]] and [[mycophenolate mofetil]] are absolutely contraindicated. [[Azathioprine]] and [[cyclosporine]] may be used with caution under specialist guidance.
+The uveal tract is frequently involved in systemic inflammatory, infectious, and neoplastic conditions, making it a critical "window" to systemic health:
 
-### Masquerade Syndromes
+- **[[Sarcoidosis]]**: Granulomatous anterior uveitis with mutton-fat KPs, iris nodules, [[tent-shaped peripheral anterior synechiae]]; posterior segment findings include periphlebitis ("candle-wax drippings"), choroidal granulomas, and optic disc granulomas.
+- **[[Vogt-Koyanagi-Harada disease]]**: Bilateral granulomatous panuveitis with exudative retinal detachments, disc hyperemia, and choroidal thickening; associated with poliosis, vitiligo, alopecia, and meningismus.
+- **[[Juvenile idiopathic arthritis]] (JIA)**: Chronic, often asymptomatic anterior uveitis, particularly in ANA-positive oligoarticular JIA; requires routine screening.
+- **[[Ankylosing spondylitis]]**: Acute, recurrent, unilateral alternating [[HLA-B27]]-positive anterior uveitis.
+- **[[Behçet disease]]**: Explosive panuveitis with hypopyon, retinal vasculitis, and risk of rapid visual loss.
+- **[[Metastatic disease]]**: The choroid is the most common intraocular site for metastasis, most frequently from [[breast cancer]] (in women) and [[lung cancer]] (in men).
 
-Certain non-inflammatory conditions may mimic uveitis and must be considered in the differential diagnosis. These include [[primary vitreoretinal lymphoma]] (PVRL), [[retinoblastoma]] (in children), [[leukemia]], [[juvenile xanthogranuloma]], retained intraocular foreign body, and [[pigment dispersion syndrome]]. Diagnostic vitreous biopsy with cytology and flow cytometry is essential when lymphoma is suspected.
+---
+
+## Prognosis
+
+The prognosis of uveal tract diseases varies widely:
+
+- **Anterior uveitis**: Generally favorable with prompt treatment; complications such as [[cataract]], [[glaucoma]], and [[band keratopathy]] may develop with chronic or recurrent disease.
+- **Posterior/panuveitis**: Prognosis depends on etiology; sight-threatening complications include [[cystoid macular edema]], [[retinal detachment]], and [[optic neuropathy]].
+- **Uveal melanoma**: Five-year survival is approximately 80% overall, but drops significantly with metastatic disease (median survival ~12 months with hepatic metastases). Advances in [[tebentafusp]] (a bispecific T-cell engager targeting gp100/HLA-A*02:01) have shown improved overall survival in metastatic uveal melanoma.
 
 ---
 
 ## Summary
 
-The uveal tract is a complex, highly vascular, and immunologically active tissue essential for ocular homeostasis. Its three components—the [[iris]], [[ciliary body]], and [[choroid]]—serve distinct yet interrelated functions including light regulation, aqueous humor dynamics, accommodation, and retinal nutrition. Diseases of the uveal tract, particularly [[uveitis]] and [[uveal melanoma]], represent significant causes of visual morbidity and require a systematic approach to diagnosis and management. Advances in [[OCT]], [[OCTA]], [[biologic therapy]], and [[gene expression profiling]] have significantly improved diagnostic precision and therapeutic outcomes in uveal tract disease.
+The **uveal tract** is a complex, highly vascularized, and immunologically active tissue essential for ocular homeostasis, vision, and systemic health surveillance. Its three components—the [[iris]], [[ciliary body]], and [[choroid]]—serve distinct yet interconnected functions in light regulation, aqueous humor dynamics, accommodation, and retinal nutrition. Uveal pathology, particularly [[uveitis]] and [[uveal melanoma]], represents a significant cause of ocular morbidity and potential mortality. A thorough understanding of uveal anatomy, physiology, and pathophysiology is fundamental for every eye care professional. Advances in imaging (OCT, OCTA, ICGA), molecular diagnostics (gene expression profiling), and targeted therapeutics (biologics, immunotherapy) continue to transform the diagnosis and management of uveal tract diseases.
 
 ---
 
 ## References
 
-1. Jabs DA, Nussenblatt RB, Rosenbaum JT; Standardization of Uveitis Nomenclature (SUN) Working Group. Standardization of uveitis nomenclature for reporting clinical data. *Am J Ophthalmol*. 2005;140(3):509-516. [doi:10.1016/j.ajo.2005.03.057](https://doi.org/10.1016/j.ajo.2005.03.057)
+1. Jabs DA, Nussenblatt RB, Rosenbaum JT; Standardization of Uveitis Nomenclature (SUN) Working Group. Standardization of uveitis nomenclature for reporting clinical data. *Am J Ophthalmol*. 2005;140(3):509-516. [https://doi.org/10.1016/j.ajo.2005.03.057](https://doi.org/10.1016/j.ajo.2005.03.057)
 
-2. Forrester JV, Kuffova L, Dick AD. Autoimmunity, autoinflammation, and infection in uveitis. *Am J Ophthalmol*. 2018;189:77-85. [doi:10.1016/j.ajo.2018.02.019](https://doi.org/10.1016/j.ajo.2018.02.019)
+2. Forrester JV, Kuffova L, Dick AD. Autoimmunity, autoinflammation, and infection in uveitis. *Am J Ophthalmol*. 2018;189:77-85. [https://doi.org/10.1016/j.ajo.2018.02.019](https://doi.org/10.1016/j.ajo.2018.02.019)
 
-3. Bowling B. *Kanski's Clinical Ophthalmology: A Systematic Approach*. 9th ed. Elsevier; 2020.
+3. Jaffe GJ, Dick AD, Brézin AP, et al. Adalimumab in patients with active noninfectious uveitis. *N Engl J Med*. 2016;375(10):932-943. (VISUAL I Trial) [https://doi.org/10.1056/NEJMoa1509852](https://doi.org/10.1056/NEJMoa1509852)
 
-4. Yanoff M, Duker JS. *Ophthalmology*. 5th ed. Elsevier; 2019.
+4. Collaborative Ocular Melanoma Study Group. The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates and prognostic factors. *Arch Ophthalmol*. 2006;124(12):1684-1693. [https://doi.org/10.1001/archopht.124.12.1684](https://doi.org/10.1001/archopht.124.12.1684)
 
-5. Shields CL, Shields JA. Uveal melanoma: clinical features, diagnosis, and management. In: Ryan SJ, et al., eds. *Retina*. 6th ed. Elsevier; 2018.
+5. Shields CL, Shields JA. Uveal melanoma: clinical features, diagnosis, and management. In: *Retina*. 6th ed. Ryan SJ, Sadda SR, eds. Elsevier; 2018.
 
-6. Harbour JW, Onken MD, Roberson EDO, et al. Frequent mutation of BAP1 in metastasizing uveal melanomas. *Science*. 2010;330(6009):1410-1413. [doi:10.1126/science.1194472](https://doi.org/10.1126/science.1194472)
+6. Nickla DL, Wallman J. The multifunctional choroid. *Prog Retin Eye Res*. 2010;29(2):144-168. [https://doi.org/10.1016/j.preteyeres.2009.12.002](https://doi.org/10.1016/j.preteyeres.2009.12.002)
 
-7. Jaffe GJ, Dick AD, Brézin AP, et al. Adalimumab in patients with active noninfectious uveitis. *N Engl J Med*. 2016;375(10):932-943. [doi:10.1056/NEJMoa1509852](https://doi.org/10.1056/NEJMoa1509852)
+7. Rosenbaum JT, Bodaghi B, Couto C, et al. New observations and emerging ideas in diagnosis and management of non-infectious uveitis: A review. *Semin Arthritis Rheum*. 2019;49(3):438-443. [https://doi.org/10.1016/j.semarthrit.2019.06.004](https://doi.org/10.1016/j.semarthrit.2019.06.004)
 
-8. Nickla DL, Wallman J. The multifunctional choroid. *Prog Retin Eye Res*. 2010;29(2):144-168. [doi:10.1016/j.preteyeres.2009.12.002](https://doi.org/10.1016/j.preteyeres.2009.12.002)
+8. Nathan P, Hassel JC, Rutkowski P, et al. Overall survival benefit with tebentafusp in metastatic uveal melanoma. *N Engl J Med*. 2021;385(13):1196-1206. [https://doi.org/10.1056/NEJMoa2103485](https://doi.org/10.1056/NEJMoa2103485)
 
-9. American Academy of Ophthalmology. *Basic and Clinical Science Course (BCSC), Section 9: Uveitis and Ocular Inflammation*. 2023-2024 ed. San Francisco: AAO; 2023.
+9. Yanoff M, Duker JS. *Ophthalmology*. 5th ed. Elsevier; 2019. Chapters on Uveal Tract Anatomy, Uveitis, and Intraocular Tumors.
 
-10. Levy-Clarke G, Jabs DA, Read RW, Rosenbaum JT, Vitale A, Van Gelder RN. Expert panel recommendations for the use of anti-tumor necrosis factor biologic agents in patients with ocular inflammatory disorders. *Ophthalmology*. 2014;121(3):785-796. [doi:10.1016/j.ophtha.2013.09.048](https://doi.org/10.1016/j.ophtha.2013.09.048)
+10. Bowling B. *Kanski's Clinical Ophthalmology: A Systematic Approach*. 9th ed. Elsevier; 2020. Chapters 11 (Uveitis) and 20 (Intraocular Tumors).
 
-11. Damato B, Coupland SE. Translating uveal melanoma cytogenetics into clinical care. *Arch Ophthalmol*. 2009;127(4):423-429. [doi:10.1001/archophthalmol.2009.40](https://doi.org/10.1001/archophthalmol.2009.40)
+11. American Academy of Ophthalmology. Basic and Clinical Science Course (BCSC), Section 9: Uveitis and Ocular Inflammation; Section 4: Ophthalmic Pathology and Intraocular Tumors. 2023-2024 Edition. [https://www.aao.org/bcsc](https://www.aao.org/bcsc)
 
-12. Spaide RF, Koizumi H, Pozzoni MC. Enhanced depth imaging spectral-domain optical coherence tomography. *Am J Ophthalmol*. 2008;146(4):496-500. [doi:10.1016/j.ajo.2008.05.032](https://doi.org/10.1016/j.ajo.2008.05.032)
+12. Van Gelder RN, Streilein JW. Anterior chamber-associated immune deviation (ACAID) and its role in ocular immune privilege. *Int Rev Immunol*. 1999;18(3):191-225.
 
 ---
 
-*This article is intended for eye care professionals and students of [[optometry]] and [[ophthalmology]]. Clinical decisions should be made in conjunction with current evidence-based guidelines and specialist consultation where appropriate.*
+*This article is intended for eye care professionals and students of [[optometry]] and [[ophthalmology]]. Clinical decisions should be made in conjunction with current evidence-based guidelines and individual patient assessment.*
